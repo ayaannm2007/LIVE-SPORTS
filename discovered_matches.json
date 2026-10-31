@@ -1,0 +1,89 @@
+{
+  "source_url": "http://www.fawanews.sc/",
+  "http_status": 200,
+  "page_title": "FawaNews - Your Home of Sport",
+  "candidate_count": 16,
+  "candidates": [
+    {
+      "title": "Australia vs Cook Islands",
+      "category_hint": "Rugby World Cup 10:05",
+      "url": "http://www.fawanews.sc/Australia vs Cook Islands.html"
+    },
+    {
+      "title": "Erzurumspor vs Corum",
+      "category_hint": "Turkey Super Lig 11:30",
+      "url": "http://www.fawanews.sc/Erzurumspor vs Corum.html"
+    },
+    {
+      "title": "Granada CF W vs Atl Madrid W",
+      "category_hint": "Spanish Liga F Women 12:00",
+      "url": "http://www.fawanews.sc/Granada CF W vs Atl Madrid W.html"
+    },
+    {
+      "title": "Hai Phong vs Truong Tuoi Dong Nai",
+      "category_hint": "Vietnam V League 12:00",
+      "url": "http://www.fawanews.sc/Hai Phong vs Truong Tuoi Dong Nai.html"
+    },
+    {
+      "title": "Livyi Bereg vs Bukovyna",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/Livyi Bereg vs Bukovyna.html"
+    },
+    {
+      "title": "Macarthur FC vs WS Wanderers",
+      "category_hint": "Australia A-League 09:30",
+      "url": "http://www.fawanews.sc/Macarthur FC vs WS Wanderers.html"
+    },
+    {
+      "title": "Nam Dinh vs Viettel",
+      "category_hint": "Vietnam V League 12:00",
+      "url": "http://www.fawanews.sc/Nam Dinh vs Viettel.html"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka",
+      "category_hint": "Cricket 09:00",
+      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
+    },
+    {
+      "title": "Pattani vs Rasisalai Utd",
+      "category_hint": "Thailand Thai league 1 12:00",
+      "url": "http://www.fawanews.sc/Pattani vs Rasisalai Utd.html"
+    },
+    {
+      "title": "Popesti Leordeni vs Metalul Buzau",
+      "category_hint": "Romania Liga 2 10:00",
+      "url": "http://www.fawanews.sc/Popesti Leordeni vs Metalul Buzau.html"
+    },
+    {
+      "title": "Song Lam Nghe An vs Cong An Ha Noi",
+      "category_hint": "Vietnam V League 12:00",
+      "url": "http://www.fawanews.sc/Song Lam Nghe An vs Cong An Ha Noi.html"
+    },
+    {
+      "title": "South Africa vs Australia",
+      "category_hint": "Cricket 09:00",
+      "url": "http://www.fawanews.sc/South Africa vs Australia.html"
+    },
+    {
+      "title": "Valencia W vs Eibar W",
+      "category_hint": "Spanish Liga F Women 12:00",
+      "url": "http://www.fawanews.sc/Valencia W vs Eibar W.html"
+    },
+    {
+      "title": "Vanspor FK vs Sariyer",
+      "category_hint": "Turkey Lig 1 11:30",
+      "url": "http://www.fawanews.sc/Vanspor FK vs Sariyer.html"
+    },
+    {
+      "title": "Veres-Rivne vs Ch Odesa",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/Veres-Rivne vs Ch Odesa.html"
+    },
+    {
+      "title": "Wisla Plock vs Piast Gliwice",
+      "category_hint": "Poland Ekstraklasa 12:15",
+      "url": "http://www.fawanews.sc/Wisla Plock vs Piast Gliwice.html"
+    }
+  ],
+  "note": "Candidate links only; verify titles and permissions before use."
+}
