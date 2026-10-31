@@ -1,21 +1,19 @@
 # LIVE-SPORTS
 
-Automatic public match-page discovery and M3U generation for **authorized streams**.
+GitHub Actions playlist generator for operator-provided authorized streams.
 
-The workflow runs every 30 minutes or manually from **Actions → Update live sports playlist → Run workflow**.
+## Current behavior
+- `streams.json` contains a mapping of titles to stream URLs, optionally with a `referer` property.
+- `generate.py` creates `live_sports.m3u` and `matches.json` from those configured entries.
+- `.github/workflows/update-playlist.yml` is scheduled every 30 minutes and supports manual dispatch.
+- The playlist uses `|Referer=...` syntax for configured referers; this is player-specific, not universal M3U syntax.
+- The sample HLS URL was supplied by the operator. Its current availability and associated match are **not verified**.
 
-- `generate.py` extracts match titles and page links from the source homepage.
-- `matches.json` is the discovered match metadata.
-- `streams.json` maps match-page URLs to actual HLS/DASH URLs you have permission to distribute.
-- `live_sports.m3u` includes only mapped, authorized streams. HTML page links are not playable video URLs.
+## Not implemented
+This project does **not yet** discover FawaNews matches, open match pages, click video players, or extract streams automatically. These features require site access, testing, and an authorized source. No GitHub Actions run has yet been confirmed.
 
-Example of `streams.json` format (illustrative only, not a working stream):
-```json
-{
-  "https://example.com/Team-A-vs-Team-B.html": "https://streams.example.com/authorized/live.m3u8"
-}
-```
+## Playlist
+https://raw.githubusercontent.com/ayaannm2007/LIVE-SPORTS/main/live_sports.m3u
 
-Playlist URL: https://raw.githubusercontent.com/ayaannm2007/LIVE-SPORTS/main/live_sports.m3u
-
-**Note:** Source site accessibility and HTML structure are not yet verified. If the site blocks GitHub Actions, or uses JavaScript-only listings, the scraper will need adjustment. The workflow fails without overwriting the existing playlist if the source fetch fails. No DRM keys or access tokens should be committed.
+## Test
+Open GitHub → Actions → Update live sports playlist → Run workflow on `main`. Check logs and generated files. Do not commit credentials, session cookies, or DRM keys.
