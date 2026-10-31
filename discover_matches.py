@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 def main():
-    source_url = os.environ.get("FAWANEWS_URL", "").strip()
+    source_url = os.environ.get("FAWANEWS_URL", "http://www.fawanews.sc/").strip()
     if not source_url:
         raise SystemExit("Set FAWANEWS_URL to the permitted live-match listing URL.")
     parsed = urlparse(source_url)
