@@ -7,6 +7,7 @@ listing URL that the site operator permits you to access.
 import json
 import os
 import re
+from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -35,10 +36,13 @@ def main():
         label = " ".join(anchor.get_text(" ", strip=True).split())
         if not label or urlparse(href).netloc != parsed.netloc:
             continue
-        # Keep likely event links; review results before enabling automation.
-        hint = (label + " " + urlparse(href).path).lower()
-        if re.search(r"match|live|cricket|football|vs|v-", hint):
-            candidates[href] = label
+        # Match pages normally contain a team-v-team slug; skip news/article links.
+        path_label = urlparse(href).path.rsplit("/", 1)[-1]
+        stem = re.sub(r"\\.html?$", "", path_label, flags=re.IGNORECASE)
+        if not re.search(r"\\s+vs?\\s+", stem, flags=re.IGNORECASE):
+            continue
+        title = re.sub(r"\\s+", " ", stem.replace("_", " ")).strip()
+        candidates[href] = {"title": title, "category_hint": label}
 
     result = {
         "source_url": source_url,
@@ -46,11 +50,14 @@ def main():
         "page_title": soup.title.get_text(" ", strip=True) if soup.title else "",
         "candidate_count": len(candidates),
         "candidates": [
-            {"title": title, "url": url}
-            for url, title in sorted(candidates.items())
+            {"title": item["title"], "category_hint": item["category_hint"], "url": url}
+            for url, item in sorted(candidates.items())
         ],
         "note": "Candidate links only; verify titles and permissions before use.",
     }
+    Path("discovered_matches.json").write_text(
+        json.dumps(result, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+    )
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 
