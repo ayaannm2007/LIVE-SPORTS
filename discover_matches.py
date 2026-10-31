@@ -38,10 +38,10 @@ def main():
             continue
         # Match pages normally contain a team-v-team slug; skip news/article links.
         path_label = urlparse(href).path.rsplit("/", 1)[-1]
-        stem = re.sub(r"\\.html?$", "", path_label, flags=re.IGNORECASE)
-        if not re.search(r"\\s+vs?\\s+", stem, flags=re.IGNORECASE):
+        stem = re.sub(r"\.html?$", "", path_label, flags=re.IGNORECASE)
+        if not re.search(r"\s+vs?\s+", stem, flags=re.IGNORECASE):
             continue
-        title = re.sub(r"\\s+", " ", stem.replace("_", " ")).strip()
+        title = re.sub(r"\s+", " ", stem.replace("_", " ")).strip()
         candidates[href] = {"title": title, "category_hint": label}
 
     result = {
@@ -56,7 +56,7 @@ def main():
         "note": "Candidate links only; verify titles and permissions before use.",
     }
     Path("discovered_matches.json").write_text(
-        json.dumps(result, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+        json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
