@@ -1,1 +1,6 @@
-{}
+{
+  "FawaNews sample stream (match not verified)": {
+    "url": "http://193.47.62.50/hls/bbbbAA.m3u8",
+    "referer": "http://www.fawanews.sc/"
+  }
+}
