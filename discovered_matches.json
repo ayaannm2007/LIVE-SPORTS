@@ -2,7 +2,7 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 22,
+  "candidate_count": 17,
   "candidates": [
     {
       "title": "Anaheim Ducks vs Ottawa Senators",
@@ -15,29 +15,14 @@
       "url": "http://www.fawanews.sc/Cruz Azul vs Club Leon.html"
     },
     {
+      "title": "Golden State Warriors vs Los Angeles Clippers --- CH 2",
+      "category_hint": "NBA Basketball 02:30",
+      "url": "http://www.fawanews.sc/Golden State Warriors vs Los Angeles Clippers --- CH 2.html"
+    },
+    {
       "title": "Golden State Warriors vs Los Angeles Clippers",
       "category_hint": "NBA Basketball 02:30",
       "url": "http://www.fawanews.sc/Golden State Warriors vs Los Angeles Clippers.html"
-    },
-    {
-      "title": "Gotham W vs Utah Royals W",
-      "category_hint": "USA NWSL Women 23:00",
-      "url": "http://www.fawanews.sc/Gotham W vs Utah Royals W.html"
-    },
-    {
-      "title": "Ind Medellin vs Alianza",
-      "category_hint": "Colombia Primera A 00:10",
-      "url": "http://www.fawanews.sc/Ind Medellin vs Alianza.html"
-    },
-    {
-      "title": "Indiana Pacers vs Brooklyn Nets --- CH 2",
-      "category_hint": "NBA Basketball 23:00",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs Brooklyn Nets --- CH 2.html"
-    },
-    {
-      "title": "Indiana Pacers vs Brooklyn Nets",
-      "category_hint": "NBA Basketball 23:00",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs Brooklyn Nets.html"
     },
     {
       "title": "Lanus vs Gimnasia Mendoza",
@@ -45,14 +30,14 @@
       "url": "http://www.fawanews.sc/Lanus vs Gimnasia Mendoza.html"
     },
     {
-      "title": "Liverpool M vs Juventud",
-      "category_hint": "Uruguay Liga AUF 00:00",
-      "url": "http://www.fawanews.sc/Liverpool M vs Juventud.html"
-    },
-    {
       "title": "Los Angeles FC vs Minnesota United",
       "category_hint": "MLS League 02:30",
       "url": "http://www.fawanews.sc/Los Angeles FC vs Minnesota United.html"
+    },
+    {
+      "title": "Los Angeles Lakers vs Toronto Raptors --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Los Angeles Lakers vs Toronto Raptors --- CH 2.html"
     },
     {
       "title": "Los Angeles Lakers vs Toronto Raptors",
@@ -85,11 +70,6 @@
       "url": "http://www.fawanews.sc/New York Rangers vs Edmonton Oilers.html"
     },
     {
-      "title": "Philadelphia Flyers vs Utah Mammoth",
-      "category_hint": "NHL Hockey 22:00",
-      "url": "http://www.fawanews.sc/Philadelphia Flyers vs Utah Mammoth.html"
-    },
-    {
       "title": "Portland Timbers vs Houston Dynamo",
       "category_hint": "MLS League 03:45",
       "url": "http://www.fawanews.sc/Portland Timbers vs Houston Dynamo.html"
@@ -98,11 +78,6 @@
       "title": "Santa Fe vs Once Caldas",
       "category_hint": "Colombia Copa 02:15",
       "url": "http://www.fawanews.sc/Santa Fe vs Once Caldas.html"
-    },
-    {
-      "title": "Santos Laguna vs Necaxa",
-      "category_hint": "Mexico Liga MX 00:00",
-      "url": "http://www.fawanews.sc/Santos Laguna vs Necaxa.html"
     },
     {
       "title": "Universitario de Vinto vs Always Ready",
