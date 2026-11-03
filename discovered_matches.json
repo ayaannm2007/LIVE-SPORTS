@@ -2,17 +2,117 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 2,
+  "candidate_count": 22,
   "candidates": [
     {
-      "title": "Newcastle Jets vs Shanghai Port --- CH 2",
-      "category_hint": "AFC Champions League 08:45",
-      "url": "http://www.fawanews.sc/Newcastle Jets vs Shanghai Port --- CH 2.html"
+      "title": "AEL Limassol vs Iraklis Yerolakkou",
+      "category_hint": "Cyprus League 17:00",
+      "url": "http://www.fawanews.sc/AEL Limassol vs Iraklis Yerolakkou.html"
     },
     {
-      "title": "Newcastle Jets vs Shanghai Port",
-      "category_hint": "AFC Champions League 08:45",
-      "url": "http://www.fawanews.sc/Newcastle Jets vs Shanghai Port.html"
+      "title": "Abu Qir Semad vs Ceramica Cleopatra",
+      "category_hint": "Egypt Premier League 16:00",
+      "url": "http://www.fawanews.sc/Abu Qir Semad vs Ceramica Cleopatra.html"
+    },
+    {
+      "title": "Al Hussein vs Al Shorta",
+      "category_hint": "AFC Champions League II 17:00",
+      "url": "http://www.fawanews.sc/Al Hussein vs Al Shorta.html"
+    },
+    {
+      "title": "Al Qanah vs Modern Sport",
+      "category_hint": "Egypt Premier League 16:00",
+      "url": "http://www.fawanews.sc/Al Qanah vs Modern Sport.html"
+    },
+    {
+      "title": "Al Shabab vs Shab Hadramaut",
+      "category_hint": "Gulf Club Champions League 15:45",
+      "url": "http://www.fawanews.sc/Al Shabab vs Shab Hadramaut.html"
+    },
+    {
+      "title": "Al Zawraa vs Al Riffa",
+      "category_hint": "Gulf Club Champions League 15:30",
+      "url": "http://www.fawanews.sc/Al Zawraa vs Al Riffa.html"
+    },
+    {
+      "title": "Atl Madrid U19 vs Bayern Munchen U19",
+      "category_hint": "UEFA Youth League 16:00",
+      "url": "http://www.fawanews.sc/Atl Madrid U19 vs Bayern Munchen U19.html"
+    },
+    {
+      "title": "Barcelona U19 vs Aston Villa U19",
+      "category_hint": "UEFA Youth League 16:00",
+      "url": "http://www.fawanews.sc/Barcelona U19 vs Aston Villa U19.html"
+    },
+    {
+      "title": "Chrobry Glogow vs Arka Gdynia",
+      "category_hint": "Poland Division 1 18:00",
+      "url": "http://www.fawanews.sc/Chrobry Glogow vs Arka Gdynia.html"
+    },
+    {
+      "title": "East Bengal vs Al Seeb",
+      "category_hint": "AFC Champions League II 14:45",
+      "url": "http://www.fawanews.sc/East Bengal vs Al Seeb.html"
+    },
+    {
+      "title": "Esteghlal FC vs Shamal",
+      "category_hint": "AFC Champions League 17:00",
+      "url": "http://www.fawanews.sc/Esteghlal FC vs Shamal.html"
+    },
+    {
+      "title": "Feyenoord U19 vs Inter U19",
+      "category_hint": "UEFA Youth League 14:00",
+      "url": "http://www.fawanews.sc/Feyenoord U19 vs Inter U19.html"
+    },
+    {
+      "title": "Galatasaray vs Stuttgart",
+      "category_hint": "UEFA Champions League 18:45",
+      "url": "http://www.fawanews.sc/Galatasaray vs Stuttgart.html"
+    },
+    {
+      "title": "Istra 1961 vs Neretva",
+      "category_hint": "Croatia Cup 17:00",
+      "url": "http://www.fawanews.sc/Istra 1961 vs Neretva.html"
+    },
+    {
+      "title": "Karmiotissa vs Ermis",
+      "category_hint": "Cyprus League 18:00",
+      "url": "http://www.fawanews.sc/Karmiotissa vs Ermis.html"
+    },
+    {
+      "title": "Lyngby vs Randers FC",
+      "category_hint": "Denmark Cup 18:00",
+      "url": "http://www.fawanews.sc/Lyngby vs Randers FC.html"
+    },
+    {
+      "title": "Mamelodi Sundowns vs Golden Arrows",
+      "category_hint": "South Africa Betway Premiership 18:00",
+      "url": "http://www.fawanews.sc/Mamelodi Sundowns vs Golden Arrows.html"
+    },
+    {
+      "title": "Manchester Utd U19 vs AS Roma U19",
+      "category_hint": "UEFA Youth League 14:00",
+      "url": "http://www.fawanews.sc/Manchester Utd U19 vs AS Roma U19.html"
+    },
+    {
+      "title": "Mbeya City vs Singida Black Stars",
+      "category_hint": "Tanzania Ligi Kuu Bara 14:00",
+      "url": "http://www.fawanews.sc/Mbeya City vs Singida Black Stars.html"
+    },
+    {
+      "title": "Mladost Zdralovi vs Slaven Belupo",
+      "category_hint": "Croatia Cup 14:00",
+      "url": "http://www.fawanews.sc/Mladost Zdralovi vs Slaven Belupo.html"
+    },
+    {
+      "title": "Pogon Siedlce vs Ruch Chorzow",
+      "category_hint": "Poland Division 1 18:00",
+      "url": "http://www.fawanews.sc/Pogon Siedlce vs Ruch Chorzow.html"
+    },
+    {
+      "title": "Shakhtar Donetsk vs Sporting Lisbon",
+      "category_hint": "UEFA Champions League 18:45",
+      "url": "http://www.fawanews.sc/Shakhtar Donetsk vs Sporting Lisbon.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
