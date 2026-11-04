@@ -2,97 +2,117 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 18,
+  "candidate_count": 22,
   "candidates": [
     {
-      "title": "AEK Athens vs Real Madrid --- CH 2",
-      "category_hint": "UEFA Champions League 18:45",
-      "url": "http://www.fawanews.sc/AEK Athens vs Real Madrid --- CH 2.html"
+      "title": "Ameliano vs Guarani",
+      "category_hint": "Paraguay Copa 23:00",
+      "url": "http://www.fawanews.sc/Ameliano vs Guarani.html"
     },
     {
-      "title": "AEK Athens vs Real Madrid",
-      "category_hint": "UEFA Champions League 18:45",
-      "url": "http://www.fawanews.sc/AEK Athens vs Real Madrid.html"
+      "title": "Athletico-PR vs Vasco",
+      "category_hint": "Brazil Serie A 23:30",
+      "url": "http://www.fawanews.sc/Athletico-PR vs Vasco.html"
     },
     {
-      "title": "Al Ettifaq vs Ajman",
-      "category_hint": "Gulf Club Champions League 17:00",
-      "url": "http://www.fawanews.sc/Al Ettifaq vs Ajman.html"
+      "title": "Botafogo RJ vs Atletico-MG",
+      "category_hint": "Brazil Serie A 01:30",
+      "url": "http://www.fawanews.sc/Botafogo RJ vs Atletico-MG.html"
     },
     {
-      "title": "Al Kuwait vs Nasaf Qarshi",
-      "category_hint": "AFC Champions League II 17:00",
-      "url": "http://www.fawanews.sc/Al Kuwait vs Nasaf Qarshi.html"
+      "title": "Buffalo Sabres vs Ottawa Senators",
+      "category_hint": "NHL Hockey 01:30",
+      "url": "http://www.fawanews.sc/Buffalo Sabres vs Ottawa Senators.html"
     },
     {
-      "title": "Al Muharraq vs Al Jazira",
-      "category_hint": "AFC Champions League II 19:15",
-      "url": "http://www.fawanews.sc/Al Muharraq vs Al Jazira.html"
+      "title": "CS Sacramento vs Toledo",
+      "category_hint": "NCAA American Football 01:00",
+      "url": "http://www.fawanews.sc/CS Sacramento vs Toledo.html"
     },
     {
-      "title": "Al Rayyan vs Al Nahda",
-      "category_hint": "AFC Champions League II 17:00",
-      "url": "http://www.fawanews.sc/Al Rayyan vs Al Nahda.html"
+      "title": "Cucuta vs Santa Fe",
+      "category_hint": "Colombia Primera A 00:30",
+      "url": "http://www.fawanews.sc/Cucuta vs Santa Fe.html"
     },
     {
-      "title": "Al Taawon vs Al Faisaly Amman",
-      "category_hint": "AFC Champions League II 19:15",
-      "url": "http://www.fawanews.sc/Al Taawon vs Al Faisaly Amman.html"
+      "title": "Eastern Michigan vs Central Michigan",
+      "category_hint": "NCAA American Football 01:30",
+      "url": "http://www.fawanews.sc/Eastern Michigan vs Central Michigan.html"
     },
     {
-      "title": "Al Wahda vs Al Khalidiyah",
-      "category_hint": "AFC Champions League II 17:00",
-      "url": "http://www.fawanews.sc/Al Wahda vs Al Khalidiyah.html"
+      "title": "Ferro Carril vs Nacional",
+      "category_hint": "Uruguay Copa 01:00",
+      "url": "http://www.fawanews.sc/Ferro Carril vs Nacional.html"
     },
     {
-      "title": "Artis Brno vs Bohemians",
-      "category_hint": "Czech Chance Liga 18:00",
-      "url": "http://www.fawanews.sc/Artis Brno vs Bohemians.html"
+      "title": "Flamengo RJ vs Gremio",
+      "category_hint": "Brazil Serie A 23:30",
+      "url": "http://www.fawanews.sc/Flamengo RJ vs Gremio.html"
     },
     {
-      "title": "Banska Bystrica vs Trencin",
-      "category_hint": "Slovakia Cup 17:00",
-      "url": "http://www.fawanews.sc/Banska Bystrica vs Trencin.html"
+      "title": "Florida Panthers vs Chicago Blackhawks",
+      "category_hint": "NHL Hockey 01:30",
+      "url": "http://www.fawanews.sc/Florida Panthers vs Chicago Blackhawks.html"
     },
     {
-      "title": "Brazil U17 W vs Nigeria U17 W",
-      "category_hint": "Women U17 World Cup 19:00",
-      "url": "http://www.fawanews.sc/Brazil U17 W vs Nigeria U17 W.html"
+      "title": "LDU Quito vs U Catolica",
+      "category_hint": "Ecuador Copa 01:00",
+      "url": "http://www.fawanews.sc/LDU Quito vs U Catolica.html"
     },
     {
-      "title": "Doxa vs Ol Nicosia",
-      "category_hint": "Cyprus Cup 17:00",
-      "url": "http://www.fawanews.sc/Doxa vs Ol Nicosia.html"
+      "title": "Libertad Asuncion vs Cerro Porteno",
+      "category_hint": "Paraguay Copa 23:00",
+      "url": "http://www.fawanews.sc/Libertad Asuncion vs Cerro Porteno.html"
     },
     {
-      "title": "Erbil vs Kazma SC",
-      "category_hint": "Gulf Club Champions League 18:00",
-      "url": "http://www.fawanews.sc/Erbil vs Kazma SC.html"
+      "title": "Los Angeles Kings vs San Jose Sharks",
+      "category_hint": "NHL Hockey 04:00",
+      "url": "http://www.fawanews.sc/Los Angeles Kings vs San Jose Sharks.html"
     },
     {
-      "title": "Fenerbahce vs Liverpool --- CH 2",
-      "category_hint": "UEFA Champions League 18:45",
-      "url": "http://www.fawanews.sc/Fenerbahce vs Liverpool --- CH 2.html"
+      "title": "Massachusetts vs Ball State",
+      "category_hint": "NCAA American Football 01:00",
+      "url": "http://www.fawanews.sc/Massachusetts vs Ball State.html"
     },
     {
-      "title": "Fenerbahce vs Liverpool",
-      "category_hint": "UEFA Champions League 18:45",
-      "url": "http://www.fawanews.sc/Fenerbahce vs Liverpool.html"
+      "title": "Millonarios vs America De Cali",
+      "category_hint": "Colombia Primera A 02:30",
+      "url": "http://www.fawanews.sc/Millonarios vs America De Cali.html"
     },
     {
-      "title": "Legia vs Galatasaray",
-      "category_hint": "Basketball Champions League 18:00",
-      "url": "http://www.fawanews.sc/Legia vs Galatasaray.html"
+      "title": "Nacional Potosi vs Oriente Petrolero",
+      "category_hint": "Bolivia Division Profesional 23:00",
+      "url": "http://www.fawanews.sc/Nacional Potosi vs Oriente Petrolero.html"
     },
     {
-      "title": "Rennes vs Olympiacos --- ENG",
-      "category_hint": "UEFA Europa League 16:30",
-      "url": "http://www.fawanews.sc/Rennes vs Olympiacos --- ENG.html"
+      "title": "Olimpia Asuncion vs Recoleta",
+      "category_hint": "Paraguay Copa 01:15",
+      "url": "http://www.fawanews.sc/Olimpia Asuncion vs Recoleta.html"
     },
     {
-      "title": "Szombathely vs AEK Athens",
-      "category_hint": "Basketball Champions League 18:00",
-      "url": "http://www.fawanews.sc/Szombathely vs AEK Athens.html"
+      "title": "Sao Paulo vs Corinthians",
+      "category_hint": "Brazil Serie A 01:30",
+      "url": "http://www.fawanews.sc/Sao Paulo vs Corinthians.html"
+    },
+    {
+      "title": "Seattle Kraken vs Calgary Flames",
+      "category_hint": "NHL Hockey 04:00",
+      "url": "http://www.fawanews.sc/Seattle Kraken vs Calgary Flames.html"
+    },
+    {
+      "title": "The Strongest vs Always Ready Always",
+      "category_hint": "Bolivia Division Profesional 01:30",
+      "url": "http://www.fawanews.sc/The Strongest vs Always Ready Always.html"
+    },
+    {
+      "title": "U de Deportes vs Sport Boys",
+      "category_hint": "Peru Liga 1 Apertura 02:30",
+      "url": "http://www.fawanews.sc/U de Deportes vs Sport Boys.html"
+    },
+    {
+      "title": "Union La Calera vs Coquimbo",
+      "category_hint": "Chile Copa 23:00",
+      "url": "http://www.fawanews.sc/Union La Calera vs Coquimbo.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
