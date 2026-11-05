@@ -2,22 +2,92 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 18,
+  "candidate_count": 51,
   "candidates": [
     {
-      "title": "Afghanistan vs Zimbabwe",
-      "category_hint": "Cricket 10:00",
-      "url": "http://www.fawanews.sc/Afghanistan vs Zimbabwe.html"
+      "title": "AS Monaco vs Nordsjaelland --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/AS Monaco vs Nordsjaelland --- CH 2.html"
     },
     {
-      "title": "Bhutan vs Bangladesh",
-      "category_hint": "SAAF Championship 15:00",
-      "url": "http://www.fawanews.sc/Bhutan vs Bangladesh.html"
+      "title": "AS Monaco vs Nordsjaelland",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/AS Monaco vs Nordsjaelland.html"
     },
     {
-      "title": "Bunyodkor vs Xorazm Urganch",
-      "category_hint": "Uzbekistan Super League 14:30",
-      "url": "http://www.fawanews.sc/Bunyodkor vs Xorazm Urganch.html"
+      "title": "AZ Alkmaar vs Juventus --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/AZ Alkmaar vs Juventus --- CH 2.html"
+    },
+    {
+      "title": "AZ Alkmaar vs Juventus",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/AZ Alkmaar vs Juventus.html"
+    },
+    {
+      "title": "Aarhus vs Braga --- CH 2",
+      "category_hint": "UEFA Conference League 18:45",
+      "url": "http://www.fawanews.sc/Aarhus vs Braga --- CH 2.html"
+    },
+    {
+      "title": "Agen vs Biarritz Olympique",
+      "category_hint": "France Rugby Pro D2 21:00",
+      "url": "http://www.fawanews.sc/Agen vs Biarritz Olympique.html"
+    },
+    {
+      "title": "Aldosivi vs River Plate",
+      "category_hint": "Argentina Liga Profesional 19:00",
+      "url": "http://www.fawanews.sc/Aldosivi vs River Plate.html"
+    },
+    {
+      "title": "Anadolu Efes vs Paris",
+      "category_hint": "Basketball Euroleague 18:15",
+      "url": "http://www.fawanews.sc/Anadolu Efes vs Paris.html"
+    },
+    {
+      "title": "Apoel vs Omonia",
+      "category_hint": "Cyprus Futsal 18:30",
+      "url": "http://www.fawanews.sc/Apoel vs Omonia.html"
+    },
+    {
+      "title": "Bayer Leverkusen vs Marseille --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Bayer Leverkusen vs Marseille --- CH 2.html"
+    },
+    {
+      "title": "Bayer Leverkusen vs Marseille",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Bayer Leverkusen vs Marseille.html"
+    },
+    {
+      "title": "Benfica vs Lech Poznan --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Benfica vs Lech Poznan --- CH 2.html"
+    },
+    {
+      "title": "Benfica vs Lech Poznan",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Benfica vs Lech Poznan.html"
+    },
+    {
+      "title": "Celta Vigo vs Royale Union SG --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Celta Vigo vs Royale Union SG --- CH 2.html"
+    },
+    {
+      "title": "Celta Vigo vs Royale Union SG",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Celta Vigo vs Royale Union SG.html"
+    },
+    {
+      "title": "Celtic vs Besiktas --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Celtic vs Besiktas --- CH 2.html"
+    },
+    {
+      "title": "Celtic vs Besiktas",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Celtic vs Besiktas.html"
     },
     {
       "title": "Chindia Targoviste vs Popesti Leordeni",
@@ -25,54 +95,84 @@
       "url": "http://www.fawanews.sc/Chindia Targoviste vs Popesti Leordeni.html"
     },
     {
-      "title": "Churchill Brothers vs North East Utd",
-      "category_hint": "India ISL League 12:30",
-      "url": "http://www.fawanews.sc/Churchill Brothers vs North East Utd.html"
+      "title": "FC Copenhagen vs Iberia 1999 --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/FC Copenhagen vs Iberia 1999 --- CH 2.html"
     },
     {
-      "title": "El Gouna vs El-Shorta",
-      "category_hint": "Egypt Cup 13:30",
-      "url": "http://www.fawanews.sc/El Gouna vs El-Shorta.html"
+      "title": "FC Copenhagen vs Iberia 1999",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/FC Copenhagen vs Iberia 1999.html"
     },
     {
-      "title": "Kitchee vs Phnom Penh Crown --- CH 2",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Kitchee vs Phnom Penh Crown --- CH 2.html"
+      "title": "FC Twente vs Pafos --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/FC Twente vs Pafos --- CH 2.html"
     },
     {
-      "title": "Kitchee vs Phnom Penh Crown",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Kitchee vs Phnom Penh Crown.html"
+      "title": "FC Twente vs Pafos",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/FC Twente vs Pafos.html"
     },
     {
-      "title": "Kuching City FC vs Gangwon",
-      "category_hint": "AFC Champions League II 13:15",
-      "url": "http://www.fawanews.sc/Kuching City FC vs Gangwon.html"
+      "title": "Fenerbahce vs Baskonia",
+      "category_hint": "Basketball Euroleague 19:00",
+      "url": "http://www.fawanews.sc/Fenerbahce vs Baskonia.html"
     },
     {
-      "title": "Lion City vs Adelaide United --- CH 2",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Lion City vs Adelaide United --- CH 2.html"
+      "title": "Getafe vs Brighton --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Getafe vs Brighton --- CH 2.html"
     },
     {
-      "title": "Lion City vs Adelaide United",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Lion City vs Adelaide United.html"
+      "title": "Getafe vs Brighton",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Getafe vs Brighton.html"
     },
     {
-      "title": "Machida vs Shanghai Shenhua --- CH 2",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Machida vs Shanghai Shenhua --- CH 2.html"
+      "title": "H Beer Sheva vs OFI Crete --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/H Beer Sheva vs OFI Crete --- CH 2.html"
     },
     {
-      "title": "Machida vs Shanghai Shenhua",
-      "category_hint": "AFC Champions League II 11:00",
-      "url": "http://www.fawanews.sc/Machida vs Shanghai Shenhua.html"
+      "title": "H Beer Sheva vs OFI Crete",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/H Beer Sheva vs OFI Crete.html"
     },
     {
-      "title": "Mohun Bagan vs Odisha FC",
-      "category_hint": "India ISL League 15:00",
-      "url": "http://www.fawanews.sc/Mohun Bagan vs Odisha FC.html"
+      "title": "Hapoel Tel Aviv vs Barcelona",
+      "category_hint": "Basketball Euroleague 19:45",
+      "url": "http://www.fawanews.sc/Hapoel Tel Aviv vs Barcelona.html"
+    },
+    {
+      "title": "Lito vs Wanderers",
+      "category_hint": "Uruguay Cup 20:00",
+      "url": "http://www.fawanews.sc/Lito vs Wanderers.html"
+    },
+    {
+      "title": "Lugano vs Kauno Zalgiris --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Lugano vs Kauno Zalgiris --- CH 2.html"
+    },
+    {
+      "title": "Lugano vs Kauno Zalgiris",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Lugano vs Kauno Zalgiris.html"
+    },
+    {
+      "title": "Lyon-Villeurbanne vs Bayern Munchen",
+      "category_hint": "Basketball Euroleague 20:00",
+      "url": "http://www.fawanews.sc/Lyon-Villeurbanne vs Bayern Munchen.html"
+    },
+    {
+      "title": "Midtjylland vs Ajax --- CH 2",
+      "category_hint": "UEFA Conference League 18:45",
+      "url": "http://www.fawanews.sc/Midtjylland vs Ajax --- CH 2.html"
+    },
+    {
+      "title": "Midtjylland vs Ajax",
+      "category_hint": "UEFA Conference League 18:45",
+      "url": "http://www.fawanews.sc/Midtjylland vs Ajax.html"
     },
     {
       "title": "National Bank Egypt vs Bur Fouad",
@@ -80,19 +180,84 @@
       "url": "http://www.fawanews.sc/National Bank Egypt vs Bur Fouad.html"
     },
     {
-      "title": "Pakistan vs India",
-      "category_hint": "SAAF Championship 10:30",
-      "url": "http://www.fawanews.sc/Pakistan vs India.html"
+      "title": "Olimpia Milano vs Valencia",
+      "category_hint": "Basketball Euroleague 20:30",
+      "url": "http://www.fawanews.sc/Olimpia Milano vs Valencia.html"
     },
     {
-      "title": "Pathum United vs Tai Po",
-      "category_hint": "AFC Champions League II 13:15",
-      "url": "http://www.fawanews.sc/Pathum United vs Tai Po.html"
+      "title": "Omonia 29th May vs Polemidion",
+      "category_hint": "Cyprus Cup 19:00",
+      "url": "http://www.fawanews.sc/Omonia 29th May vs Polemidion.html"
     },
     {
-      "title": "Svay Rieng vs Tampines",
-      "category_hint": "AFC Champions League II 13:15",
-      "url": "http://www.fawanews.sc/Svay Rieng vs Tampines.html"
+      "title": "Panathinaikos vs CSKA Sofia --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Panathinaikos vs CSKA Sofia --- CH 2.html"
+    },
+    {
+      "title": "Panathinaikos vs CSKA Sofia",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Panathinaikos vs CSKA Sofia.html"
+    },
+    {
+      "title": "Riga FC vs Jablonec --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Riga FC vs Jablonec --- CH 2.html"
+    },
+    {
+      "title": "Riga FC vs Jablonec",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Riga FC vs Jablonec.html"
+    },
+    {
+      "title": "STVV vs Brann --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/STVV vs Brann --- CH 2.html"
+    },
+    {
+      "title": "STVV vs Brann",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/STVV vs Brann.html"
+    },
+    {
+      "title": "Sunderland vs Dinamo Zagreb --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Sunderland vs Dinamo Zagreb --- CH 2.html"
+    },
+    {
+      "title": "Sunderland vs Dinamo Zagreb",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Sunderland vs Dinamo Zagreb.html"
+    },
+    {
+      "title": "Thun vs Hearts --- CH 2",
+      "category_hint": "UEFA Conference League 18:45",
+      "url": "http://www.fawanews.sc/Thun vs Hearts --- CH 2.html"
+    },
+    {
+      "title": "Thun vs Hearts",
+      "category_hint": "UEFA Conference League 18:45",
+      "url": "http://www.fawanews.sc/Thun vs Hearts.html"
+    },
+    {
+      "title": "Torreense vs Ararat-Armenia --- CH 2",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Torreense vs Ararat-Armenia --- CH 2.html"
+    },
+    {
+      "title": "Torreense vs Ararat-Armenia",
+      "category_hint": "UEFA Europa League 21:00",
+      "url": "http://www.fawanews.sc/Torreense vs Ararat-Armenia.html"
+    },
+    {
+      "title": "Univ Craiova vs Egnatia --- CH 2",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Univ Craiova vs Egnatia --- CH 2.html"
+    },
+    {
+      "title": "Univ Craiova vs Egnatia",
+      "category_hint": "UEFA Conference League 21:00",
+      "url": "http://www.fawanews.sc/Univ Craiova vs Egnatia.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
