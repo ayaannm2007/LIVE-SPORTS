@@ -2,8 +2,13 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 32,
+  "candidate_count": 23,
   "candidates": [
+    {
+      "title": "Afghanistan vs Zimbabwe",
+      "category_hint": "Cricket 07:00",
+      "url": "http://www.fawanews.sc/Afghanistan vs Zimbabwe.html"
+    },
     {
       "title": "Alianza vs Llaneros",
       "category_hint": "Colombia Primera A 02:15",
@@ -15,11 +20,6 @@
       "url": "http://www.fawanews.sc/Anaheim Ducks vs Pittsburgh Penguins.html"
     },
     {
-      "title": "Blooming vs Oriente Petrolero",
-      "category_hint": "Bolivia Division Profesional 00:30",
-      "url": "http://www.fawanews.sc/Blooming vs Oriente Petrolero.html"
-    },
-    {
       "title": "Boxing Turhan vs Baumgardner",
       "category_hint": "Boxing --:--",
       "url": "http://www.fawanews.sc/Boxing_Turhan vs Baumgardner.html"
@@ -28,16 +28,6 @@
       "title": "Calgary Flames vs Philadelphia Flyers",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Calgary Flames vs Philadelphia Flyers.html"
-    },
-    {
-      "title": "Ceara vs America MG",
-      "category_hint": "Brazil Serie B 23:15",
-      "url": "http://www.fawanews.sc/Ceara vs America MG.html"
-    },
-    {
-      "title": "Central Cordoba vs Lanus",
-      "category_hint": "Argentina Liga Profesional 23:30",
-      "url": "http://www.fawanews.sc/Central Cordoba vs Lanus.html"
     },
     {
       "title": "Club Leon vs Guadalajara Chivas",
@@ -55,34 +45,19 @@
       "url": "http://www.fawanews.sc/Dallas Mavericks vs Brooklyn Nets.html"
     },
     {
-      "title": "Deportes Tolima vs Millonarios",
-      "category_hint": "Colombia Primera A 00:10",
-      "url": "http://www.fawanews.sc/Deportes Tolima vs Millonarios.html"
-    },
-    {
-      "title": "Deportivo Garcilaso vs Comerciantes Unidos",
-      "category_hint": "Peru Liga 1 Apertura 00:00",
-      "url": "http://www.fawanews.sc/Deportivo Garcilaso vs Comerciantes Unidos.html"
-    },
-    {
-      "title": "Detroit Pistons vs Los Angeles Lakers --- CH 2",
-      "category_hint": "NBA Basketball 00:00",
-      "url": "http://www.fawanews.sc/Detroit Pistons vs Los Angeles Lakers --- CH 2.html"
-    },
-    {
-      "title": "Detroit Pistons vs Los Angeles Lakers",
-      "category_hint": "NBA Basketball 00:00",
-      "url": "http://www.fawanews.sc/Detroit Pistons vs Los Angeles Lakers.html"
-    },
-    {
-      "title": "Goias vs Ponte Preta",
-      "category_hint": "Brazil Serie B 23:15",
-      "url": "http://www.fawanews.sc/Goias vs Ponte Preta.html"
+      "title": "Los Angeles Clippers vs New Orleans Pelicans --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Los Angeles Clippers vs New Orleans Pelicans --- CH 2.html"
     },
     {
       "title": "Los Angeles Clippers vs New Orleans Pelicans",
       "category_hint": "NBA Basketball 03:00",
       "url": "http://www.fawanews.sc/Los Angeles Clippers vs New Orleans Pelicans.html"
+    },
+    {
+      "title": "Milwaukee Bucks vs Boston Celtics --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Milwaukee Bucks vs Boston Celtics --- CH 2.html"
     },
     {
       "title": "Milwaukee Bucks vs Boston Celtics",
@@ -110,24 +85,9 @@
       "url": "http://www.fawanews.sc/NFL_Chicago Bears vs Tampa Bay Buccaneers_2.html"
     },
     {
-      "title": "NFL Los Angeles Chargers vs Houston Texans",
-      "category_hint": "NFL American Football 22:05",
-      "url": "http://www.fawanews.sc/NFL_Los Angeles Chargers vs Houston Texans.html"
-    },
-    {
-      "title": "NFL New England Patriots vs Green Bay Packers",
-      "category_hint": "NFL American Football 22:25",
-      "url": "http://www.fawanews.sc/NFL_New England Patriots vs Green Bay Packers.html"
-    },
-    {
-      "title": "NFL San Francisco 49ers vs Las Vegas Raiders",
-      "category_hint": "NFL American Football 22:25",
-      "url": "http://www.fawanews.sc/NFL_San Francisco 49ers vs Las Vegas Raiders.html"
-    },
-    {
-      "title": "NFL Seattle Seahawks vs Arizona Cardinals",
-      "category_hint": "NFL American Football 22:25",
-      "url": "http://www.fawanews.sc/NFL_Seattle Seahawks vs Arizona Cardinals.html"
+      "title": "Pakistan vs Sri Lanka",
+      "category_hint": "Cricket 06:00",
+      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
     },
     {
       "title": "Queretaro vs Puebla",
@@ -135,24 +95,19 @@
       "url": "http://www.fawanews.sc/Queretaro vs Puebla.html"
     },
     {
+      "title": "Sacramento Kings vs Miami Heat --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Sacramento Kings vs Miami Heat --- CH 2.html"
+    },
+    {
       "title": "Sacramento Kings vs Miami Heat",
       "category_hint": "NBA Basketball 03:00",
       "url": "http://www.fawanews.sc/Sacramento Kings vs Miami Heat.html"
     },
     {
-      "title": "Sportivo Trinidense vs Ameliano",
-      "category_hint": "Paraguay Copa 23:30",
-      "url": "http://www.fawanews.sc/Sportivo Trinidense vs Ameliano.html"
-    },
-    {
       "title": "Toronto Maple Leafs vs New Jersey Devils",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Toronto Maple Leafs vs New Jersey Devils.html"
-    },
-    {
-      "title": "U De Concepcion vs OHiggins",
-      "category_hint": "Chile Liga de Primera 00:00",
-      "url": "http://www.fawanews.sc/U De Concepcion vs OHiggins.html"
     },
     {
       "title": "U de Deportes vs Moquegua",
