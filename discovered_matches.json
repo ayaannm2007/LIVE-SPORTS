@@ -2,72 +2,37 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 13,
+  "candidate_count": 6,
   "candidates": [
     {
-      "title": "Chapelton vs Racing United",
-      "category_hint": "Jamaica Premier League 23:05",
-      "url": "http://www.fawanews.sc/Chapelton vs Racing United.html"
+      "title": "Arab Contractors vs WE SC",
+      "category_hint": "Egypt Cup 16:00",
+      "url": "http://www.fawanews.sc/Arab Contractors vs WE SC.html"
     },
     {
-      "title": "Edmonton Oilers vs New York Rangers",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/Edmonton Oilers vs New York Rangers.html"
+      "title": "Balkan vs PAOK",
+      "category_hint": "Basketball Eurocup 18:00",
+      "url": "http://www.fawanews.sc/Balkan vs PAOK.html"
     },
     {
-      "title": "Golden State Warriors vs New Orleans Pelicans --- CH 2",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Golden State Warriors vs New Orleans Pelicans --- CH 2.html"
+      "title": "Cluj-Napoca vs Turk Telekom",
+      "category_hint": "Basketball Eurocup 18:00",
+      "url": "http://www.fawanews.sc/Cluj-Napoca vs Turk Telekom.html"
     },
     {
-      "title": "Golden State Warriors vs New Orleans Pelicans",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Golden State Warriors vs New Orleans Pelicans.html"
+      "title": "KooKoo vs Eisbaren Berlin",
+      "category_hint": "Hockey Champions League 17:30",
+      "url": "http://www.fawanews.sc/KooKoo vs Eisbaren Berlin.html"
     },
     {
-      "title": "NFL Minnesota Vikings vs Buffalo Bills --- CH 2",
-      "category_hint": "NFL American Football 02:15",
-      "url": "http://www.fawanews.sc/NFL_Minnesota Vikings vs Buffalo Bills --- CH 2.html"
+      "title": "Neptunas vs Slask Wroclaw",
+      "category_hint": "Basketball Eurocup 18:00",
+      "url": "http://www.fawanews.sc/Neptunas vs Slask Wroclaw.html"
     },
     {
-      "title": "NFL Minnesota Vikings vs Buffalo Bills",
-      "category_hint": "NFL American Football 02:15",
-      "url": "http://www.fawanews.sc/NFL_Minnesota Vikings vs Buffalo Bills.html"
-    },
-    {
-      "title": "New Zealand vs India",
-      "category_hint": "Cricket --:--",
-      "url": "http://www.fawanews.sc/New Zealand vs India.html"
-    },
-    {
-      "title": "Pakistan vs Sri Lanka",
-      "category_hint": "Cricket --:--",
-      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
-    },
-    {
-      "title": "Phoenix Suns vs San Antonio Spurs --- CH 2",
-      "category_hint": "NBA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Phoenix Suns vs San Antonio Spurs --- CH 2.html"
-    },
-    {
-      "title": "Phoenix Suns vs San Antonio Spurs",
-      "category_hint": "NBA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Phoenix Suns vs San Antonio Spurs.html"
-    },
-    {
-      "title": "San Jose Sharks vs New York Islanders",
-      "category_hint": "NHL Hockey 04:00",
-      "url": "http://www.fawanews.sc/San Jose Sharks vs New York Islanders.html"
-    },
-    {
-      "title": "Sp Luqueno vs 2 de Mayo",
-      "category_hint": "Paraguay Copa 23:30",
-      "url": "http://www.fawanews.sc/Sp Luqueno vs 2 de Mayo.html"
-    },
-    {
-      "title": "Vancouver Canucks vs Philadelphia Flyers",
-      "category_hint": "NHL Hockey 03:30",
-      "url": "http://www.fawanews.sc/Vancouver Canucks vs Philadelphia Flyers.html"
+      "title": "Sabah BC vs Trabzonspor",
+      "category_hint": "Basketball Champions League 17:00",
+      "url": "http://www.fawanews.sc/Sabah BC vs Trabzonspor.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
