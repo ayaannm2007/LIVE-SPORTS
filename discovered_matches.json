@@ -2,7 +2,7 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 21,
+  "candidate_count": 23,
   "candidates": [
     {
       "title": "Akron vs Western Michigan",
@@ -20,19 +20,14 @@
       "url": "http://www.fawanews.sc/Columbus Blue Jackets vs Florida Panthers.html"
     },
     {
-      "title": "Florida State vs Florida",
-      "category_hint": "NCAA Basketball 00:00",
-      "url": "http://www.fawanews.sc/Florida State vs Florida.html"
+      "title": "Kansas Jayhawks vs Kentucky",
+      "category_hint": "NCAA Basketball 03:30",
+      "url": "http://www.fawanews.sc/Kansas Jayhawks vs Kentucky.html"
     },
     {
-      "title": "Inter Bogota vs America De Cali",
-      "category_hint": "Colombia Primera A 00:30",
-      "url": "http://www.fawanews.sc/Inter Bogota vs America De Cali.html"
-    },
-    {
-      "title": "Liverpool M vs Juventud",
-      "category_hint": "Uruguay Cup 01:00",
-      "url": "http://www.fawanews.sc/Liverpool M vs Juventud.html"
+      "title": "Kansas State vs Creighton",
+      "category_hint": "NCAA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Kansas State vs Creighton.html"
     },
     {
       "title": "Los Angeles Kings vs Nashville Predators",
@@ -50,16 +45,6 @@
       "url": "http://www.fawanews.sc/Montreal Canadiens vs Minnesota Wild.html"
     },
     {
-      "title": "New York Knicks vs Milwaukee Bucks --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/New York Knicks vs Milwaukee Bucks --- CH 2.html"
-    },
-    {
-      "title": "New York Knicks vs Milwaukee Bucks",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/New York Knicks vs Milwaukee Bucks.html"
-    },
-    {
       "title": "Once Caldas vs Atl Nacional",
       "category_hint": "Colombia Primera A 02:30",
       "url": "http://www.fawanews.sc/Once Caldas vs Atl Nacional.html"
@@ -70,9 +55,14 @@
       "url": "http://www.fawanews.sc/Ottawa Senators vs Washington Capitals.html"
     },
     {
-      "title": "Philadelphia 76ers vs Boston Celtics",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Philadelphia 76ers vs Boston Celtics.html"
+      "title": "Pakistan vs Sri Lanka1",
+      "category_hint": "Cricket 06:00",
+      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka1.html"
+    },
+    {
+      "title": "Phoenix Suns vs Los Angeles Clippers --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Phoenix Suns vs Los Angeles Clippers --- CH 2.html"
     },
     {
       "title": "Phoenix Suns vs Los Angeles Clippers",
@@ -80,9 +70,19 @@
       "url": "http://www.fawanews.sc/Phoenix Suns vs Los Angeles Clippers.html"
     },
     {
+      "title": "Portland Trail Blazers vs Oklahoma City Thunder --- CH 3",
+      "category_hint": "NBA Basketball 05:00",
+      "url": "http://www.fawanews.sc/Portland Trail Blazers vs Oklahoma City Thunder --- CH 3.html"
+    },
+    {
       "title": "Portland Trail Blazers vs Oklahoma City Thunder",
       "category_hint": "NBA Basketball 05:00",
       "url": "http://www.fawanews.sc/Portland Trail Blazers vs Oklahoma City Thunder.html"
+    },
+    {
+      "title": "Sacramento Kings vs Orlando Magic --- CH 2",
+      "category_hint": "NBA Basketball 04:00",
+      "url": "http://www.fawanews.sc/Sacramento Kings vs Orlando Magic --- CH 2.html"
     },
     {
       "title": "Sacramento Kings vs Orlando Magic",
@@ -100,9 +100,19 @@
       "url": "http://www.fawanews.sc/Toronto Maple Leafs vs Colorado Avalanche.html"
     },
     {
+      "title": "Utah Jazz vs Miami Heat --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Utah Jazz vs Miami Heat --- CH 2.html"
+    },
+    {
       "title": "Utah Jazz vs Miami Heat",
       "category_hint": "NBA Basketball 03:00",
       "url": "http://www.fawanews.sc/Utah Jazz vs Miami Heat.html"
+    },
+    {
+      "title": "Virginia vs Bucknell",
+      "category_hint": "NCAA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Virginia vs Bucknell.html"
     },
     {
       "title": "Winnipeg Jets vs New Jersey Devils",
