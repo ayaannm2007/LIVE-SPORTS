@@ -2,52 +2,202 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 9,
+  "candidate_count": 39,
   "candidates": [
     {
-      "title": "Comoros vs Congo",
-      "category_hint": "Africa Cup of Nations 14:00",
-      "url": "http://www.fawanews.sc/Comoros vs Congo.html"
+      "title": "Anadolu Efes vs Virtus Bologna",
+      "category_hint": "Basketball Euroleague 18:30",
+      "url": "http://www.fawanews.sc/Anadolu Efes vs Virtus Bologna.html"
     },
     {
-      "title": "Iraq vs Lebanon",
-      "category_hint": "Friendly Match 16:00",
-      "url": "http://www.fawanews.sc/Iraq vs Lebanon.html"
+      "title": "Andorra vs Gibraltar",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Andorra vs Gibraltar.html"
     },
     {
-      "title": "Mozambique vs Ethiopia",
-      "category_hint": "Africa Cup of Nations 14:00",
-      "url": "http://www.fawanews.sc/Mozambique vs Ethiopia.html"
+      "title": "BIK Karlskoga vs AIK",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/BIK Karlskoga vs AIK.html"
     },
     {
-      "title": "Pakistan vs Sri Lanka 3",
-      "category_hint": "Cricket --:--",
-      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka_3.html"
+      "title": "Bermuda vs Saint Lucia",
+      "category_hint": "CONCACAF Nations League 20:00",
+      "url": "http://www.fawanews.sc/Bermuda vs Saint Lucia.html"
     },
     {
-      "title": "Qatar vs Australia",
-      "category_hint": "Friendly Match 15:45",
-      "url": "http://www.fawanews.sc/Qatar vs Australia.html"
+      "title": "Bulgaria vs Iceland",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Bulgaria vs Iceland.html"
     },
     {
-      "title": "Saudi Arabia vs South Korea",
-      "category_hint": "Friendly Match 15:30",
-      "url": "http://www.fawanews.sc/Saudi Arabia vs South Korea.html"
+      "title": "Denmark U21 vs Netherlands U21",
+      "category_hint": "Euro U21 Qualification 18:30",
+      "url": "http://www.fawanews.sc/Denmark U21 vs Netherlands U21.html"
     },
     {
-      "title": "Singapore vs Paraguay",
-      "category_hint": "Friendly Match 13:00",
-      "url": "http://www.fawanews.sc/Singapore vs Paraguay.html"
+      "title": "Egypt vs Malawi",
+      "category_hint": "Africa Cup of Nations 20:00",
+      "url": "http://www.fawanews.sc/Egypt vs Malawi.html"
     },
     {
-      "title": "United Arab Emirates vs Honduras",
-      "category_hint": "Friendly Match 15:15",
-      "url": "http://www.fawanews.sc/United Arab Emirates vs Honduras.html"
+      "title": "England U21 vs Portugal U21",
+      "category_hint": "Friendly Match 20:30",
+      "url": "http://www.fawanews.sc/England U21 vs Portugal U21.html"
     },
     {
-      "title": "Zambia vs Burundi",
-      "category_hint": "Africa Cup of Nations 14:00",
-      "url": "http://www.fawanews.sc/Zambia vs Burundi.html"
+      "title": "Finland U21 vs Ireland U21",
+      "category_hint": "Euro U21 Qualification 17:15",
+      "url": "http://www.fawanews.sc/Finland U21 vs Ireland U21.html"
+    },
+    {
+      "title": "France U21 vs Italy U21",
+      "category_hint": "Friendly Match 18:30",
+      "url": "http://www.fawanews.sc/France U21 vs Italy U21.html"
+    },
+    {
+      "title": "France vs South Africa",
+      "category_hint": "Rugby Nations Championship 21:10",
+      "url": "http://www.fawanews.sc/France vs South Africa.html"
+    },
+    {
+      "title": "Germany U21 vs Belgium U21",
+      "category_hint": "Friendly Match 18:00",
+      "url": "http://www.fawanews.sc/Germany U21 vs Belgium U21.html"
+    },
+    {
+      "title": "Grenada vs Saint Kitts and Nevis",
+      "category_hint": "CONCACAF Nations League 21:00",
+      "url": "http://www.fawanews.sc/Grenada vs Saint Kitts and Nevis.html"
+    },
+    {
+      "title": "Kuwait vs Syria",
+      "category_hint": "Friendly Match 17:30",
+      "url": "http://www.fawanews.sc/Kuwait vs Syria.html"
+    },
+    {
+      "title": "Leganes vs Burgos CF",
+      "category_hint": "Spanish Segunda Liga 20:30",
+      "url": "http://www.fawanews.sc/Leganes vs Burgos CF.html"
+    },
+    {
+      "title": "Liechtenstein vs Azerbaijan",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Liechtenstein vs Azerbaijan.html"
+    },
+    {
+      "title": "Luxembourg vs Estonia",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Luxembourg vs Estonia.html"
+    },
+    {
+      "title": "Lyon-Villeurbanne vs Besiktas",
+      "category_hint": "Basketball Euroleague 20:30",
+      "url": "http://www.fawanews.sc/Lyon-Villeurbanne vs Besiktas.html"
+    },
+    {
+      "title": "Mali vs Rwanda",
+      "category_hint": "Africa Cup of Nations 20:00",
+      "url": "http://www.fawanews.sc/Mali vs Rwanda.html"
+    },
+    {
+      "title": "Modo vs Ostersund",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Modo vs Ostersund.html"
+    },
+    {
+      "title": "Moldova vs Kazakhstan --- CH 2",
+      "category_hint": "UEFA Nations League 18:00",
+      "url": "http://www.fawanews.sc/Moldova vs Kazakhstan --- CH 2.html"
+    },
+    {
+      "title": "Moldova vs Kazakhstan",
+      "category_hint": "UEFA Nations League 18:00",
+      "url": "http://www.fawanews.sc/Moldova vs Kazakhstan.html"
+    },
+    {
+      "title": "Montevideo City vs Racing Montevideo",
+      "category_hint": "Uruguay Liga AUF 21:00",
+      "url": "http://www.fawanews.sc/Montevideo City vs Racing Montevideo.html"
+    },
+    {
+      "title": "Morocco vs Niger",
+      "category_hint": "Africa Cup of Nations 21:00",
+      "url": "http://www.fawanews.sc/Morocco vs Niger.html"
+    },
+    {
+      "title": "Nantes W vs Lens W",
+      "category_hint": "France Premiere Ligue Women 19:00",
+      "url": "http://www.fawanews.sc/Nantes W vs Lens W.html"
+    },
+    {
+      "title": "Netherlands vs Greece",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Netherlands vs Greece.html"
+    },
+    {
+      "title": "Nybro vs Kalmar",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Nybro vs Kalmar.html"
+    },
+    {
+      "title": "Oskarshamn vs Vimmerby",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Oskarshamn vs Vimmerby.html"
+    },
+    {
+      "title": "Panathinaikos vs Barcelona",
+      "category_hint": "Basketball Euroleague 20:15",
+      "url": "http://www.fawanews.sc/Panathinaikos vs Barcelona.html"
+    },
+    {
+      "title": "Poland U21 vs Norway U21",
+      "category_hint": "Friendly Match 17:30",
+      "url": "http://www.fawanews.sc/Poland U21 vs Norway U21.html"
+    },
+    {
+      "title": "Puerto Rico vs Dominica",
+      "category_hint": "CONCACAF Nations League 20:00",
+      "url": "http://www.fawanews.sc/Puerto Rico vs Dominica.html"
+    },
+    {
+      "title": "Salamanca vs Celta Vigo",
+      "category_hint": "Spanish Copa del Rey 21:00",
+      "url": "http://www.fawanews.sc/Salamanca vs Celta Vigo.html"
+    },
+    {
+      "title": "Scotland vs North Macedonia",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Scotland vs North Macedonia.html"
+    },
+    {
+      "title": "Serbia vs Germany",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Serbia vs Germany.html"
+    },
+    {
+      "title": "Slovakia vs Faroe Islands",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Slovakia vs Faroe Islands.html"
+    },
+    {
+      "title": "Slovenia vs Switzerland",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Slovenia vs Switzerland.html"
+    },
+    {
+      "title": "Sodertalje vs Almtuna",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Sodertalje vs Almtuna.html"
+    },
+    {
+      "title": "Vasteras vs Leksand",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Vasteras vs Leksand.html"
+    },
+    {
+      "title": "Visby Roma vs Mora",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Visby Roma vs Mora.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
