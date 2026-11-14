@@ -2,32 +2,22 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 26,
+  "candidate_count": 29,
   "candidates": [
     {
-      "title": "Argentina vs Uruguay --- CH 2",
-      "category_hint": "Friendly Match 00:00",
-      "url": "http://www.fawanews.sc/Argentina vs Uruguay --- CH 2.html"
+      "title": "Albirex Niigata vs Tegevajaro Miyazaki",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Albirex Niigata vs Tegevajaro Miyazaki.html"
     },
     {
-      "title": "Argentina vs Uruguay",
-      "category_hint": "Friendly Match 00:00",
-      "url": "http://www.fawanews.sc/Argentina vs Uruguay.html"
+      "title": "Carlton Blues W vs Hawthorn Hawks W",
+      "category_hint": "AFL Aussie Rules 09:15",
+      "url": "http://www.fawanews.sc/Carlton Blues W vs Hawthorn Hawks W.html"
     },
     {
-      "title": "Chicago Bulls vs Atlanta Hawks",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Chicago Bulls vs Atlanta Hawks.html"
-    },
-    {
-      "title": "Colombia vs Chile --- CH 2",
-      "category_hint": "Friendly Match 01:00",
-      "url": "http://www.fawanews.sc/Colombia vs Chile --- CH 2.html"
-    },
-    {
-      "title": "Colombia vs Chile",
-      "category_hint": "Friendly Match 01:00",
-      "url": "http://www.fawanews.sc/Colombia vs Chile.html"
+      "title": "Central Coast Mariners W vs Perth W",
+      "category_hint": "Australia A-League 07:00",
+      "url": "http://www.fawanews.sc/Central Coast Mariners W vs Perth W.html"
     },
     {
       "title": "Colorado Buffaloes vs Houston",
@@ -35,14 +25,19 @@
       "url": "http://www.fawanews.sc/Colorado Buffaloes vs Houston.html"
     },
     {
-      "title": "Ecuador vs Costa Rica --- CH 2",
-      "category_hint": "Friendly Match 01:00",
-      "url": "http://www.fawanews.sc/Ecuador vs Costa Rica --- CH 2.html"
+      "title": "Fujieda MYFC vs Kofu",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Fujieda MYFC vs Kofu.html"
     },
     {
-      "title": "Ecuador vs Costa Rica",
-      "category_hint": "Friendly Match 01:00",
-      "url": "http://www.fawanews.sc/Ecuador vs Costa Rica.html"
+      "title": "Geelong Cats W vs Sydney Swans W",
+      "category_hint": "AFL Aussie Rules 06:05",
+      "url": "http://www.fawanews.sc/Geelong Cats W vs Sydney Swans W.html"
+    },
+    {
+      "title": "Guatemala vs Canada --- CH 2",
+      "category_hint": "CONCACAF Nations League 03:00",
+      "url": "http://www.fawanews.sc/Guatemala vs Canada --- CH 2.html"
     },
     {
       "title": "Guatemala vs Canada",
@@ -50,19 +45,19 @@
       "url": "http://www.fawanews.sc/Guatemala vs Canada.html"
     },
     {
+      "title": "Houston Rockets vs Utah Jazz --- CH 2",
+      "category_hint": "NBA Basketball 02:30",
+      "url": "http://www.fawanews.sc/Houston Rockets vs Utah Jazz --- CH 2.html"
+    },
+    {
       "title": "Houston Rockets vs Utah Jazz",
       "category_hint": "NBA Basketball 02:30",
       "url": "http://www.fawanews.sc/Houston Rockets vs Utah Jazz.html"
     },
     {
-      "title": "Indiana Pacers vs New York Knicks --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs New York Knicks --- CH 2.html"
-    },
-    {
-      "title": "Indiana Pacers vs New York Knicks",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs New York Knicks.html"
+      "title": "Los Angeles Clippers vs Oklahoma City Thunder --- CH 2",
+      "category_hint": "NBA Basketball 04:30",
+      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Oklahoma City Thunder --- CH 2.html"
     },
     {
       "title": "Los Angeles Clippers vs Oklahoma City Thunder",
@@ -70,29 +65,39 @@
       "url": "http://www.fawanews.sc/Los Angeles Clippers vs Oklahoma City Thunder.html"
     },
     {
-      "title": "Miami Heat vs Cleveland Cavaliers",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Miami Heat vs Cleveland Cavaliers.html"
+      "title": "Melbourne City W vs Newcastle W",
+      "category_hint": "Australia A-League 05:00",
+      "url": "http://www.fawanews.sc/Melbourne City W vs Newcastle W.html"
     },
     {
-      "title": "Montserrat vs Nicaragua",
-      "category_hint": "CONCACAF Nations League 01:00",
-      "url": "http://www.fawanews.sc/Montserrat vs Nicaragua.html"
+      "title": "Melbourne Renegades vs Sydney Sixers",
+      "category_hint": "Cricket WBBL 05:35",
+      "url": "http://www.fawanews.sc/Melbourne Renegades vs Sydney Sixers.html"
     },
     {
-      "title": "New Orleans Pelicans vs Memphis Grizzlies",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Memphis Grizzlies.html"
+      "title": "Melbourne Victory W vs Adelaide W",
+      "category_hint": "Australia A-League 05:00",
+      "url": "http://www.fawanews.sc/Melbourne Victory W vs Adelaide W.html"
     },
     {
-      "title": "Orlando Magic vs Milwaukee Bucks --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Orlando Magic vs Milwaukee Bucks --- CH 2.html"
+      "title": "Oita Trinita vs Tochigi City",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Oita Trinita vs Tochigi City.html"
     },
     {
-      "title": "Orlando Magic vs Milwaukee Bucks",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Orlando Magic vs Milwaukee Bucks.html"
+      "title": "Omiya Ardija vs Montedio Yamagata",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Omiya Ardija vs Montedio Yamagata.html"
+    },
+    {
+      "title": "Perth Scorchers vs Adelaide Strikers",
+      "category_hint": "Cricket WBBL 09:05",
+      "url": "http://www.fawanews.sc/Perth Scorchers vs Adelaide Strikers.html"
+    },
+    {
+      "title": "Peru vs Bolivia --- CH 2",
+      "category_hint": "Friendly Match 02:00",
+      "url": "http://www.fawanews.sc/Peru vs Bolivia --- CH 2.html"
     },
     {
       "title": "Peru vs Bolivia",
@@ -100,9 +105,9 @@
       "url": "http://www.fawanews.sc/Peru vs Bolivia.html"
     },
     {
-      "title": "Pittsburgh vs Florida State",
-      "category_hint": "NCAA American Football 01:00",
-      "url": "http://www.fawanews.sc/Pittsburgh vs Florida State.html"
+      "title": "Sacramento Kings vs Portland Trail Blazers --- CH 2",
+      "category_hint": "NBA Basketball 04:00",
+      "url": "http://www.fawanews.sc/Sacramento Kings vs Portland Trail Blazers --- CH 2.html"
     },
     {
       "title": "Sacramento Kings vs Portland Trail Blazers",
@@ -110,14 +115,24 @@
       "url": "http://www.fawanews.sc/Sacramento Kings vs Portland Trail Blazers.html"
     },
     {
-      "title": "Saint Martin vs El Salvador",
-      "category_hint": "CONCACAF Nations League 00:00",
-      "url": "http://www.fawanews.sc/Saint Martin vs El Salvador.html"
+      "title": "San Antonio Spurs vs Golden State Warriors --- CH 2",
+      "category_hint": "NBA Basketball 03:30",
+      "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors --- CH 2.html"
+    },
+    {
+      "title": "San Antonio Spurs vs Golden State Warriors. --- CH html",
+      "category_hint": "NBA Basketball 03:30",
+      "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors. --- CH html"
     },
     {
       "title": "San Antonio Spurs vs Golden State Warriors",
-      "category_hint": "NBA Basketball 03:30",
+      "category_hint": "San Antonio Spurs vs Golden State Warriors --- CH 5 NBA Basketball 03:30",
       "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors.html"
+    },
+    {
+      "title": "Shonan Bellmare vs Yokohama FC",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Shonan Bellmare vs Yokohama FC.html"
     },
     {
       "title": "UCLA vs Illinois",
