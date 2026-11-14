@@ -2,152 +2,132 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 29,
+  "candidate_count": 25,
   "candidates": [
     {
-      "title": "Albirex Niigata vs Tegevajaro Miyazaki",
-      "category_hint": "Japan J2 League 06:00",
-      "url": "http://www.fawanews.sc/Albirex Niigata vs Tegevajaro Miyazaki.html"
+      "title": "AS Roma W vs Parma W",
+      "category_hint": "Italy Women Serie A 15:00",
+      "url": "http://www.fawanews.sc/AS Roma W vs Parma W.html"
     },
     {
-      "title": "Carlton Blues W vs Hawthorn Hawks W",
-      "category_hint": "AFL Aussie Rules 09:15",
-      "url": "http://www.fawanews.sc/Carlton Blues W vs Hawthorn Hawks W.html"
+      "title": "Al Dhafra vs Ajman",
+      "category_hint": "UAE League Cup 13:50",
+      "url": "http://www.fawanews.sc/Al Dhafra vs Ajman.html"
     },
     {
-      "title": "Central Coast Mariners W vs Perth W",
-      "category_hint": "Australia A-League 07:00",
-      "url": "http://www.fawanews.sc/Central Coast Mariners W vs Perth W.html"
+      "title": "Bijelo Brdo vs Gorica",
+      "category_hint": "Croatia Cup 13:00",
+      "url": "http://www.fawanews.sc/Bijelo Brdo vs Gorica.html"
     },
     {
-      "title": "Colorado Buffaloes vs Houston",
-      "category_hint": "NCAA American Football 04:15",
-      "url": "http://www.fawanews.sc/Colorado Buffaloes vs Houston.html"
+      "title": "Central Esp vs Boston River",
+      "category_hint": "Uruguay Liga AUF 14:00",
+      "url": "http://www.fawanews.sc/Central Esp vs Boston River.html"
     },
     {
-      "title": "Fujieda MYFC vs Kofu",
-      "category_hint": "Japan J2 League 06:00",
-      "url": "http://www.fawanews.sc/Fujieda MYFC vs Kofu.html"
+      "title": "Chelsea W vs Manchester City W --- CH 2",
+      "category_hint": "English Women Super League 14:30",
+      "url": "http://www.fawanews.sc/Chelsea W vs Manchester City W --- CH 2.html"
     },
     {
-      "title": "Geelong Cats W vs Sydney Swans W",
-      "category_hint": "AFL Aussie Rules 06:05",
-      "url": "http://www.fawanews.sc/Geelong Cats W vs Sydney Swans W.html"
+      "title": "Chelsea W vs Manchester City W",
+      "category_hint": "English Women Super League 14:30",
+      "url": "http://www.fawanews.sc/Chelsea W vs Manchester City W.html"
     },
     {
-      "title": "Guatemala vs Canada --- CH 2",
-      "category_hint": "CONCACAF Nations League 03:00",
-      "url": "http://www.fawanews.sc/Guatemala vs Canada --- CH 2.html"
+      "title": "China vs Malaysia --- CH 2",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/China vs Malaysia --- CH 2.html"
     },
     {
-      "title": "Guatemala vs Canada",
-      "category_hint": "CONCACAF Nations League 03:00",
-      "url": "http://www.fawanews.sc/Guatemala vs Canada.html"
+      "title": "China vs Malaysia",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/China vs Malaysia.html"
     },
     {
-      "title": "Houston Rockets vs Utah Jazz --- CH 2",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Houston Rockets vs Utah Jazz --- CH 2.html"
+      "title": "Chinese Taipei vs Kyrgyzstan",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/Chinese Taipei vs Kyrgyzstan.html"
     },
     {
-      "title": "Houston Rockets vs Utah Jazz",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Houston Rockets vs Utah Jazz.html"
+      "title": "Exeter vs Cheltenham",
+      "category_hint": "English League Two 13:30",
+      "url": "http://www.fawanews.sc/Exeter vs Cheltenham.html"
     },
     {
-      "title": "Los Angeles Clippers vs Oklahoma City Thunder --- CH 2",
-      "category_hint": "NBA Basketball 04:30",
-      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Oklahoma City Thunder --- CH 2.html"
+      "title": "Georgia vs Tonga",
+      "category_hint": "World Rugby Nations Cup 15:00",
+      "url": "http://www.fawanews.sc/Georgia vs Tonga.html"
     },
     {
-      "title": "Los Angeles Clippers vs Oklahoma City Thunder",
-      "category_hint": "NBA Basketball 04:30",
-      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Oklahoma City Thunder.html"
+      "title": "Goteborg W vs Umea W",
+      "category_hint": "Sweden Women Elitettan 13:00",
+      "url": "http://www.fawanews.sc/Goteborg W vs Umea W.html"
     },
     {
-      "title": "Melbourne City W vs Newcastle W",
-      "category_hint": "Australia A-League 05:00",
-      "url": "http://www.fawanews.sc/Melbourne City W vs Newcastle W.html"
+      "title": "HV 71 vs Timra",
+      "category_hint": "Sweden Hockey SHL 15:15",
+      "url": "http://www.fawanews.sc/HV 71 vs Timra.html"
     },
     {
-      "title": "Melbourne Renegades vs Sydney Sixers",
-      "category_hint": "Cricket WBBL 05:35",
-      "url": "http://www.fawanews.sc/Melbourne Renegades vs Sydney Sixers.html"
+      "title": "Hong Kong vs Canada",
+      "category_hint": "World Rugby Nations Cup 15:00",
+      "url": "http://www.fawanews.sc/Hong Kong vs Canada.html"
     },
     {
-      "title": "Melbourne Victory W vs Adelaide W",
-      "category_hint": "Australia A-League 05:00",
-      "url": "http://www.fawanews.sc/Melbourne Victory W vs Adelaide W.html"
+      "title": "Kosovo vs Israel",
+      "category_hint": "UEFA Nations League 15:00",
+      "url": "http://www.fawanews.sc/Kosovo vs Israel.html"
     },
     {
-      "title": "Oita Trinita vs Tochigi City",
-      "category_hint": "Japan J2 League 06:00",
-      "url": "http://www.fawanews.sc/Oita Trinita vs Tochigi City.html"
+      "title": "Malmo vs Vaxjo",
+      "category_hint": "Sweden Hockey SHL 15:15",
+      "url": "http://www.fawanews.sc/Malmo vs Vaxjo.html"
     },
     {
-      "title": "Omiya Ardija vs Montedio Yamagata",
-      "category_hint": "Japan J2 League 06:00",
-      "url": "http://www.fawanews.sc/Omiya Ardija vs Montedio Yamagata.html"
+      "title": "Manchester Utd W vs Crystal Palace W --- CH 2",
+      "category_hint": "English Women Super League 13:45",
+      "url": "http://www.fawanews.sc/Manchester Utd W vs Crystal Palace W --- CH 2.html"
     },
     {
-      "title": "Perth Scorchers vs Adelaide Strikers",
-      "category_hint": "Cricket WBBL 09:05",
-      "url": "http://www.fawanews.sc/Perth Scorchers vs Adelaide Strikers.html"
+      "title": "Manchester Utd W vs Crystal Palace W",
+      "category_hint": "English Women Super League 13:45",
+      "url": "http://www.fawanews.sc/Manchester Utd W vs Crystal Palace W.html"
     },
     {
-      "title": "Peru vs Bolivia --- CH 2",
-      "category_hint": "Friendly Match 02:00",
-      "url": "http://www.fawanews.sc/Peru vs Bolivia --- CH 2.html"
+      "title": "Napoli W vs AC Milan W",
+      "category_hint": "Italy Women Serie A 12:30",
+      "url": "http://www.fawanews.sc/Napoli W vs AC Milan W.html"
     },
     {
-      "title": "Peru vs Bolivia",
-      "category_hint": "Friendly Match 02:00",
-      "url": "http://www.fawanews.sc/Peru vs Bolivia.html"
+      "title": "Rogle vs Frolunda",
+      "category_hint": "Sweden Hockey SHL 15:15",
+      "url": "http://www.fawanews.sc/Rogle vs Frolunda.html"
     },
     {
-      "title": "Sacramento Kings vs Portland Trail Blazers --- CH 2",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Sacramento Kings vs Portland Trail Blazers --- CH 2.html"
+      "title": "Rudes vs Segesta",
+      "category_hint": "Croatia Cup 14:00",
+      "url": "http://www.fawanews.sc/Rudes vs Segesta.html"
     },
     {
-      "title": "Sacramento Kings vs Portland Trail Blazers",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Sacramento Kings vs Portland Trail Blazers.html"
+      "title": "Valladolid vs Castellon",
+      "category_hint": "Spanish Segunda Liga 14:00",
+      "url": "http://www.fawanews.sc/Valladolid vs Castellon.html"
     },
     {
-      "title": "San Antonio Spurs vs Golden State Warriors --- CH 2",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors --- CH 2.html"
+      "title": "Vimmerby vs Nybro",
+      "category_hint": "Sweden HockeyAllsvenskan 15:00",
+      "url": "http://www.fawanews.sc/Vimmerby vs Nybro.html"
     },
     {
-      "title": "San Antonio Spurs vs Golden State Warriors. --- CH html",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors. --- CH html"
+      "title": "Wales vs New Zealand",
+      "category_hint": "Rugby Nations Championship 15:10",
+      "url": "http://www.fawanews.sc/Wales vs New Zealand.html"
     },
     {
-      "title": "San Antonio Spurs vs Golden State Warriors",
-      "category_hint": "San Antonio Spurs vs Golden State Warriors --- CH 5 NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Golden State Warriors.html"
-    },
-    {
-      "title": "Shonan Bellmare vs Yokohama FC",
-      "category_hint": "Japan J2 League 06:00",
-      "url": "http://www.fawanews.sc/Shonan Bellmare vs Yokohama FC.html"
-    },
-    {
-      "title": "UCLA vs Illinois",
-      "category_hint": "NCAA American Football 03:00",
-      "url": "http://www.fawanews.sc/UCLA vs Illinois.html"
-    },
-    {
-      "title": "Vancouver Canucks vs New York Rangers",
-      "category_hint": "NHL Hockey 03:00",
-      "url": "http://www.fawanews.sc/Vancouver Canucks vs New York Rangers.html"
-    },
-    {
-      "title": "Vegas Golden Knights vs Nashville Predators",
-      "category_hint": "NHL Hockey 04:00",
-      "url": "http://www.fawanews.sc/Vegas Golden Knights vs Nashville Predators.html"
+      "title": "Werder Bremen W vs Union Berlin W",
+      "category_hint": "German Women Bundesliga 14:00",
+      "url": "http://www.fawanews.sc/Werder Bremen W vs Union Berlin W.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
