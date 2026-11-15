@@ -2,147 +2,137 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 28,
+  "candidate_count": 26,
   "candidates": [
     {
-      "title": "AZ Alkmaar W vs Ajax W",
-      "category_hint": "Dutch Women Eredivisie 16:30",
-      "url": "http://www.fawanews.sc/AZ Alkmaar W vs Ajax W.html"
+      "title": "Always Ready vs Independiente",
+      "category_hint": "Bolivia Division Profesional 20:00",
+      "url": "http://www.fawanews.sc/Always Ready vs Independiente.html"
     },
     {
-      "title": "Al Jazira vs Bani Yas",
-      "category_hint": "UAE League Cup 16:30",
-      "url": "http://www.fawanews.sc/Al Jazira vs Bani Yas.html"
+      "title": "Belgium vs Italy --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Belgium vs Italy --- CH 2.html"
     },
     {
-      "title": "Aris vs Olympiacos",
-      "category_hint": "Greece Basketball League 16:30",
-      "url": "http://www.fawanews.sc/Aris vs Olympiacos.html"
+      "title": "Belgium vs Italy1",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Belgium vs Italy1.html"
     },
     {
-      "title": "Arsenal W vs London City Lionesses W",
-      "category_hint": "English Women Super League 17:30",
-      "url": "http://www.fawanews.sc/Arsenal W vs London City Lionesses W.html"
+      "title": "Boca Juniors vs Ind Valle del Cauca",
+      "category_hint": "Colombia Primera B 20:00",
+      "url": "http://www.fawanews.sc/Boca Juniors vs Ind Valle del Cauca.html"
     },
     {
-      "title": "Belarus vs Albania --- CH 2",
-      "category_hint": "UEFA Nations League 18:00",
-      "url": "http://www.fawanews.sc/Belarus vs Albania --- CH 2.html"
+      "title": "Boston Celtics vs Dallas Mavericks",
+      "category_hint": "NBA Basketball 00:00",
+      "url": "http://www.fawanews.sc/Boston Celtics vs Dallas Mavericks.html"
     },
     {
-      "title": "Belarus vs Albania",
-      "category_hint": "UEFA Nations League 18:00",
-      "url": "http://www.fawanews.sc/Belarus vs Albania.html"
+      "title": "Cerro Porteno vs Sol de America",
+      "category_hint": "Paraguay Copa 22:00",
+      "url": "http://www.fawanews.sc/Cerro Porteno vs Sol de America.html"
     },
     {
-      "title": "Comerciantes Unidos vs Sport Boys",
-      "category_hint": "Peru Liga 1 Apertura 19:00",
-      "url": "http://www.fawanews.sc/Comerciantes Unidos vs Sport Boys.html"
+      "title": "Croatia vs Czech Republic --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Croatia vs Czech Republic --- CH 2.html"
     },
     {
-      "title": "Deportivo la Coruna W vs Barcelona W",
-      "category_hint": "Spanish Liga F Women 18:00",
-      "url": "http://www.fawanews.sc/Deportivo la Coruna W vs Barcelona W.html"
+      "title": "Croatia vs Czech Republic1",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Croatia vs Czech Republic1.html"
     },
     {
-      "title": "Eibar vs Cadiz CF",
-      "category_hint": "Spanish Segunda Liga 18:30",
-      "url": "http://www.fawanews.sc/Eibar vs Cadiz CF.html"
+      "title": "Danubio vs Liverpool M",
+      "category_hint": "Uruguay Liga AUF 20:30",
+      "url": "http://www.fawanews.sc/Danubio vs Liverpool M.html"
     },
     {
-      "title": "Eldense vs Sabadell",
-      "category_hint": "Spanish Segunda Liga 18:30",
-      "url": "http://www.fawanews.sc/Eldense vs Sabadell.html"
+      "title": "Envigado vs U Magdalena",
+      "category_hint": "Colombia Primera B 21:50",
+      "url": "http://www.fawanews.sc/Envigado vs U Magdalena.html"
     },
     {
-      "title": "FC Twente W vs PSV W",
-      "category_hint": "Dutch Women Eredivisie 16:30",
-      "url": "http://www.fawanews.sc/FC Twente W vs PSV W.html"
+      "title": "France vs Turkey --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/France vs Turkey --- CH 2.html"
     },
     {
-      "title": "Finland vs San Marino --- CH 2",
-      "category_hint": "UEFA Nations League 18:00",
-      "url": "http://www.fawanews.sc/Finland vs San Marino --- CH 2.html"
+      "title": "France vs Turkey1",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/France vs Turkey1.html"
     },
     {
-      "title": "Finland vs San Marino",
-      "category_hint": "UEFA Nations League 18:00",
-      "url": "http://www.fawanews.sc/Finland vs San Marino.html"
+      "title": "Gotham W vs Kansas City Current W",
+      "category_hint": "USA NWSL Women 21:15",
+      "url": "http://www.fawanews.sc/Gotham W vs Kansas City Current W.html"
     },
     {
-      "title": "Granada CF vs Las Palmas",
-      "category_hint": "Spanish Segunda Liga 16:15",
-      "url": "http://www.fawanews.sc/Granada CF vs Las Palmas.html"
+      "title": "Juan Pablo II vs Deportivo Garcilaso",
+      "category_hint": "Peru Liga 1 Apertura 21:15",
+      "url": "http://www.fawanews.sc/Juan Pablo II vs Deportivo Garcilaso.html"
     },
     {
-      "title": "Ittihad Kalba vs Shabab Al Ahli Dubai",
-      "category_hint": "UAE League Cup 16:30",
-      "url": "http://www.fawanews.sc/Ittihad Kalba vs Shabab Al Ahli Dubai.html"
+      "title": "Los Angeles Clippers vs Charlotte Hornets --- CH 2",
+      "category_hint": "NBA Basketball 22:30",
+      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Charlotte Hornets --- CH 2.html"
     },
     {
-      "title": "Kalmar vs Sodertalje",
-      "category_hint": "Sweden HockeyAllsvenskan 16:30",
-      "url": "http://www.fawanews.sc/Kalmar vs Sodertalje.html"
+      "title": "Los Angeles Clippers vs Charlotte Hornets",
+      "category_hint": "NBA Basketball 22:30",
+      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Charlotte Hornets.html"
     },
     {
-      "title": "Mora vs Vasteras",
-      "category_hint": "Sweden HockeyAllsvenskan 16:30",
-      "url": "http://www.fawanews.sc/Mora vs Vasteras.html"
+      "title": "NFL Arizona Cardinals vs Los Angeles Rams",
+      "category_hint": "NFL American Football 22:05",
+      "url": "http://www.fawanews.sc/NFL_Arizona Cardinals vs Los Angeles Rams.html"
     },
     {
-      "title": "NFL Atlanta Falcons vs Kansas City Chiefs",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_Atlanta Falcons vs Kansas City Chiefs.html"
+      "title": "NFL Dallas Cowboys vs San Francisco 49ers",
+      "category_hint": "NFL American Football 22:25",
+      "url": "http://www.fawanews.sc/NFL_Dallas Cowboys vs San Francisco 49ers.html"
     },
     {
-      "title": "NFL Cleveland Browns vs Houston Texans",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_Cleveland Browns vs Houston Texans.html"
+      "title": "NFL Las Vegas Raiders vs Seattle Seahawks",
+      "category_hint": "NFL American Football 22:05",
+      "url": "http://www.fawanews.sc/NFL_Las Vegas Raiders vs Seattle Seahawks.html"
     },
     {
-      "title": "NFL Detroit Lions vs New England Patriots",
-      "category_hint": "NFL American Football 15:30",
-      "url": "http://www.fawanews.sc/NFL_Detroit Lions vs New England Patriots.html"
+      "title": "Nacional Potosi vs Real Potosi",
+      "category_hint": "Bolivia Division Profesional 22:30",
+      "url": "http://www.fawanews.sc/Nacional Potosi vs Real Potosi.html"
     },
     {
-      "title": "NFL Indianapolis Colts vs Miami Dolphins",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_Indianapolis Colts vs Miami Dolphins.html"
+      "title": "Phoenix Suns vs Los Angeles Lakers --- CH 2",
+      "category_hint": "NBA Basketball 22:00",
+      "url": "http://www.fawanews.sc/Phoenix Suns vs Los Angeles Lakers --- CH 2.html"
     },
     {
-      "title": "NFL New Orleans Saints vs Carolina Panthers",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_New Orleans Saints vs Carolina Panthers.html"
+      "title": "Phoenix Suns vs Los Angeles Lakers",
+      "category_hint": "NBA Basketball 22:00",
+      "url": "http://www.fawanews.sc/Phoenix Suns vs Los Angeles Lakers.html"
     },
     {
-      "title": "NFL New York Jets vs Buffalo Bills",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_New York Jets vs Buffalo Bills.html"
+      "title": "Spain vs England --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Spain vs England --- CH 2.html"
     },
     {
-      "title": "NFL Tennessee Titans vs Jacksonville Jaguars",
-      "category_hint": "NFL American Football 19:00",
-      "url": "http://www.fawanews.sc/NFL_Tennessee Titans vs Jacksonville Jaguars.html"
+      "title": "Spain vs England1",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Spain vs England1.html"
     },
     {
-      "title": "Oklahoma vs Ole Miss",
-      "category_hint": "NCAA American Football 19:00",
-      "url": "http://www.fawanews.sc/Oklahoma vs Ole Miss.html"
+      "title": "Toronto Raptors vs New York Knicks",
+      "category_hint": "NBA Basketball 00:00",
+      "url": "http://www.fawanews.sc/Toronto Raptors vs New York Knicks.html"
     },
     {
-      "title": "Philadelphia 76ers vs Indiana Pacers",
-      "category_hint": "NBA Basketball 19:00",
-      "url": "http://www.fawanews.sc/Philadelphia 76ers vs Indiana Pacers.html"
-    },
-    {
-      "title": "Ravenna vs Forli",
-      "category_hint": "Italy Serie C 17:30",
-      "url": "http://www.fawanews.sc/Ravenna vs Forli.html"
-    },
-    {
-      "title": "Valencia W vs Granada CF W",
-      "category_hint": "Spanish Liga F Women 18:15",
-      "url": "http://www.fawanews.sc/Valencia W vs Granada CF W.html"
+      "title": "Utah Jazz vs San Antonio Spurs",
+      "category_hint": "NBA Basketball 23:00",
+      "url": "http://www.fawanews.sc/Utah Jazz vs San Antonio Spurs.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
