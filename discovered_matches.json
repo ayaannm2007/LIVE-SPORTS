@@ -2,7 +2,7 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 71,
+  "candidate_count": 68,
   "candidates": [
     {
       "title": "Air Force vs San Jose State",
@@ -25,11 +25,6 @@
       "url": "http://www.fawanews.sc/Arkansas vs South Carolina.html"
     },
     {
-      "title": "Banfield vs Boca Juniors",
-      "category_hint": "Argentina Copa 23:00",
-      "url": "http://www.fawanews.sc/Banfield vs Boca Juniors.html"
-    },
-    {
       "title": "Boise State vs Oregon State",
       "category_hint": "NCAA American Football 00:00",
       "url": "http://www.fawanews.sc/Boise State vs Oregon State.html"
@@ -40,14 +35,9 @@
       "url": "http://www.fawanews.sc/Boston Bruins vs Minnesota Wild.html"
     },
     {
-      "title": "Boxing Riley vs Coupe",
-      "category_hint": "Boxing 20:00",
-      "url": "http://www.fawanews.sc/Boxing_Riley vs Coupe.html"
-    },
-    {
-      "title": "Boxing Riley vs Coupe 2",
-      "category_hint": "Boxing 20:00",
-      "url": "http://www.fawanews.sc/Boxing_Riley vs Coupe_2.html"
+      "title": "Boxing Pacheco vs Fulghum",
+      "category_hint": "Boxing --:--",
+      "url": "http://www.fawanews.sc/Boxing_Pacheco vs Fulghum.html"
     },
     {
       "title": "Brigham Young vs Baylor",
@@ -65,14 +55,9 @@
       "url": "http://www.fawanews.sc/Chapecoense-SC vs Vasco.html"
     },
     {
-      "title": "Charlotte vs East Carolina",
-      "category_hint": "NCAA American Football 19:00",
-      "url": "http://www.fawanews.sc/Charlotte vs East Carolina.html"
-    },
-    {
-      "title": "Chicago Blackhawks vs Winnipeg Jets",
-      "category_hint": "NHL Hockey 21:30",
-      "url": "http://www.fawanews.sc/Chicago Blackhawks vs Winnipeg Jets.html"
+      "title": "Cleveland Cavaliers vs Dallas Mavericks --- CH 2",
+      "category_hint": "NBA Basketball 01:30",
+      "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Dallas Mavericks --- CH 2.html"
     },
     {
       "title": "Cleveland Cavaliers vs Dallas Mavericks",
@@ -80,19 +65,9 @@
       "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Dallas Mavericks.html"
     },
     {
-      "title": "Coastal Carolina vs Arkansas State",
-      "category_hint": "NCAA American Football 19:00",
-      "url": "http://www.fawanews.sc/Coastal Carolina vs Arkansas State.html"
-    },
-    {
       "title": "Columbus Blue Jackets vs Philadelphia Flyers",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Columbus Blue Jackets vs Philadelphia Flyers.html"
-    },
-    {
-      "title": "Coquimbo Unido vs OHiggins",
-      "category_hint": "Chile Liga de Primera 23:30",
-      "url": "http://www.fawanews.sc/Coquimbo Unido vs OHiggins.html"
     },
     {
       "title": "Dallas Stars vs Buffalo Sabres",
@@ -110,14 +85,9 @@
       "url": "http://www.fawanews.sc/Georgia vs Missouri.html"
     },
     {
-      "title": "Haiti vs USA --- CH 2",
-      "category_hint": "CONCACAF Nations League 22:30",
-      "url": "http://www.fawanews.sc/Haiti vs USA --- CH 2.html"
-    },
-    {
-      "title": "Haiti vs USA",
-      "category_hint": "CONCACAF Nations League 22:30",
-      "url": "http://www.fawanews.sc/Haiti vs USA.html"
+      "title": "Hawaii vs North Dakota State",
+      "category_hint": "NCAA American Football 05:59",
+      "url": "http://www.fawanews.sc/Hawaii vs North Dakota State.html"
     },
     {
       "title": "Indiana vs USC",
@@ -128,6 +98,11 @@
       "title": "Iowa vs Purdue",
       "category_hint": "NCAA American Football 01:30",
       "url": "http://www.fawanews.sc/Iowa vs Purdue.html"
+    },
+    {
+      "title": "Jamaica vs Mexico --- CH 2",
+      "category_hint": "CONCACAF Nations League 02:00",
+      "url": "http://www.fawanews.sc/Jamaica vs Mexico --- CH 2.html"
     },
     {
       "title": "Jamaica vs Mexico",
@@ -165,9 +140,19 @@
       "url": "http://www.fawanews.sc/Marshall vs Appalachian State.html"
     },
     {
+      "title": "Memphis Grizzlies vs Brooklyn Nets --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Memphis Grizzlies vs Brooklyn Nets --- CH 2.html"
+    },
+    {
       "title": "Memphis Grizzlies vs Brooklyn Nets",
       "category_hint": "NBA Basketball 02:00",
       "url": "http://www.fawanews.sc/Memphis Grizzlies vs Brooklyn Nets.html"
+    },
+    {
+      "title": "Miami Heat vs Detroit Pistons --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Miami Heat vs Detroit Pistons --- CH 2.html"
     },
     {
       "title": "Miami Heat vs Detroit Pistons",
@@ -180,14 +165,14 @@
       "url": "http://www.fawanews.sc/Michigan State vs Washington Huskies.html"
     },
     {
+      "title": "Minnesota Timberwolves vs Chicago Bulls --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Chicago Bulls --- CH 2.html"
+    },
+    {
       "title": "Minnesota Timberwolves vs Chicago Bulls",
       "category_hint": "NBA Basketball 02:00",
       "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Chicago Bulls.html"
-    },
-    {
-      "title": "Mirassol vs Atletico-MG",
-      "category_hint": "Brazil Serie A 22:30",
-      "url": "http://www.fawanews.sc/Mirassol vs Atletico-MG.html"
     },
     {
       "title": "Mississippi vs St Auburn",
@@ -195,24 +180,19 @@
       "url": "http://www.fawanews.sc/Mississippi vs St Auburn.html"
     },
     {
-      "title": "Missouri State vs New Mexico State",
-      "category_hint": "NCAA American Football 21:00",
-      "url": "http://www.fawanews.sc/Missouri State vs New Mexico State.html"
-    },
-    {
       "title": "Montreal Canadiens vs Colorado Avalanche",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Montreal Canadiens vs Colorado Avalanche.html"
     },
     {
-      "title": "Nacional vs Albion",
-      "category_hint": "Uruguay Liga AUF 00:00",
-      "url": "http://www.fawanews.sc/Nacional vs Albion.html"
-    },
-    {
       "title": "New Mexico vs UNLV Rebels",
       "category_hint": "NCAA American Football 01:30",
       "url": "http://www.fawanews.sc/New Mexico vs UNLV Rebels.html"
+    },
+    {
+      "title": "New Orleans Pelicans vs Denver Nuggets --- CH 2",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Denver Nuggets --- CH 2.html"
     },
     {
       "title": "New Orleans Pelicans vs Denver Nuggets",
@@ -235,6 +215,11 @@
       "url": "http://www.fawanews.sc/Notre Dame vs Boston College.html"
     },
     {
+      "title": "Oklahoma State vs Texas Tech",
+      "category_hint": "NCAA American Football 03:30",
+      "url": "http://www.fawanews.sc/Oklahoma State vs Texas Tech.html"
+    },
+    {
       "title": "Oregon vs Michigan",
       "category_hint": "NCAA American Football 21:30",
       "url": "http://www.fawanews.sc/Oregon vs Michigan.html"
@@ -250,16 +235,6 @@
       "url": "http://www.fawanews.sc/Pittsburgh Penguins vs Ottawa Senators.html"
     },
     {
-      "title": "Queretaro vs Monterrey",
-      "category_hint": "Mexico Liga MX 00:00",
-      "url": "http://www.fawanews.sc/Queretaro vs Monterrey.html"
-    },
-    {
-      "title": "Recoleta vs Libertad Asuncion",
-      "category_hint": "Paraguay Copa 22:00",
-      "url": "http://www.fawanews.sc/Recoleta vs Libertad Asuncion.html"
-    },
-    {
       "title": "Rice vs Tulane",
       "category_hint": "NCAA American Football 22:30",
       "url": "http://www.fawanews.sc/Rice vs Tulane.html"
@@ -270,9 +245,9 @@
       "url": "http://www.fawanews.sc/Saint Vincent and the Grenadines vs Belize.html"
     },
     {
-      "title": "Sam Houston State vs Kennesaw State",
-      "category_hint": "NCAA American Football 20:00",
-      "url": "http://www.fawanews.sc/Sam Houston State vs Kennesaw State.html"
+      "title": "San Diego State vs Utah State",
+      "category_hint": "NCAA American Football 03:30",
+      "url": "http://www.fawanews.sc/San Diego State vs Utah State.html"
     },
     {
       "title": "South Alabama vs Troy",
@@ -285,19 +260,9 @@
       "url": "http://www.fawanews.sc/St Louis Blues vs Florida Panthers.html"
     },
     {
-      "title": "TCU vs Kansas State",
-      "category_hint": "NCAA American Football 20:00",
-      "url": "http://www.fawanews.sc/TCU vs Kansas State.html"
-    },
-    {
       "title": "Tampa Bay Lightning vs Detroit Red Wings",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Tampa Bay Lightning vs Detroit Red Wings.html"
-    },
-    {
-      "title": "Texas A-M vs Tennessee",
-      "category_hint": "NCAA American Football 21:00",
-      "url": "http://www.fawanews.sc/Texas A-M vs Tennessee.html"
     },
     {
       "title": "Texas State Bobcats vs Fresno State",
@@ -310,19 +275,34 @@
       "url": "http://www.fawanews.sc/Toronto Maple Leafs vs Edmonton Oilers.html"
     },
     {
+      "title": "Tulsa vs Florida Atlantic",
+      "category_hint": "NCAA American Football 21:30",
+      "url": "http://www.fawanews.sc/Tulsa vs Florida Atlantic.html"
+    },
+    {
       "title": "UCF vs Arizona State",
       "category_hint": "NCAA American Football 21:30",
       "url": "http://www.fawanews.sc/UCF vs Arizona State.html"
     },
     {
-      "title": "UFC 334 Jared Gordon vs Melquizael Costa",
+      "title": "UFC 334 Jared Gordon vs Melquizael Costa1",
       "category_hint": "UFC Fight Night 23:00",
-      "url": "http://www.fawanews.sc/UFC 334_Jared Gordon vs Melquizael Costa.html"
+      "url": "http://www.fawanews.sc/UFC 334_Jared Gordon vs Melquizael Costa1.html"
     },
     {
       "title": "UFC 334 Jared Gordon vs Melquizael Costa 2",
       "category_hint": "UFC Fight Night 23:00",
       "url": "http://www.fawanews.sc/UFC 334_Jared Gordon vs Melquizael Costa_2.html"
+    },
+    {
+      "title": "UTEP vs Wyoming",
+      "category_hint": "NCAA American Football 04:00",
+      "url": "http://www.fawanews.sc/UTEP vs Wyoming.html"
+    },
+    {
+      "title": "UTSA vs North Texas",
+      "category_hint": "NCAA American Football 03:00",
+      "url": "http://www.fawanews.sc/UTSA vs North Texas.html"
     },
     {
       "title": "Utah Mammoth vs San Jose Sharks",
@@ -343,6 +323,11 @@
       "title": "Washington Capitals vs New Jersey Devils",
       "category_hint": "NHL Hockey 01:00",
       "url": "http://www.fawanews.sc/Washington Capitals vs New Jersey Devils.html"
+    },
+    {
+      "title": "Washington State vs Colorado State Rams",
+      "category_hint": "NCAA American Football 04:30",
+      "url": "http://www.fawanews.sc/Washington State vs Colorado State Rams.html"
     },
     {
       "title": "Wellington Phoenix W vs Sydney W",
