@@ -2,32 +2,122 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 5,
+  "candidate_count": 23,
   "candidates": [
     {
-      "title": "Afghanistan vs Zimbabwe",
-      "category_hint": "Cricket 04:00",
-      "url": "http://www.fawanews.sc/Afghanistan vs Zimbabwe.html"
+      "title": "Albacete vs Celta Vigo B",
+      "category_hint": "Spanish Segunda Liga 20:30",
+      "url": "http://www.fawanews.sc/Albacete vs Celta Vigo B.html"
     },
     {
-      "title": "Namibia vs Cameroon",
-      "category_hint": "Africa Cup of Nations 17:00",
-      "url": "http://www.fawanews.sc/Namibia vs Cameroon.html"
+      "title": "Andorra vs Azerbaijan",
+      "category_hint": "Friendly Match 19:00",
+      "url": "http://www.fawanews.sc/Andorra vs Azerbaijan.html"
     },
     {
-      "title": "South Africa vs Bangladesh",
-      "category_hint": "Cricket 09:00",
-      "url": "http://www.fawanews.sc/South Africa vs Bangladesh.html"
+      "title": "Cajamarca vs Los Chankas",
+      "category_hint": "Peru Liga 1 Apertura 19:00",
+      "url": "http://www.fawanews.sc/Cajamarca vs Los Chankas.html"
     },
     {
-      "title": "Sudan vs Senegal",
-      "category_hint": "Africa Cup of Nations 20:00",
-      "url": "http://www.fawanews.sc/Sudan vs Senegal.html"
+      "title": "Cuba vs Grenada",
+      "category_hint": "CONCACAF Nations League 20:00",
+      "url": "http://www.fawanews.sc/Cuba vs Grenada.html"
     },
     {
-      "title": "Zimbabwe vs Equatorial Guinea",
-      "category_hint": "Africa Cup of Nations 20:00",
-      "url": "http://www.fawanews.sc/Zimbabwe vs Equatorial Guinea.html"
+      "title": "Cusco vs AD Tarma",
+      "category_hint": "Peru Liga 1 Apertura 21:15",
+      "url": "http://www.fawanews.sc/Cusco vs AD Tarma.html"
+    },
+    {
+      "title": "England U21 vs France U21 --- CH 2",
+      "category_hint": "Friendly Match 20:30",
+      "url": "http://www.fawanews.sc/England U21 vs France U21 --- CH 2.html"
+    },
+    {
+      "title": "England U21 vs France U21",
+      "category_hint": "Friendly Match 20:30",
+      "url": "http://www.fawanews.sc/England U21 vs France U21.html"
+    },
+    {
+      "title": "Germany vs Netherlands --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Germany vs Netherlands --- CH 2.html"
+    },
+    {
+      "title": "Germany vs Netherlands",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Germany vs Netherlands.html"
+    },
+    {
+      "title": "Gibraltar vs Malta --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Gibraltar vs Malta --- CH 2.html"
+    },
+    {
+      "title": "Gibraltar vs Malta",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Gibraltar vs Malta.html"
+    },
+    {
+      "title": "Greece U21 vs Iceland U21",
+      "category_hint": "Euro U21 Qualification 18:00",
+      "url": "http://www.fawanews.sc/Greece U21 vs Iceland U21.html"
+    },
+    {
+      "title": "Greece vs Serbia --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Greece vs Serbia --- CH 2.html"
+    },
+    {
+      "title": "Greece vs Serbia",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Greece vs Serbia.html"
+    },
+    {
+      "title": "Guadeloupe vs Bermuda",
+      "category_hint": "CONCACAF Nations League 20:00",
+      "url": "http://www.fawanews.sc/Guadeloupe vs Bermuda.html"
+    },
+    {
+      "title": "Guyana vs Puerto Rico",
+      "category_hint": "CONCACAF Nations League 20:00",
+      "url": "http://www.fawanews.sc/Guyana vs Puerto Rico.html"
+    },
+    {
+      "title": "Hungary U21 vs Cyprus U21",
+      "category_hint": "Friendly Match 19:00",
+      "url": "http://www.fawanews.sc/Hungary U21 vs Cyprus U21.html"
+    },
+    {
+      "title": "Moquegua vs Grau",
+      "category_hint": "Peru Liga 1 Apertura 21:15",
+      "url": "http://www.fawanews.sc/Moquegua vs Grau.html"
+    },
+    {
+      "title": "North Macedonia vs Slovenia --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/North Macedonia vs Slovenia --- CH 2.html"
+    },
+    {
+      "title": "North Macedonia vs Slovenia",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/North Macedonia vs Slovenia.html"
+    },
+    {
+      "title": "Ostersund vs Visby Roma",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Ostersund vs Visby Roma.html"
+    },
+    {
+      "title": "Switzerland vs Scotland --- CH 2",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Switzerland vs Scotland --- CH 2.html"
+    },
+    {
+      "title": "Switzerland vs Scotland",
+      "category_hint": "UEFA Nations League 20:45",
+      "url": "http://www.fawanews.sc/Switzerland vs Scotland.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
