@@ -2,122 +2,157 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 23,
+  "candidate_count": 30,
   "candidates": [
     {
-      "title": "Albacete vs Celta Vigo B",
-      "category_hint": "Spanish Segunda Liga 20:30",
-      "url": "http://www.fawanews.sc/Albacete vs Celta Vigo B.html"
+      "title": "Afghanistan vs Zimbabwe 2",
+      "category_hint": "Cricket 07:00",
+      "url": "http://www.fawanews.sc/Afghanistan vs Zimbabwe_2.html"
     },
     {
-      "title": "Andorra vs Azerbaijan",
-      "category_hint": "Friendly Match 19:00",
-      "url": "http://www.fawanews.sc/Andorra vs Azerbaijan.html"
+      "title": "Boston Celtics vs Orlando Magic --- CH 2",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Boston Celtics vs Orlando Magic --- CH 2.html"
     },
     {
-      "title": "Cajamarca vs Los Chankas",
-      "category_hint": "Peru Liga 1 Apertura 19:00",
-      "url": "http://www.fawanews.sc/Cajamarca vs Los Chankas.html"
+      "title": "Boston Celtics vs Orlando Magic",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Boston Celtics vs Orlando Magic.html"
     },
     {
-      "title": "Cuba vs Grenada",
-      "category_hint": "CONCACAF Nations League 20:00",
-      "url": "http://www.fawanews.sc/Cuba vs Grenada.html"
+      "title": "Brooklyn Nets vs Philadelphia 76ers --- CH 2",
+      "category_hint": "NBA Basketball 01:30",
+      "url": "http://www.fawanews.sc/Brooklyn Nets vs Philadelphia 76ers --- CH 2.html"
     },
     {
-      "title": "Cusco vs AD Tarma",
-      "category_hint": "Peru Liga 1 Apertura 21:15",
-      "url": "http://www.fawanews.sc/Cusco vs AD Tarma.html"
+      "title": "Brooklyn Nets vs Philadelphia 76ers",
+      "category_hint": "NBA Basketball 01:30",
+      "url": "http://www.fawanews.sc/Brooklyn Nets vs Philadelphia 76ers.html"
     },
     {
-      "title": "England U21 vs France U21 --- CH 2",
-      "category_hint": "Friendly Match 20:30",
-      "url": "http://www.fawanews.sc/England U21 vs France U21 --- CH 2.html"
+      "title": "Canada vs Guatemala --- CH 2",
+      "category_hint": "CONCACAF Nations League 02:00",
+      "url": "http://www.fawanews.sc/Canada vs Guatemala --- CH 2.html"
     },
     {
-      "title": "England U21 vs France U21",
-      "category_hint": "Friendly Match 20:30",
-      "url": "http://www.fawanews.sc/England U21 vs France U21.html"
+      "title": "Canada vs Guatemala",
+      "category_hint": "CONCACAF Nations League 02:00",
+      "url": "http://www.fawanews.sc/Canada vs Guatemala.html"
     },
     {
-      "title": "Germany vs Netherlands --- CH 2",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Germany vs Netherlands --- CH 2.html"
+      "title": "Cleveland Cavaliers vs Chicago Bulls --- CH 2",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Chicago Bulls --- CH 2.html"
     },
     {
-      "title": "Germany vs Netherlands",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Germany vs Netherlands.html"
+      "title": "Cleveland Cavaliers vs Chicago Bulls",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Chicago Bulls.html"
     },
     {
-      "title": "Gibraltar vs Malta --- CH 2",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Gibraltar vs Malta --- CH 2.html"
+      "title": "Denver Nuggets vs Phoenix Suns --- CH 2",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Denver Nuggets vs Phoenix Suns --- CH 2.html"
     },
     {
-      "title": "Gibraltar vs Malta",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Gibraltar vs Malta.html"
+      "title": "Denver Nuggets vs Phoenix Suns",
+      "category_hint": "NBA Basketball 03:00",
+      "url": "http://www.fawanews.sc/Denver Nuggets vs Phoenix Suns.html"
     },
     {
-      "title": "Greece U21 vs Iceland U21",
-      "category_hint": "Euro U21 Qualification 18:00",
-      "url": "http://www.fawanews.sc/Greece U21 vs Iceland U21.html"
+      "title": "Martinique vs Aruba --- CH 2",
+      "category_hint": "CONCACAF Nations League 01:00",
+      "url": "http://www.fawanews.sc/Martinique vs Aruba --- CH 2.html"
     },
     {
-      "title": "Greece vs Serbia --- CH 2",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Greece vs Serbia --- CH 2.html"
+      "title": "Martinique vs Aruba",
+      "category_hint": "CONCACAF Nations League 01:00",
+      "url": "http://www.fawanews.sc/Martinique vs Aruba.html"
     },
     {
-      "title": "Greece vs Serbia",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Greece vs Serbia.html"
+      "title": "Miami Heat vs Houston Rockets --- CH 2",
+      "category_hint": "NBA Basketball 01:30",
+      "url": "http://www.fawanews.sc/Miami Heat vs Houston Rockets --- CH 2.html"
     },
     {
-      "title": "Guadeloupe vs Bermuda",
-      "category_hint": "CONCACAF Nations League 20:00",
-      "url": "http://www.fawanews.sc/Guadeloupe vs Bermuda.html"
+      "title": "Miami Heat vs Houston Rockets",
+      "category_hint": "NBA Basketball 01:30",
+      "url": "http://www.fawanews.sc/Miami Heat vs Houston Rockets.html"
     },
     {
-      "title": "Guyana vs Puerto Rico",
-      "category_hint": "CONCACAF Nations League 20:00",
-      "url": "http://www.fawanews.sc/Guyana vs Puerto Rico.html"
+      "title": "Minnesota Timberwolves vs Portland Trail Blazers --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers --- CH 2.html"
     },
     {
-      "title": "Hungary U21 vs Cyprus U21",
-      "category_hint": "Friendly Match 19:00",
-      "url": "http://www.fawanews.sc/Hungary U21 vs Cyprus U21.html"
+      "title": "Minnesota Timberwolves vs Portland Trail Blazers",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers.html"
     },
     {
-      "title": "Moquegua vs Grau",
-      "category_hint": "Peru Liga 1 Apertura 21:15",
-      "url": "http://www.fawanews.sc/Moquegua vs Grau.html"
+      "title": "NFL Baltimore Ravens vs Los Angeles Chargers",
+      "category_hint": "NFL American Football 02:15",
+      "url": "http://www.fawanews.sc/NFL_Baltimore Ravens vs Los Angeles Chargers.html"
     },
     {
-      "title": "North Macedonia vs Slovenia --- CH 2",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/North Macedonia vs Slovenia --- CH 2.html"
+      "title": "NFL Baltimore Ravens vs Los Angeles Chargers 2",
+      "category_hint": "NFL American Football 02:15",
+      "url": "http://www.fawanews.sc/NFL_Baltimore Ravens vs Los Angeles Chargers_2.html"
     },
     {
-      "title": "North Macedonia vs Slovenia",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/North Macedonia vs Slovenia.html"
+      "title": "New Orleans Pelicans vs Golden State Warriors --- CH 2",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Golden State Warriors --- CH 2.html"
     },
     {
-      "title": "Ostersund vs Visby Roma",
-      "category_hint": "Sweden HockeyAllsvenskan 19:00",
-      "url": "http://www.fawanews.sc/Ostersund vs Visby Roma.html"
+      "title": "New Orleans Pelicans vs Golden State Warriors",
+      "category_hint": "NBA Basketball 02:00",
+      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Golden State Warriors.html"
     },
     {
-      "title": "Switzerland vs Scotland --- CH 2",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Switzerland vs Scotland --- CH 2.html"
+      "title": "New York Rangers vs Montreal Canadiens",
+      "category_hint": "NHL Hockey 01:30",
+      "url": "http://www.fawanews.sc/New York Rangers vs Montreal Canadiens.html"
     },
     {
-      "title": "Switzerland vs Scotland",
-      "category_hint": "UEFA Nations League 20:45",
-      "url": "http://www.fawanews.sc/Switzerland vs Scotland.html"
+      "title": "Pakistan vs Sri Lanka",
+      "category_hint": "Cricket 05:30",
+      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
+    },
+    {
+      "title": "South Africa vs Bangladesh 2",
+      "category_hint": "Cricket 08:30",
+      "url": "http://www.fawanews.sc/South Africa vs Bangladesh_2.html"
+    },
+    {
+      "title": "Trinidad and Tobago vs Antigua and Barbuda --- CH 2",
+      "category_hint": "CONCACAF Nations League 01:00",
+      "url": "http://www.fawanews.sc/Trinidad and Tobago vs Antigua and Barbuda --- CH 2.html"
+    },
+    {
+      "title": "Trinidad and Tobago vs Antigua and Barbuda",
+      "category_hint": "CONCACAF Nations League 01:00",
+      "url": "http://www.fawanews.sc/Trinidad and Tobago vs Antigua and Barbuda.html"
+    },
+    {
+      "title": "Utah Mammoth vs Vancouver Canucks",
+      "category_hint": "NHL Hockey 03:30",
+      "url": "http://www.fawanews.sc/Utah Mammoth vs Vancouver Canucks.html"
+    },
+    {
+      "title": "Wanderers vs Juventud",
+      "category_hint": "Uruguay Liga AUF 00:00",
+      "url": "http://www.fawanews.sc/Wanderers vs Juventud.html"
+    },
+    {
+      "title": "Washington Wizards vs Memphis Grizzlies --- CH 2",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Washington Wizards vs Memphis Grizzlies --- CH 2.html"
+    },
+    {
+      "title": "Washington Wizards vs Memphis Grizzlies",
+      "category_hint": "NBA Basketball 01:00",
+      "url": "http://www.fawanews.sc/Washington Wizards vs Memphis Grizzlies.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
