@@ -2,122 +2,87 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 30,
+  "candidate_count": 22,
   "candidates": [
+    {
+      "title": "Adelaide W vs Sydney Sixers W",
+      "category_hint": "Cricket WBBL 09:05",
+      "url": "http://www.fawanews.sc/Adelaide W vs Sydney Sixers W.html"
+    },
     {
       "title": "Afghanistan vs Zimbabwe 2",
       "category_hint": "Cricket 07:00",
       "url": "http://www.fawanews.sc/Afghanistan vs Zimbabwe_2.html"
     },
     {
-      "title": "Boston Celtics vs Orlando Magic --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Boston Celtics vs Orlando Magic --- CH 2.html"
+      "title": "Brunei vs Oman --- CH 2",
+      "category_hint": "Friendly Match 10:00",
+      "url": "http://www.fawanews.sc/Brunei vs Oman --- CH 2.html"
     },
     {
-      "title": "Boston Celtics vs Orlando Magic",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Boston Celtics vs Orlando Magic.html"
+      "title": "Brunei vs Oman",
+      "category_hint": "Friendly Match 10:00",
+      "url": "http://www.fawanews.sc/Brunei vs Oman.html"
     },
     {
-      "title": "Brooklyn Nets vs Philadelphia 76ers --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Brooklyn Nets vs Philadelphia 76ers --- CH 2.html"
+      "title": "Burundi vs Zambia",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/Burundi vs Zambia.html"
     },
     {
-      "title": "Brooklyn Nets vs Philadelphia 76ers",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Brooklyn Nets vs Philadelphia 76ers.html"
+      "title": "China vs Bahrain --- CH 2",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/China vs Bahrain --- CH 2.html"
     },
     {
-      "title": "Canada vs Guatemala --- CH 2",
-      "category_hint": "CONCACAF Nations League 02:00",
-      "url": "http://www.fawanews.sc/Canada vs Guatemala --- CH 2.html"
+      "title": "China vs Bahrain",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/China vs Bahrain.html"
     },
     {
-      "title": "Canada vs Guatemala",
-      "category_hint": "CONCACAF Nations League 02:00",
-      "url": "http://www.fawanews.sc/Canada vs Guatemala.html"
+      "title": "Ethiopia vs Mozambique",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/Ethiopia vs Mozambique.html"
     },
     {
-      "title": "Cleveland Cavaliers vs Chicago Bulls --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Chicago Bulls --- CH 2.html"
+      "title": "India vs Pakistan",
+      "category_hint": "SAFF Championship 15:00",
+      "url": "http://www.fawanews.sc/India vs Pakistan.html"
     },
     {
-      "title": "Cleveland Cavaliers vs Chicago Bulls",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Cleveland Cavaliers vs Chicago Bulls.html"
+      "title": "Japan vs Paraguay",
+      "category_hint": "Friendly Match 14:10",
+      "url": "http://www.fawanews.sc/Japan vs Paraguay.html"
     },
     {
-      "title": "Denver Nuggets vs Phoenix Suns --- CH 2",
-      "category_hint": "NBA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Denver Nuggets vs Phoenix Suns --- CH 2.html"
+      "title": "Kyrgyzstan vs Vietnam --- CH 2",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/Kyrgyzstan vs Vietnam --- CH 2.html"
     },
     {
-      "title": "Denver Nuggets vs Phoenix Suns",
-      "category_hint": "NBA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Denver Nuggets vs Phoenix Suns.html"
+      "title": "Kyrgyzstan vs Vietnam",
+      "category_hint": "Friendly Match 13:00",
+      "url": "http://www.fawanews.sc/Kyrgyzstan vs Vietnam.html"
     },
     {
-      "title": "Martinique vs Aruba --- CH 2",
-      "category_hint": "CONCACAF Nations League 01:00",
-      "url": "http://www.fawanews.sc/Martinique vs Aruba --- CH 2.html"
+      "title": "Lebanon vs Palestine",
+      "category_hint": "Friendly Match 14:00",
+      "url": "http://www.fawanews.sc/Lebanon vs Palestine.html"
     },
     {
-      "title": "Martinique vs Aruba",
-      "category_hint": "CONCACAF Nations League 01:00",
-      "url": "http://www.fawanews.sc/Martinique vs Aruba.html"
+      "title": "Lesotho vs Gabon",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/Lesotho vs Gabon.html"
     },
     {
-      "title": "Miami Heat vs Houston Rockets --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Miami Heat vs Houston Rockets --- CH 2.html"
+      "title": "Malawi vs Egypt",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/Malawi vs Egypt.html"
     },
     {
-      "title": "Miami Heat vs Houston Rockets",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Miami Heat vs Houston Rockets.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Portland Trail Blazers --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers --- CH 2.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Portland Trail Blazers",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers.html"
-    },
-    {
-      "title": "NFL Baltimore Ravens vs Los Angeles Chargers",
-      "category_hint": "NFL American Football 02:15",
-      "url": "http://www.fawanews.sc/NFL_Baltimore Ravens vs Los Angeles Chargers.html"
-    },
-    {
-      "title": "NFL Baltimore Ravens vs Los Angeles Chargers 2",
-      "category_hint": "NFL American Football 02:15",
-      "url": "http://www.fawanews.sc/NFL_Baltimore Ravens vs Los Angeles Chargers_2.html"
-    },
-    {
-      "title": "New Orleans Pelicans vs Golden State Warriors --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Golden State Warriors --- CH 2.html"
-    },
-    {
-      "title": "New Orleans Pelicans vs Golden State Warriors",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/New Orleans Pelicans vs Golden State Warriors.html"
-    },
-    {
-      "title": "New York Rangers vs Montreal Canadiens",
-      "category_hint": "NHL Hockey 01:30",
-      "url": "http://www.fawanews.sc/New York Rangers vs Montreal Canadiens.html"
-    },
-    {
-      "title": "Pakistan vs Sri Lanka",
-      "category_hint": "Cricket 05:30",
-      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
+      "title": "Qatar vs South Korea",
+      "category_hint": "Friendly Match 15:00",
+      "url": "http://www.fawanews.sc/Qatar vs South Korea.html"
     },
     {
       "title": "South Africa vs Bangladesh 2",
@@ -125,34 +90,29 @@
       "url": "http://www.fawanews.sc/South Africa vs Bangladesh_2.html"
     },
     {
-      "title": "Trinidad and Tobago vs Antigua and Barbuda --- CH 2",
-      "category_hint": "CONCACAF Nations League 01:00",
-      "url": "http://www.fawanews.sc/Trinidad and Tobago vs Antigua and Barbuda --- CH 2.html"
+      "title": "South Sudan vs Angola",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/South Sudan vs Angola.html"
     },
     {
-      "title": "Trinidad and Tobago vs Antigua and Barbuda",
-      "category_hint": "CONCACAF Nations League 01:00",
-      "url": "http://www.fawanews.sc/Trinidad and Tobago vs Antigua and Barbuda.html"
+      "title": "Tanzania vs Nigeria",
+      "category_hint": "Africa Cup of Nations 14:00",
+      "url": "http://www.fawanews.sc/Tanzania vs Nigeria.html"
     },
     {
-      "title": "Utah Mammoth vs Vancouver Canucks",
-      "category_hint": "NHL Hockey 03:30",
-      "url": "http://www.fawanews.sc/Utah Mammoth vs Vancouver Canucks.html"
+      "title": "Thailand vs Tajikistan --- CH 2",
+      "category_hint": "Friendly Match 13:30",
+      "url": "http://www.fawanews.sc/Thailand vs Tajikistan --- CH 2.html"
     },
     {
-      "title": "Wanderers vs Juventud",
-      "category_hint": "Uruguay Liga AUF 00:00",
-      "url": "http://www.fawanews.sc/Wanderers vs Juventud.html"
+      "title": "Thailand vs Tajikistan",
+      "category_hint": "Friendly Match 13:30",
+      "url": "http://www.fawanews.sc/Thailand vs Tajikistan.html"
     },
     {
-      "title": "Washington Wizards vs Memphis Grizzlies --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Washington Wizards vs Memphis Grizzlies --- CH 2.html"
-    },
-    {
-      "title": "Washington Wizards vs Memphis Grizzlies",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Washington Wizards vs Memphis Grizzlies.html"
+      "title": "United Arab Emirates vs Syria",
+      "category_hint": "Friendly Match 15:10",
+      "url": "http://www.fawanews.sc/United Arab Emirates vs Syria.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
