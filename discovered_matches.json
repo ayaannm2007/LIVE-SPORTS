@@ -2,177 +2,27 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 34,
+  "candidate_count": 4,
   "candidates": [
-    {
-      "title": "Alabama vs Kennesaw State",
-      "category_hint": "NCAA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Alabama vs Kennesaw State.html"
-    },
-    {
-      "title": "America De Cali vs Inter Bogota",
-      "category_hint": "Colombia Copa 02:30",
-      "url": "http://www.fawanews.sc/America De Cali vs Inter Bogota.html"
-    },
-    {
-      "title": "Atl Nacional vs Once Caldas",
-      "category_hint": "Colombia Copa 00:30",
-      "url": "http://www.fawanews.sc/Atl Nacional vs Once Caldas.html"
-    },
     {
       "title": "Australia vs England",
       "category_hint": "Cricket 04:30",
       "url": "http://www.fawanews.sc/Australia vs England.html"
     },
     {
-      "title": "Boston Bruins vs Los Angeles Kings",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/Boston Bruins vs Los Angeles Kings.html"
+      "title": "Boxing Junior vs Ahio",
+      "category_hint": "Boxing --:--",
+      "url": "http://www.fawanews.sc/Boxing_Junior vs Ahio.html"
     },
     {
-      "title": "Chicago Blackhawks vs Toronto Maple Leafs",
-      "category_hint": "NHL Hockey 01:30",
-      "url": "http://www.fawanews.sc/Chicago Blackhawks vs Toronto Maple Leafs.html"
+      "title": "Pakistan vs Sri Lanka",
+      "category_hint": "Cricket 05:30",
+      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
     },
     {
-      "title": "Duke vs University of Illinois",
-      "category_hint": "NCAA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Duke vs University of Illinois.html"
-    },
-    {
-      "title": "El Salvador vs Saint Martin --- CH 2",
-      "category_hint": "CONCACAF Nations League 02:00",
-      "url": "http://www.fawanews.sc/El Salvador vs Saint Martin --- CH 2.html"
-    },
-    {
-      "title": "El Salvador vs Saint Martin",
-      "category_hint": "CONCACAF Nations League 02:00",
-      "url": "http://www.fawanews.sc/El Salvador vs Saint Martin.html"
-    },
-    {
-      "title": "Florida Panthers vs Edmonton Oilers",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/Florida Panthers vs Edmonton Oilers.html"
-    },
-    {
-      "title": "Kent State vs Miami OH",
-      "category_hint": "NCAA American Football 01:00",
-      "url": "http://www.fawanews.sc/Kent State vs Miami OH.html"
-    },
-    {
-      "title": "Los Angeles Clippers vs Utah Jazz",
-      "category_hint": "NBA Basketball 04:30",
-      "url": "http://www.fawanews.sc/Los Angeles Clippers vs Utah Jazz.html"
-    },
-    {
-      "title": "Los Angeles Lakers vs Charlotte Hornets",
-      "category_hint": "NBA Basketball 05:00",
-      "url": "http://www.fawanews.sc/Los Angeles Lakers vs Charlotte Hornets.html"
-    },
-    {
-      "title": "Mexico vs Jamaica --- CH 2",
-      "category_hint": "CONCACAF Nations League 03:30",
-      "url": "http://www.fawanews.sc/Mexico vs Jamaica --- CH 2.html"
-    },
-    {
-      "title": "Mexico vs Jamaica",
-      "category_hint": "CONCACAF Nations League 03:30",
-      "url": "http://www.fawanews.sc/Mexico vs Jamaica.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Portland Trail Blazers --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers --- CH 2.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Portland Trail Blazers",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Portland Trail Blazers.html"
-    },
-    {
-      "title": "Minnesota Wild vs Nashville Predators",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Wild vs Nashville Predators.html"
-    },
-    {
-      "title": "New York Islanders vs Columbus Blue Jackets",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/New York Islanders vs Columbus Blue Jackets.html"
-    },
-    {
-      "title": "Nicaragua vs Montserrat",
-      "category_hint": "CONCACAF Nations League 04:00",
-      "url": "http://www.fawanews.sc/Nicaragua vs Montserrat.html"
-    },
-    {
-      "title": "Ohio vs Ball State",
-      "category_hint": "NCAA American Football 01:00",
-      "url": "http://www.fawanews.sc/Ohio vs Ball State.html"
-    },
-    {
-      "title": "Philadelphia Flyers vs Buffalo Sabres",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/Philadelphia Flyers vs Buffalo Sabres.html"
-    },
-    {
-      "title": "San Antonio Spurs vs Detroit Pistons --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Detroit Pistons --- CH 2.html"
-    },
-    {
-      "title": "San Antonio Spurs vs Detroit Pistons",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Detroit Pistons.html"
-    },
-    {
-      "title": "San Jose Sharks vs Calgary Flames",
-      "category_hint": "NHL Hockey 04:00",
-      "url": "http://www.fawanews.sc/San Jose Sharks vs Calgary Flames.html"
-    },
-    {
-      "title": "St Louis Blues vs Anaheim Ducks",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/St Louis Blues vs Anaheim Ducks.html"
-    },
-    {
-      "title": "Tampa Bay Lightning vs Washington Capitals",
-      "category_hint": "NHL Hockey 01:30",
-      "url": "http://www.fawanews.sc/Tampa Bay Lightning vs Washington Capitals.html"
-    },
-    {
-      "title": "Tennessee vs Michigan State",
-      "category_hint": "NCAA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Tennessee vs Michigan State.html"
-    },
-    {
-      "title": "Toronto Raptors vs New York Knicks --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Toronto Raptors vs New York Knicks --- CH 2.html"
-    },
-    {
-      "title": "Toronto Raptors vs New York Knicks",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Toronto Raptors vs New York Knicks.html"
-    },
-    {
-      "title": "UNLV vs Kansas Jayhawks",
-      "category_hint": "NCAA Basketball 03:30",
-      "url": "http://www.fawanews.sc/UNLV vs Kansas Jayhawks.html"
-    },
-    {
-      "title": "Vegas Golden Knights vs Dallas Stars",
-      "category_hint": "NHL Hockey 04:00",
-      "url": "http://www.fawanews.sc/Vegas Golden Knights vs Dallas Stars.html"
-    },
-    {
-      "title": "Western Michigan vs Eastern Michigan",
-      "category_hint": "NCAA American Football 00:00",
-      "url": "http://www.fawanews.sc/Western Michigan vs Eastern Michigan.html"
-    },
-    {
-      "title": "Winnipeg Jets vs Ottawa Senators",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/Winnipeg Jets vs Ottawa Senators.html"
+      "title": "South Africa vs Bangladesh 2",
+      "category_hint": "Cricket 09:00",
+      "url": "http://www.fawanews.sc/South Africa vs Bangladesh_2.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
