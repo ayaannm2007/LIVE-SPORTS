@@ -2,27 +2,177 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 4,
+  "candidate_count": 34,
   "candidates": [
     {
-      "title": "Australia vs England",
-      "category_hint": "Cricket 04:30",
-      "url": "http://www.fawanews.sc/Australia vs England.html"
+      "title": "AEK Athens vs Szombathely",
+      "category_hint": "Basketball Champions League 18:00",
+      "url": "http://www.fawanews.sc/AEK Athens vs Szombathely.html"
     },
     {
-      "title": "Boxing Junior vs Ahio",
-      "category_hint": "Boxing --:--",
-      "url": "http://www.fawanews.sc/Boxing_Junior vs Ahio.html"
+      "title": "AEK Larnaca vs Dziki Warszawa",
+      "category_hint": "Basketball Europe cup 18:00",
+      "url": "http://www.fawanews.sc/AEK Larnaca vs Dziki Warszawa.html"
     },
     {
-      "title": "Pakistan vs Sri Lanka",
-      "category_hint": "Cricket 05:30",
-      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
+      "title": "AEL vs Apollon",
+      "category_hint": "Cyprus Futsal 19:00",
+      "url": "http://www.fawanews.sc/AEL vs Apollon.html"
     },
     {
-      "title": "South Africa vs Bangladesh 2",
-      "category_hint": "Cricket 09:00",
-      "url": "http://www.fawanews.sc/South Africa vs Bangladesh_2.html"
+      "title": "Alcoyano vs Mallorca",
+      "category_hint": "Spanish Copa del Rey 20:00",
+      "url": "http://www.fawanews.sc/Alcoyano vs Mallorca.html"
+    },
+    {
+      "title": "Alianza Atl vs FBC Melgar",
+      "category_hint": "Peru Liga 1 Apertura 21:00",
+      "url": "http://www.fawanews.sc/Alianza Atl vs FBC Melgar.html"
+    },
+    {
+      "title": "Almtuna vs Ostersund",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Almtuna vs Ostersund.html"
+    },
+    {
+      "title": "Aris vs Le Mans",
+      "category_hint": "Basketball Eurocup 19:00",
+      "url": "http://www.fawanews.sc/Aris vs Le Mans.html"
+    },
+    {
+      "title": "BIK Karlskoga vs Oskarshamn",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/BIK Karlskoga vs Oskarshamn.html"
+    },
+    {
+      "title": "Besiktas vs Real Madrid --- CH 2",
+      "category_hint": "Basketball Euroleague 18:00",
+      "url": "http://www.fawanews.sc/Besiktas vs Real Madrid --- CH 2.html"
+    },
+    {
+      "title": "Besiktas vs Real Madrid",
+      "category_hint": "Basketball Euroleague 18:00",
+      "url": "http://www.fawanews.sc/Besiktas vs Real Madrid.html"
+    },
+    {
+      "title": "CD Badajoz vs Tenerife",
+      "category_hint": "Spanish Copa del Rey 20:00",
+      "url": "http://www.fawanews.sc/CD Badajoz vs Tenerife.html"
+    },
+    {
+      "title": "Chelsea W vs PSG W --- CH 2",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Chelsea W vs PSG W --- CH 2.html"
+    },
+    {
+      "title": "Chelsea W vs PSG W",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Chelsea W vs PSG W.html"
+    },
+    {
+      "title": "Coritiba vs Santos",
+      "category_hint": "Brazil Serie A 23:00",
+      "url": "http://www.fawanews.sc/Coritiba vs Santos.html"
+    },
+    {
+      "title": "Deportiva Minera vs FC Cartagena SAD",
+      "category_hint": "Spanish Copa del Rey 20:30",
+      "url": "http://www.fawanews.sc/Deportiva Minera vs FC Cartagena SAD.html"
+    },
+    {
+      "title": "Eisbaren Berlin vs KooKoo",
+      "category_hint": "Hockey Champions League 19:30",
+      "url": "http://www.fawanews.sc/Eisbaren Berlin vs KooKoo.html"
+    },
+    {
+      "title": "Fribourg vs Servette",
+      "category_hint": "Hockey Champions League 19:45",
+      "url": "http://www.fawanews.sc/Fribourg vs Servette.html"
+    },
+    {
+      "title": "Juventus W vs Leuven W --- CH 2",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Juventus W vs Leuven W --- CH 2.html"
+    },
+    {
+      "title": "Juventus W vs Leuven W",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Juventus W vs Leuven W.html"
+    },
+    {
+      "title": "KK Bosna vs Lietkabelis",
+      "category_hint": "Basketball Europe cup 19:30",
+      "url": "http://www.fawanews.sc/KK Bosna vs Lietkabelis.html"
+    },
+    {
+      "title": "London City Lionesses W vs Brighton W",
+      "category_hint": "English Women League Cup 20:00",
+      "url": "http://www.fawanews.sc/London City Lionesses W vs Brighton W.html"
+    },
+    {
+      "title": "Manchester Utd W vs Everton W",
+      "category_hint": "English Women League Cup 20:00",
+      "url": "http://www.fawanews.sc/Manchester Utd W vs Everton W.html"
+    },
+    {
+      "title": "Manresa vs PAOK",
+      "category_hint": "Basketball Eurocup 20:30",
+      "url": "http://www.fawanews.sc/Manresa vs PAOK.html"
+    },
+    {
+      "title": "Modo vs Kalmar",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Modo vs Kalmar.html"
+    },
+    {
+      "title": "Nottingham W vs Liverpool W",
+      "category_hint": "English Women League Cup 20:00",
+      "url": "http://www.fawanews.sc/Nottingham W vs Liverpool W.html"
+    },
+    {
+      "title": "Nybro vs Leksand",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Nybro vs Leksand.html"
+    },
+    {
+      "title": "Pardubice vs SaiPa",
+      "category_hint": "Hockey Champions League 18:00",
+      "url": "http://www.fawanews.sc/Pardubice vs SaiPa.html"
+    },
+    {
+      "title": "Portugalete vs Real Union",
+      "category_hint": "Spanish Copa del Rey 19:00",
+      "url": "http://www.fawanews.sc/Portugalete vs Real Union.html"
+    },
+    {
+      "title": "Reus FCR vs Barakaldo",
+      "category_hint": "Spanish Copa del Rey 20:30",
+      "url": "http://www.fawanews.sc/Reus FCR vs Barakaldo.html"
+    },
+    {
+      "title": "Tottenham W vs Leicester W",
+      "category_hint": "English Women League Cup 20:00",
+      "url": "http://www.fawanews.sc/Tottenham W vs Leicester W.html"
+    },
+    {
+      "title": "Utebo FC vs Sabadell",
+      "category_hint": "Spanish Copa del Rey 19:00",
+      "url": "http://www.fawanews.sc/Utebo FC vs Sabadell.html"
+    },
+    {
+      "title": "Vasteras vs Visby Roma",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Vasteras vs Visby Roma.html"
+    },
+    {
+      "title": "Vimmerby vs Sodertalje",
+      "category_hint": "Sweden HockeyAllsvenskan 19:00",
+      "url": "http://www.fawanews.sc/Vimmerby vs Sodertalje.html"
+    },
+    {
+      "title": "West Ham W vs Wolverhampton W",
+      "category_hint": "English Women League Cup 20:00",
+      "url": "http://www.fawanews.sc/West Ham W vs Wolverhampton W.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
