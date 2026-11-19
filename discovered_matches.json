@@ -2,77 +2,192 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 14,
+  "candidate_count": 37,
   "candidates": [
     {
-      "title": "Al Wasl vs Hatta",
-      "category_hint": "UAE League 13:45",
-      "url": "http://www.fawanews.sc/Al Wasl vs Hatta.html"
+      "title": "Al Ahli Doha vs Shamal",
+      "category_hint": "Qatar QSL 16:30",
+      "url": "http://www.fawanews.sc/Al Ahli Doha vs Shamal.html"
     },
     {
-      "title": "Beltinci vs Celje",
-      "category_hint": "Slovenia Prva Liga 13:30",
-      "url": "http://www.fawanews.sc/Beltinci vs Celje.html"
+      "title": "Al Ain vs Al Dhafra",
+      "category_hint": "UAE League 16:25",
+      "url": "http://www.fawanews.sc/Al Ain vs Al Dhafra.html"
     },
     {
-      "title": "Brisbane W vs Sydney Thunder W",
-      "category_hint": "Cricket WBBL 09:10",
-      "url": "http://www.fawanews.sc/Brisbane W vs Sydney Thunder W.html"
+      "title": "Al Masry vs Asyut Petroleum",
+      "category_hint": "Egypt Cup 16:00",
+      "url": "http://www.fawanews.sc/Al Masry vs Asyut Petroleum.html"
     },
     {
-      "title": "Cong An Ha Noi vs Johor DT",
-      "category_hint": "ASEAN Championship 13:30",
-      "url": "http://www.fawanews.sc/Cong An Ha Noi vs Johor DT.html"
+      "title": "Amiens vs Caen",
+      "category_hint": "Ligue 2 France 20:45",
+      "url": "http://www.fawanews.sc/Amiens vs Caen.html"
     },
     {
-      "title": "Dob vs NK Bistrica",
-      "category_hint": "Slovenia Prva Liga 13:30",
-      "url": "http://www.fawanews.sc/Dob vs NK Bistrica.html"
+      "title": "Arab Contractors vs Al Qanah",
+      "category_hint": "Egypt Cup 16:00",
+      "url": "http://www.fawanews.sc/Arab Contractors vs Al Qanah.html"
     },
     {
-      "title": "France U17 vs Haiti U17",
-      "category_hint": "World Cup U17 14:00",
-      "url": "http://www.fawanews.sc/France U17 vs Haiti U17.html"
+      "title": "Argentina U17 vs Australia U17",
+      "category_hint": "World Cup U17 17:00",
+      "url": "http://www.fawanews.sc/Argentina U17 vs Australia U17.html"
     },
     {
-      "title": "Illawarra Hawks vs Adelaide",
-      "category_hint": "Basketball NBL 09:30",
-      "url": "http://www.fawanews.sc/Illawarra Hawks vs Adelaide.html"
+      "title": "Arsenal W vs OL Lyonnes W",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Arsenal W vs OL Lyonnes W.html"
     },
     {
-      "title": "New Caledonia U17 vs Ecuador U17",
-      "category_hint": "World Cup U17 14:00",
-      "url": "http://www.fawanews.sc/New Caledonia U17 vs Ecuador U17.html"
+      "title": "Austria Vienna W vs Bayern Munchen W --- CH 2",
+      "category_hint": "UEFA Women Champions League 18:45",
+      "url": "http://www.fawanews.sc/Austria Vienna W vs Bayern Munchen W --- CH 2.html"
     },
     {
-      "title": "Pakistan vs Sri Lanka",
-      "category_hint": "Cricket 05:00",
-      "url": "http://www.fawanews.sc/Pakistan vs Sri Lanka.html"
+      "title": "Austria Vienna W vs Bayern Munchen W",
+      "category_hint": "UEFA Women Champions League 18:45",
+      "url": "http://www.fawanews.sc/Austria Vienna W vs Bayern Munchen W.html"
     },
     {
-      "title": "Persib Bandung vs Shan Utd",
-      "category_hint": "ASEAN Championship 13:00",
-      "url": "http://www.fawanews.sc/Persib Bandung vs Shan Utd.html"
+      "title": "Barcelona W vs Servette Geneve FC W",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/Barcelona W vs Servette Geneve FC W.html"
     },
     {
-      "title": "South Africa vs Bangladesh 2",
-      "category_hint": "Cricket 08:30",
-      "url": "http://www.fawanews.sc/South Africa vs Bangladesh_2.html"
+      "title": "Bayern Munchen vs Baskonia --- CH 2",
+      "category_hint": "Basketball Euroleague 20:00",
+      "url": "http://www.fawanews.sc/Bayern Munchen vs Baskonia --- CH 2.html"
     },
     {
-      "title": "South Korea U17 vs Uganda U17",
-      "category_hint": "World Cup U17 14:30",
-      "url": "http://www.fawanews.sc/South Korea U17 vs Uganda U17.html"
+      "title": "Bayern Munchen vs Baskonia",
+      "category_hint": "Basketball Euroleague 20:00",
+      "url": "http://www.fawanews.sc/Bayern Munchen vs Baskonia.html"
     },
     {
-      "title": "Svay Rieng vs Port FC",
-      "category_hint": "ASEAN Championship 13:00",
-      "url": "http://www.fawanews.sc/Svay Rieng vs Port FC.html"
+      "title": "Brynas vs Lulea",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Brynas vs Lulea.html"
     },
     {
-      "title": "Termez Surkhon vs Andijan",
-      "category_hint": "Uzbekistan Super League 14:00",
-      "url": "http://www.fawanews.sc/Termez Surkhon vs Andijan.html"
+      "title": "Djurgarden vs Skelleftea",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Djurgarden vs Skelleftea.html"
+    },
+    {
+      "title": "Egypt U17 vs Greece U17",
+      "category_hint": "World Cup U17 17:00",
+      "url": "http://www.fawanews.sc/Egypt U17 vs Greece U17.html"
+    },
+    {
+      "title": "Farjestad vs Frolunda",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Farjestad vs Frolunda.html"
+    },
+    {
+      "title": "Fredericia vs Hillerod",
+      "category_hint": "Denmark Division 1 19:00",
+      "url": "http://www.fawanews.sc/Fredericia vs Hillerod.html"
+    },
+    {
+      "title": "Grenoble FC vs Provence Rugby",
+      "category_hint": "France Rugby Pro D2 21:00",
+      "url": "http://www.fawanews.sc/Grenoble FC vs Provence Rugby.html"
+    },
+    {
+      "title": "Linkoping vs HV 71",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Linkoping vs HV 71.html"
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Dubai --- CH 2",
+      "category_hint": "Basketball Euroleague 18:15",
+      "url": "http://www.fawanews.sc/Maccabi Tel Aviv vs Dubai --- CH 2.html"
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Dubai",
+      "category_hint": "Basketball Euroleague 18:15",
+      "url": "http://www.fawanews.sc/Maccabi Tel Aviv vs Dubai.html"
+    },
+    {
+      "title": "Malmo vs Rogle",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Malmo vs Rogle.html"
+    },
+    {
+      "title": "Mozambique U17 vs Denmark U17",
+      "category_hint": "World Cup U17 16:00",
+      "url": "http://www.fawanews.sc/Mozambique U17 vs Denmark U17.html"
+    },
+    {
+      "title": "Olimpia Milano vs Fenerbahce",
+      "category_hint": "Basketball Euroleague 20:30",
+      "url": "http://www.fawanews.sc/Olimpia Milano vs Fenerbahce.html"
+    },
+    {
+      "title": "Orebro W vs FC Rosengard W",
+      "category_hint": "Sweden Women Allsvenskan 18:00",
+      "url": "http://www.fawanews.sc/Orebro W vs FC Rosengard W.html"
+    },
+    {
+      "title": "Paris FC W vs Koge W --- CH 2",
+      "category_hint": "UEFA Women Champions League 18:45",
+      "url": "http://www.fawanews.sc/Paris FC W vs Koge W --- CH 2.html"
+    },
+    {
+      "title": "Paris FC W vs Koge W",
+      "category_hint": "UEFA Women Champions League 18:45",
+      "url": "http://www.fawanews.sc/Paris FC W vs Koge W.html"
+    },
+    {
+      "title": "Paris vs Hapoel Tel Aviv",
+      "category_hint": "Basketball Euroleague 20:45",
+      "url": "http://www.fawanews.sc/Paris vs Hapoel Tel Aviv.html"
+    },
+    {
+      "title": "Qatar U17 vs Panama U17",
+      "category_hint": "World Cup U17 16:30",
+      "url": "http://www.fawanews.sc/Qatar U17 vs Panama U17.html"
+    },
+    {
+      "title": "SL Benfica W vs AS Roma W",
+      "category_hint": "UEFA Women Champions League 21:00",
+      "url": "http://www.fawanews.sc/SL Benfica W vs AS Roma W.html"
+    },
+    {
+      "title": "Saudi Arabia U17 vs Uruguay U17",
+      "category_hint": "World Cup U17 15:00",
+      "url": "http://www.fawanews.sc/Saudi Arabia U17 vs Uruguay U17.html"
+    },
+    {
+      "title": "Timra vs Orebro",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Timra vs Orebro.html"
+    },
+    {
+      "title": "Valencia vs Virtus Bologna",
+      "category_hint": "Basketball Euroleague 21:00",
+      "url": "http://www.fawanews.sc/Valencia vs Virtus Bologna.html"
+    },
+    {
+      "title": "Vaxjo vs IF Bjorkloven",
+      "category_hint": "Sweden Hockey SHL 19:00",
+      "url": "http://www.fawanews.sc/Vaxjo vs IF Bjorkloven.html"
+    },
+    {
+      "title": "ZED vs Smouha",
+      "category_hint": "Egypt Cup 19:00",
+      "url": "http://www.fawanews.sc/ZED vs Smouha.html"
+    },
+    {
+      "title": "Zalgiris Kaunas vs Panathinaikos --- CH 2",
+      "category_hint": "Basketball Euroleague 19:00",
+      "url": "http://www.fawanews.sc/Zalgiris Kaunas vs Panathinaikos --- CH 2.html"
+    },
+    {
+      "title": "Zalgiris Kaunas vs Panathinaikos",
+      "category_hint": "Basketball Euroleague 19:00",
+      "url": "http://www.fawanews.sc/Zalgiris Kaunas vs Panathinaikos.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
