@@ -2,8 +2,13 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 38,
+  "candidate_count": 40,
   "candidates": [
+    {
+      "title": "Cairns Taipans vs Perth",
+      "category_hint": "Basketball NBL 09:30",
+      "url": "http://www.fawanews.sc/Cairns Taipans vs Perth.html"
+    },
     {
       "title": "Calgary Flames vs Minnesota Wild",
       "category_hint": "NHL Hockey 02:00",
@@ -183,6 +188,11 @@
       "title": "Vitoria vs Bragantino",
       "category_hint": "Brazil Serie A 23:30",
       "url": "http://www.fawanews.sc/Vitoria vs Bragantino.html"
+    },
+    {
+      "title": "WS Wanderers vs Adelaide United",
+      "category_hint": "Australia A-League 09:40",
+      "url": "http://www.fawanews.sc/WS Wanderers vs Adelaide United.html"
     },
     {
       "title": "Washington Capitals vs Buffalo Sabres",
