@@ -2,7 +2,7 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 93,
+  "candidate_count": 91,
   "candidates": [
     {
       "title": "Academia del Balompie vs Aurora",
@@ -65,6 +65,11 @@
       "url": "http://www.fawanews.sc/Boston Bruins vs Washington Capitals.html"
     },
     {
+      "title": "Brisbane Bullets vs Sydney",
+      "category_hint": "Basketball NBL 07:00",
+      "url": "http://www.fawanews.sc/Brisbane Bullets vs Sydney.html"
+    },
+    {
       "title": "Calgary Flames vs Chicago Blackhawks",
       "category_hint": "NHL Hockey 21:30",
       "url": "http://www.fawanews.sc/Calgary Flames vs Chicago Blackhawks.html"
@@ -88,16 +93,6 @@
       "title": "Connecticut vs Old Dominion",
       "category_hint": "NCAA American Football 21:30",
       "url": "http://www.fawanews.sc/Connecticut vs Old Dominion.html"
-    },
-    {
-      "title": "Dallas Mavericks vs Los Angeles Clippers --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Dallas Mavericks vs Los Angeles Clippers --- CH 2.html"
-    },
-    {
-      "title": "Dallas Mavericks vs Los Angeles Clippers",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Dallas Mavericks vs Los Angeles Clippers.html"
     },
     {
       "title": "Detroit Red Wings vs New York Islanders",
@@ -135,19 +130,19 @@
       "url": "http://www.fawanews.sc/Fresno State vs Colorado State Rams.html"
     },
     {
+      "title": "Gimcheon Sangmu vs Jeju SK",
+      "category_hint": "South Korea K League 06:00",
+      "url": "http://www.fawanews.sc/Gimcheon Sangmu vs Jeju SK.html"
+    },
+    {
+      "title": "Gwangju FC vs Bucheon FC 1995",
+      "category_hint": "South Korea K League 06:00",
+      "url": "http://www.fawanews.sc/Gwangju FC vs Bucheon FC 1995.html"
+    },
+    {
       "title": "Illinois vs Iowa",
       "category_hint": "NCAA American Football 20:30",
       "url": "http://www.fawanews.sc/Illinois vs Iowa.html"
-    },
-    {
-      "title": "Inter Miami vs Columbus Crew --- CH 2",
-      "category_hint": "MLS League 00:00",
-      "url": "http://www.fawanews.sc/Inter Miami vs Columbus Crew --- CH 2.html"
-    },
-    {
-      "title": "Inter Miami vs Columbus Crew",
-      "category_hint": "MLS League 00:00",
-      "url": "http://www.fawanews.sc/Inter Miami vs Columbus Crew.html"
     },
     {
       "title": "Jacksonville State vs Missouri State",
@@ -180,6 +175,16 @@
       "url": "http://www.fawanews.sc/Marshall vs Georgia State Panthers.html"
     },
     {
+      "title": "Marumo Gallants U23 vs Polokwane U23",
+      "category_hint": "South Africa Diski Challenge 09:00",
+      "url": "http://www.fawanews.sc/Marumo Gallants U23 vs Polokwane U23.html"
+    },
+    {
+      "title": "Melbourne Renegades W vs Melbourne Stars W",
+      "category_hint": "Cricket WBBL 09:05",
+      "url": "http://www.fawanews.sc/Melbourne Renegades W vs Melbourne Stars W.html"
+    },
+    {
       "title": "Melbourne Victory W vs Perth W",
       "category_hint": "Australia A-League 05:00",
       "url": "http://www.fawanews.sc/Melbourne Victory W vs Perth W.html"
@@ -193,16 +198,6 @@
       "title": "Michigan vs UCLA",
       "category_hint": "NCAA American Football 21:30",
       "url": "http://www.fawanews.sc/Michigan vs UCLA.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Memphis Grizzlies --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Memphis Grizzlies --- CH 2.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Memphis Grizzlies.html"
     },
     {
       "title": "Missouri vs Kentucky",
@@ -228,16 +223,6 @@
       "title": "New Mexico State vs Delaware Fightin",
       "category_hint": "NCAA American Football 21:00",
       "url": "http://www.fawanews.sc/New Mexico State vs Delaware Fightin.html"
-    },
-    {
-      "title": "New York Knicks vs Portland Trail Blazers --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/New York Knicks vs Portland Trail Blazers --- CH 2.html"
-    },
-    {
-      "title": "New York Knicks vs Portland Trail Blazers",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/New York Knicks vs Portland Trail Blazers.html"
     },
     {
       "title": "New Zealand vs India",
@@ -310,6 +295,11 @@
       "url": "http://www.fawanews.sc/Philadelphia 76ers vs Milwaukee Bucks.html"
     },
     {
+      "title": "Sacramento Kings vs Boston Celtics --- CH 2",
+      "category_hint": "NBA Basketball 04:00",
+      "url": "http://www.fawanews.sc/Sacramento Kings vs Boston Celtics --- CH 2.html"
+    },
+    {
       "title": "Sacramento Kings vs Boston Celtics",
       "category_hint": "NBA Basketball 04:00",
       "url": "http://www.fawanews.sc/Sacramento Kings vs Boston Celtics.html"
@@ -318,16 +308,6 @@
       "title": "Sam Houston State vs Middle Tennessee St",
       "category_hint": "NCAA American Football 20:00",
       "url": "http://www.fawanews.sc/Sam Houston State vs Middle Tennessee St.html"
-    },
-    {
-      "title": "San Antonio Spurs vs New Orleans Pelicans --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs New Orleans Pelicans --- CH 2.html"
-    },
-    {
-      "title": "San Antonio Spurs vs New Orleans Pelicans",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs New Orleans Pelicans.html"
     },
     {
       "title": "San Jose Sharks vs Seattle Kraken",
@@ -348,6 +328,11 @@
       "title": "South Carolina vs Georgia",
       "category_hint": "NCAA American Football 01:30",
       "url": "http://www.fawanews.sc/South Carolina vs Georgia.html"
+    },
+    {
+      "title": "South East Melbourne vs Cairns Taipans",
+      "category_hint": "Basketball NBL 05:00",
+      "url": "http://www.fawanews.sc/South East Melbourne vs Cairns Taipans.html"
     },
     {
       "title": "Southern Miss vs South Alabama",
@@ -393,6 +378,11 @@
       "title": "Tigres UANL vs Club America",
       "category_hint": "Mexico Liga MX 04:00",
       "url": "http://www.fawanews.sc/Tigres UANL vs Club America.html"
+    },
+    {
+      "title": "Tokushima vs Shonan Bellmare",
+      "category_hint": "Japan J2 League 06:00",
+      "url": "http://www.fawanews.sc/Tokushima vs Shonan Bellmare.html"
     },
     {
       "title": "Toronto Maple Leafs vs Columbus Blue Jackets",
