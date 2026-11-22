@@ -2,452 +2,152 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 89,
+  "candidate_count": 29,
   "candidates": [
     {
-      "title": "AC Milan vs Frosinone --- CH 2",
-      "category_hint": "Italy Serie A 18:00",
-      "url": "http://www.fawanews.sc/AC Milan vs Frosinone --- CH 2.html"
+      "title": "Atalanta vs Inter Milan --- CH 2",
+      "category_hint": "Italy Serie A 20:45",
+      "url": "http://www.fawanews.sc/Atalanta vs Inter Milan --- CH 2.html"
     },
     {
-      "title": "AC Milan vs Frosinone",
-      "category_hint": "Italy Serie A 18:00",
-      "url": "http://www.fawanews.sc/AC Milan vs Frosinone.html"
+      "title": "Atalanta vs Inter Milan",
+      "category_hint": "Italy Serie A 20:45",
+      "url": "http://www.fawanews.sc/Atalanta vs Inter Milan.html"
     },
     {
-      "title": "Aalesund vs Rosenborg",
-      "category_hint": "Norway Eliteserien 17:00",
-      "url": "http://www.fawanews.sc/Aalesund vs Rosenborg.html"
+      "title": "Atlanta Hawks vs Detroit Pistons --- CH 2",
+      "category_hint": "NBA Basketball 21:30",
+      "url": "http://www.fawanews.sc/Atlanta Hawks vs Detroit Pistons --- CH 2.html"
     },
     {
-      "title": "Alashkert vs Noah",
-      "category_hint": "Armenia Premier League 17:00",
-      "url": "http://www.fawanews.sc/Alashkert vs Noah.html"
+      "title": "Atlanta Hawks vs Detroit Pistons",
+      "category_hint": "NBA Basketball 21:30",
+      "url": "http://www.fawanews.sc/Atlanta Hawks vs Detroit Pistons.html"
     },
     {
-      "title": "Apollon vs Omonia 29th May",
-      "category_hint": "Cyprus League 18:00",
-      "url": "http://www.fawanews.sc/Apollon vs Omonia 29th May.html"
+      "title": "Atletico GO vs Vila Nova FC",
+      "category_hint": "Brazil Serie B 22:30",
+      "url": "http://www.fawanews.sc/Atletico GO vs Vila Nova FC.html"
     },
     {
-      "title": "Arezzo vs Padova",
-      "category_hint": "Italy Serie B 17:15",
-      "url": "http://www.fawanews.sc/Arezzo vs Padova.html"
+      "title": "Bragantino vs Vasco",
+      "category_hint": "Brazil Serie A 23:30",
+      "url": "http://www.fawanews.sc/Bragantino vs Vasco.html"
     },
     {
-      "title": "Argentina U17 vs Mozambique U17",
-      "category_hint": "World Cup U17 16:30",
-      "url": "http://www.fawanews.sc/Argentina U17 vs Mozambique U17.html"
+      "title": "Burgos CF vs Albacete",
+      "category_hint": "Spanish Segunda Liga 21:00",
+      "url": "http://www.fawanews.sc/Burgos CF vs Albacete.html"
     },
     {
-      "title": "Arsenal W vs West Ham W --- CH 2",
-      "category_hint": "English Women Super League 15:30",
-      "url": "http://www.fawanews.sc/Arsenal W vs West Ham W --- CH 2.html"
+      "title": "Colo Colo vs U Catolica",
+      "category_hint": "Chile Liga de Primera 22:00",
+      "url": "http://www.fawanews.sc/Colo Colo vs U Catolica.html"
     },
     {
-      "title": "Arsenal W vs West Ham W",
-      "category_hint": "English Women Super League 15:30",
-      "url": "http://www.fawanews.sc/Arsenal W vs West Ham W.html"
+      "title": "Fluminense vs Mirassol",
+      "category_hint": "Brazil Serie A 22:30",
+      "url": "http://www.fawanews.sc/Fluminense vs Mirassol.html"
     },
     {
-      "title": "Augsburg vs Mainz --- CH 2",
-      "category_hint": "German Bundesliga 15:30",
-      "url": "http://www.fawanews.sc/Augsburg vs Mainz --- CH 2.html"
+      "title": "Getafe vs Atletico Madrid --- CH 2",
+      "category_hint": "Spanish La Liga 21:00",
+      "url": "http://www.fawanews.sc/Getafe vs Atletico Madrid --- CH 2.html"
     },
     {
-      "title": "Augsburg vs Mainz",
-      "category_hint": "German Bundesliga 15:30",
-      "url": "http://www.fawanews.sc/Augsburg vs Mainz.html"
+      "title": "Getafe vs Atletico Madrid",
+      "category_hint": "Spanish La Liga 21:00",
+      "url": "http://www.fawanews.sc/Getafe vs Atletico Madrid.html"
     },
     {
-      "title": "Austria Vienna vs Salzburg",
-      "category_hint": "Austria Bundesliga 17:00",
-      "url": "http://www.fawanews.sc/Austria Vienna vs Salzburg.html"
+      "title": "LDU Quito vs Aucas",
+      "category_hint": "Ecuador Liga Pro 22:30",
+      "url": "http://www.fawanews.sc/LDU Quito vs Aucas.html"
     },
     {
-      "title": "Avellino vs Mantova",
-      "category_hint": "Italy Serie B 15:00",
-      "url": "http://www.fawanews.sc/Avellino vs Mantova.html"
+      "title": "Lazio W vs Juventus W",
+      "category_hint": "Italy Women Serie A 20:30",
+      "url": "http://www.fawanews.sc/Lazio W vs Juventus W.html"
     },
     {
-      "title": "Beerschot VA vs Genk U23",
-      "category_hint": "Belgium Challenger Pro League 16:00",
-      "url": "http://www.fawanews.sc/Beerschot VA vs Genk U23.html"
+      "title": "Marseille vs Le Mans --- CH 2",
+      "category_hint": "Ligue 1 France 20:45",
+      "url": "http://www.fawanews.sc/Marseille vs Le Mans --- CH 2.html"
     },
     {
-      "title": "Bologna vs Udinese --- CH 2",
-      "category_hint": "Italy Serie A 15:00",
-      "url": "http://www.fawanews.sc/Bologna vs Udinese --- CH 2.html"
+      "title": "Marseille vs Le Mans",
+      "category_hint": "Ligue 1 France 20:45",
+      "url": "http://www.fawanews.sc/Marseille vs Le Mans.html"
     },
     {
-      "title": "Bologna vs Udinese",
-      "category_hint": "Italy Serie A 15:00",
-      "url": "http://www.fawanews.sc/Bologna vs Udinese.html"
+      "title": "Miami Heat vs Oklahoma City Thunder",
+      "category_hint": "NBA Basketball 00:00",
+      "url": "http://www.fawanews.sc/Miami Heat vs Oklahoma City Thunder.html"
     },
     {
-      "title": "Botev Plovdiv vs CSKA Sofia",
-      "category_hint": "Bulgaria efbet League 17:00",
-      "url": "http://www.fawanews.sc/Botev Plovdiv vs CSKA Sofia.html"
+      "title": "NFL Denver Broncos vs Las Vegas Raiders",
+      "category_hint": "NFL American Football 22:25",
+      "url": "http://www.fawanews.sc/NFL_Denver Broncos vs Las Vegas Raiders.html"
     },
     {
-      "title": "Brommapojkarna vs Halmstad",
-      "category_hint": "Sweden Allsvenskan 16:30",
-      "url": "http://www.fawanews.sc/Brommapojkarna vs Halmstad.html"
+      "title": "NFL Los Angeles Chargers vs New York Jets",
+      "category_hint": "NFL American Football 22:05",
+      "url": "http://www.fawanews.sc/NFL_Los Angeles Chargers vs New York Jets.html"
     },
     {
-      "title": "Bursaspor vs Sivasspor",
-      "category_hint": "Turkey Lig 1 17:00",
-      "url": "http://www.fawanews.sc/Bursaspor vs Sivasspor.html"
+      "title": "NFL New York Giants vs Jacksonville Jaguars",
+      "category_hint": "NFL American Football 22:25",
+      "url": "http://www.fawanews.sc/NFL_New York Giants vs Jacksonville Jaguars.html"
     },
     {
-      "title": "Celik Zenica vs Sloga Meridian",
-      "category_hint": "Bosnia and Herzegovina Premier League 15:00",
-      "url": "http://www.fawanews.sc/Celik Zenica vs Sloga Meridian.html"
+      "title": "Nashville SC vs FC Cincinnati --- CH 2",
+      "category_hint": "MLS League 22:00",
+      "url": "http://www.fawanews.sc/Nashville SC vs FC Cincinnati --- CH 2.html"
     },
     {
-      "title": "Celje vs Grosuplje",
-      "category_hint": "Slovenia Prva Liga 17:30",
-      "url": "http://www.fawanews.sc/Celje vs Grosuplje.html"
+      "title": "Nashville SC vs FC Cincinnati",
+      "category_hint": "MLS League 22:00",
+      "url": "http://www.fawanews.sc/Nashville SC vs FC Cincinnati.html"
     },
     {
-      "title": "Charlton W vs Aston Villa W --- CH 2",
-      "category_hint": "English Women Super League 15:00",
-      "url": "http://www.fawanews.sc/Charlton W vs Aston Villa W --- CH 2.html"
+      "title": "Olimpia Asuncion vs Sportivo Trinidense",
+      "category_hint": "Paraguay Copa 22:00",
+      "url": "http://www.fawanews.sc/Olimpia Asuncion vs Sportivo Trinidense.html"
     },
     {
-      "title": "Charlton W vs Aston Villa W",
-      "category_hint": "English Women Super League 15:00",
-      "url": "http://www.fawanews.sc/Charlton W vs Aston Villa W.html"
+      "title": "River Plate vs Lanus",
+      "category_hint": "Argentina Liga Profesional 23:00",
+      "url": "http://www.fawanews.sc/River Plate vs Lanus.html"
     },
     {
-      "title": "Churchill Brothers vs Mohun Bagan",
-      "category_hint": "India ISL League 15:00",
-      "url": "http://www.fawanews.sc/Churchill Brothers vs Mohun Bagan.html"
+      "title": "Rubio Nu vs Libertad Asuncion",
+      "category_hint": "Paraguay Copa 22:00",
+      "url": "http://www.fawanews.sc/Rubio Nu vs Libertad Asuncion.html"
     },
     {
-      "title": "Costa Adeje Tenerife W vs Madrid CFF W",
-      "category_hint": "Spanish Liga F Women 17:00",
-      "url": "http://www.fawanews.sc/Costa Adeje Tenerife W vs Madrid CFF W.html"
+      "title": "Sport Huancayo vs U de Deportes",
+      "category_hint": "Peru Liga 1 Apertura 21:00",
+      "url": "http://www.fawanews.sc/Sport Huancayo vs U de Deportes.html"
     },
     {
-      "title": "Dinamo Minsk vs FC Minsk",
-      "category_hint": "Belarus Vysshaya Liga 15:00",
-      "url": "http://www.fawanews.sc/Dinamo Minsk vs FC Minsk.html"
+      "title": "Sporting Cristal vs Cienciano",
+      "category_hint": "Peru Liga 1 Apertura 21:00",
+      "url": "http://www.fawanews.sc/Sporting Cristal vs Cienciano.html"
     },
     {
-      "title": "Dinamo Zagreb vs Istra 1961",
-      "category_hint": "Croatia 1 HNL 15:00",
-      "url": "http://www.fawanews.sc/Dinamo Zagreb vs Istra 1961.html"
+      "title": "Tampa Bay Lightning vs Buffalo Sabres",
+      "category_hint": "NHL Hockey 23:00",
+      "url": "http://www.fawanews.sc/Tampa Bay Lightning vs Buffalo Sabres.html"
     },
     {
-      "title": "Dun Streda vs Komarno",
-      "category_hint": "Slovakia Nike liga 18:00",
-      "url": "http://www.fawanews.sc/Dun Streda vs Komarno.html"
+      "title": "The Strongest vs Blooming",
+      "category_hint": "Bolivia Division Profesional 22:15",
+      "url": "http://www.fawanews.sc/The Strongest vs Blooming.html"
     },
     {
-      "title": "Everton W vs Brighton W --- CH 2",
-      "category_hint": "English Women Super League 15:00",
-      "url": "http://www.fawanews.sc/Everton W vs Brighton W --- CH 2.html"
-    },
-    {
-      "title": "Everton W vs Brighton W",
-      "category_hint": "English Women Super League 15:00",
-      "url": "http://www.fawanews.sc/Everton W vs Brighton W.html"
-    },
-    {
-      "title": "FC Basel vs Luzern",
-      "category_hint": "Switzerland Super League 16:30",
-      "url": "http://www.fawanews.sc/FC Basel vs Luzern.html"
-    },
-    {
-      "title": "FK Sarajevo vs Siroki Brijeg",
-      "category_hint": "Bosnia and Herzegovina Premier League 17:30",
-      "url": "http://www.fawanews.sc/FK Sarajevo vs Siroki Brijeg.html"
-    },
-    {
-      "title": "Fiorentina W vs Como 1907 W",
-      "category_hint": "Italy Women Serie A 15:00",
-      "url": "http://www.fawanews.sc/Fiorentina W vs Como 1907 W.html"
-    },
-    {
-      "title": "GA Eagles vs Fortuna Sittard",
-      "category_hint": "Dutch Eredivisie 16:45",
-      "url": "http://www.fawanews.sc/GA Eagles vs Fortuna Sittard.html"
-    },
-    {
-      "title": "GKS Katowice vs Lech Poznan",
-      "category_hint": "Poland Ekstraklasa 14:45",
-      "url": "http://www.fawanews.sc/GKS Katowice vs Lech Poznan.html"
-    },
-    {
-      "title": "Gijon vs Las Palmas",
-      "category_hint": "Spanish Segunda Liga 16:15",
-      "url": "http://www.fawanews.sc/Gijon vs Las Palmas.html"
-    },
-    {
-      "title": "Huachipato vs D Concepcion",
-      "category_hint": "Chile Liga de Primera 16:00",
-      "url": "http://www.fawanews.sc/Huachipato vs D Concepcion.html"
-    },
-    {
-      "title": "IMT Novi Beograd vs Partizan",
-      "category_hint": "Serbia Super Liga 15:00",
-      "url": "http://www.fawanews.sc/IMT Novi Beograd vs Partizan.html"
-    },
-    {
-      "title": "India A vs Pakistan A",
-      "category_hint": "Cricket 05:00",
-      "url": "http://www.fawanews.sc/India A vs Pakistan A.html"
-    },
-    {
-      "title": "Isloch vs Zhodino",
-      "category_hint": "Belarus Vysshaya Liga 15:00",
-      "url": "http://www.fawanews.sc/Isloch vs Zhodino.html"
-    },
-    {
-      "title": "KFUM Oslo vs Brann",
-      "category_hint": "Norway Eliteserien 17:00",
-      "url": "http://www.fawanews.sc/KFUM Oslo vs Brann.html"
-    },
-    {
-      "title": "Kagera Sugar vs TRA United",
-      "category_hint": "Tanzania Ligi Kuu Bara 16:00",
-      "url": "http://www.fawanews.sc/Kagera Sugar vs TRA United.html"
-    },
-    {
-      "title": "Karmiotissa vs AEL Limassol",
-      "category_hint": "Cyprus League 16:00",
-      "url": "http://www.fawanews.sc/Karmiotissa vs AEL Limassol.html"
-    },
-    {
-      "title": "Kortrijk vs Royale Union SG --- CH 2",
-      "category_hint": "Belgium Pro League 16:00",
-      "url": "http://www.fawanews.sc/Kortrijk vs Royale Union SG --- CH 2.html"
-    },
-    {
-      "title": "Kortrijk vs Royale Union SG",
-      "category_hint": "Belgium Pro League 16:00",
-      "url": "http://www.fawanews.sc/Kortrijk vs Royale Union SG.html"
-    },
-    {
-      "title": "Kosice vs Skalica",
-      "category_hint": "Slovakia Nike liga 15:30",
-      "url": "http://www.fawanews.sc/Kosice vs Skalica.html"
-    },
-    {
-      "title": "Kristiansund vs Sandefjord",
-      "category_hint": "Norway Eliteserien 17:00",
-      "url": "http://www.fawanews.sc/Kristiansund vs Sandefjord.html"
-    },
-    {
-      "title": "Lausanne vs Vaduz",
-      "category_hint": "Switzerland Super League 16:30",
-      "url": "http://www.fawanews.sc/Lausanne vs Vaduz.html"
-    },
-    {
-      "title": "Levadiakos vs Atromitos",
-      "category_hint": "Greece Super League 15:00",
-      "url": "http://www.fawanews.sc/Levadiakos vs Atromitos.html"
-    },
-    {
-      "title": "Liverpool vs Manchester United --- CH 2",
-      "category_hint": "English Premier League 17:30",
-      "url": "http://www.fawanews.sc/Liverpool vs Manchester United --- CH 2.html"
-    },
-    {
-      "title": "Liverpool vs Manchester United --- CH 3",
-      "category_hint": "English Premier League 17:30",
-      "url": "http://www.fawanews.sc/Liverpool vs Manchester United --- CH 3.html"
-    },
-    {
-      "title": "Liverpool vs Manchester United1",
-      "category_hint": "English Premier League 17:30",
-      "url": "http://www.fawanews.sc/Liverpool vs Manchester United1.html"
-    },
-    {
-      "title": "Lorient vs Rennes --- CH 2",
-      "category_hint": "Ligue 1 France 17:15",
-      "url": "http://www.fawanews.sc/Lorient vs Rennes --- CH 2.html"
-    },
-    {
-      "title": "Lorient vs Rennes",
-      "category_hint": "Ligue 1 France 17:15",
-      "url": "http://www.fawanews.sc/Lorient vs Rennes.html"
-    },
-    {
-      "title": "ML Vitebsk vs Slavia Mozyr",
-      "category_hint": "Belarus Vysshaya Liga 15:00",
-      "url": "http://www.fawanews.sc/ML Vitebsk vs Slavia Mozyr.html"
-    },
-    {
-      "title": "Macva vs Vojvodina",
-      "category_hint": "Serbia Super Liga 17:00",
-      "url": "http://www.fawanews.sc/Macva vs Vojvodina.html"
-    },
-    {
-      "title": "Manta vs Delfin",
-      "category_hint": "Ecuador Liga Pro 17:30",
-      "url": "http://www.fawanews.sc/Manta vs Delfin.html"
-    },
-    {
-      "title": "Maribor vs Nafta",
-      "category_hint": "Slovenia Prva Liga 15:00",
-      "url": "http://www.fawanews.sc/Maribor vs Nafta.html"
-    },
-    {
-      "title": "Nordsjaelland vs FC Copenhagen",
-      "category_hint": "Denmark SuperLiga 18:00",
-      "url": "http://www.fawanews.sc/Nordsjaelland vs FC Copenhagen.html"
-    },
-    {
-      "title": "Nyiregyhaza vs Debrecen",
-      "category_hint": "Hungary NB 1 Liga 16:00",
-      "url": "http://www.fawanews.sc/Nyiregyhaza vs Debrecen.html"
-    },
-    {
-      "title": "Olympiacos vs Iraklis 1908",
-      "category_hint": "Greece Super League 18:00",
-      "url": "http://www.fawanews.sc/Olympiacos vs Iraklis 1908.html"
-    },
-    {
-      "title": "Panathinaikos vs OFI Crete",
-      "category_hint": "Greece Super League 16:30",
-      "url": "http://www.fawanews.sc/Panathinaikos vs OFI Crete.html"
-    },
-    {
-      "title": "Panetolikos vs Volos",
-      "category_hint": "Greece Super League 16:00",
-      "url": "http://www.fawanews.sc/Panetolikos vs Volos.html"
-    },
-    {
-      "title": "Paris FC vs Angers --- CH 2",
-      "category_hint": "Ligue 1 France 15:00",
-      "url": "http://www.fawanews.sc/Paris FC vs Angers --- CH 2.html"
-    },
-    {
-      "title": "Paris FC vs Angers",
-      "category_hint": "Ligue 1 France 15:00",
-      "url": "http://www.fawanews.sc/Paris FC vs Angers.html"
-    },
-    {
-      "title": "Qatar U17 vs Egypt U17",
-      "category_hint": "World Cup U17 16:00",
-      "url": "http://www.fawanews.sc/Qatar U17 vs Egypt U17.html"
-    },
-    {
-      "title": "RB Leipzig W vs Wolfsburg W",
-      "category_hint": "German Women Bundesliga 16:00",
-      "url": "http://www.fawanews.sc/RB Leipzig W vs Wolfsburg W.html"
-    },
-    {
-      "title": "Racing Santander vs Real Sociedad --- CH 2",
-      "category_hint": "Spanish La Liga 16:15",
-      "url": "http://www.fawanews.sc/Racing Santander vs Real Sociedad --- CH 2.html"
-    },
-    {
-      "title": "Racing Santander vs Real Sociedad",
-      "category_hint": "Spanish La Liga 16:15",
-      "url": "http://www.fawanews.sc/Racing Santander vs Real Sociedad.html"
-    },
-    {
-      "title": "Rijeka vs Gorica",
-      "category_hint": "Croatia 1 HNL 18:00",
-      "url": "http://www.fawanews.sc/Rijeka vs Gorica.html"
-    },
-    {
-      "title": "Rodina Moscow vs Lokomotiv Moscow",
-      "category_hint": "Russia Premier League 17:00",
-      "url": "http://www.fawanews.sc/Rodina Moscow vs Lokomotiv Moscow.html"
-    },
-    {
-      "title": "S Rzeszow vs Polonia Bytom",
-      "category_hint": "Poland Division 1 17:00",
-      "url": "http://www.fawanews.sc/S Rzeszow vs Polonia Bytom.html"
-    },
-    {
-      "title": "Saarbrucken vs Wehen",
-      "category_hint": "German 3 liga 16:30",
-      "url": "http://www.fawanews.sc/Saarbrucken vs Wehen.html"
-    },
-    {
-      "title": "Sassuolo vs Genoa --- CH 2",
-      "category_hint": "Italy Serie A 15:00",
-      "url": "http://www.fawanews.sc/Sassuolo vs Genoa --- CH 2.html"
-    },
-    {
-      "title": "Sassuolo vs Genoa",
-      "category_hint": "Italy Serie A 15:00",
-      "url": "http://www.fawanews.sc/Sassuolo vs Genoa.html"
-    },
-    {
-      "title": "Slovacko vs Hradec Kralove",
-      "category_hint": "Czech Chance Liga 15:00",
-      "url": "http://www.fawanews.sc/Slovacko vs Hradec Kralove.html"
-    },
-    {
-      "title": "Sonderjyske vs Odense",
-      "category_hint": "Denmark SuperLiga 16:00",
-      "url": "http://www.fawanews.sc/Sonderjyske vs Odense.html"
-    },
-    {
-      "title": "South Korea U17 vs New Caledonia U17",
-      "category_hint": "World Cup U17 15:30",
-      "url": "http://www.fawanews.sc/South Korea U17 vs New Caledonia U17.html"
-    },
-    {
-      "title": "Sparta Prague vs Liberec",
-      "category_hint": "Czech Chance Liga 18:00",
-      "url": "http://www.fawanews.sc/Sparta Prague vs Liberec.html"
-    },
-    {
-      "title": "Trabzonspor vs Eyupspor --- CH 2",
-      "category_hint": "Turkey Super Lig 17:00",
-      "url": "http://www.fawanews.sc/Trabzonspor vs Eyupspor --- CH 2.html"
-    },
-    {
-      "title": "Trabzonspor vs Eyupspor --- CH 2html",
-      "category_hint": "Trabzonspor vs Eyupspor --- CH 2 Turkey Super Lig 17:00",
-      "url": "http://www.fawanews.sc/Trabzonspor vs Eyupspor --- CH 2html"
-    },
-    {
-      "title": "Trabzonspor vs Eyupspor",
-      "category_hint": "Turkey Super Lig 17:00",
-      "url": "http://www.fawanews.sc/Trabzonspor vs Eyupspor.html"
-    },
-    {
-      "title": "UTA Arad vs Univ Craiova",
-      "category_hint": "Romania Superliga 16:30",
-      "url": "http://www.fawanews.sc/UTA Arad vs Univ Craiova.html"
-    },
-    {
-      "title": "Uruguay U17 vs Haiti U17",
-      "category_hint": "World Cup U17 16:30",
-      "url": "http://www.fawanews.sc/Uruguay U17 vs Haiti U17.html"
-    },
-    {
-      "title": "Vizela vs Feirense",
-      "category_hint": "Portugal Liga 2 15:00",
-      "url": "http://www.fawanews.sc/Vizela vs Feirense.html"
-    },
-    {
-      "title": "Werder Bremen vs Hamburger SV --- CH 2",
-      "category_hint": "German Bundesliga 17:30",
-      "url": "http://www.fawanews.sc/Werder Bremen vs Hamburger SV --- CH 2.html"
-    },
-    {
-      "title": "Werder Bremen vs Hamburger SV",
-      "category_hint": "German Bundesliga 17:30",
-      "url": "http://www.fawanews.sc/Werder Bremen vs Hamburger SV.html"
-    },
-    {
-      "title": "Wisla Plock vs Legia Warsaw --- CH 2",
-      "category_hint": "Poland Ekstraklasa 17:30",
-      "url": "http://www.fawanews.sc/Wisla Plock vs Legia Warsaw --- CH 2.html"
-    },
-    {
-      "title": "Wisla Plock vs Legia Warsaw",
-      "category_hint": "Poland Ekstraklasa 17:30",
-      "url": "http://www.fawanews.sc/Wisla Plock vs Legia Warsaw.html"
+      "title": "Torreense vs Benfica",
+      "category_hint": "Portugal Cup 21:45",
+      "url": "http://www.fawanews.sc/Torreense vs Benfica.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
