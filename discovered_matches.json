@@ -2,77 +2,52 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 23,
+  "candidate_count": 16,
   "candidates": [
     {
-      "title": "Chicago Bulls vs Denver Nuggets --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Chicago Bulls vs Denver Nuggets --- CH 2.html"
+      "title": "Asteras Tripolis vs Aris",
+      "category_hint": "Greece Super League 16:00",
+      "url": "http://www.fawanews.sc/Asteras Tripolis vs Aris.html"
     },
     {
-      "title": "Chicago Bulls vs Denver Nuggets",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Chicago Bulls vs Denver Nuggets.html"
+      "title": "Ch Odesa vs Epitsentr",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/Ch Odesa vs Epitsentr.html"
     },
     {
-      "title": "Dallas Stars vs Pittsburgh Penguins",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/Dallas Stars vs Pittsburgh Penguins.html"
+      "title": "El Gouna vs Zamalek",
+      "category_hint": "Egypt Premier League 16:00",
+      "url": "http://www.fawanews.sc/El Gouna vs Zamalek.html"
     },
     {
-      "title": "Golden State Warriors vs Boston Celtics --- CH 2",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Golden State Warriors vs Boston Celtics --- CH 2.html"
+      "title": "Italy U17 vs Ivory Coast U17",
+      "category_hint": "World Cup U17 15:30",
+      "url": "http://www.fawanews.sc/Italy U17 vs Ivory Coast U17.html"
     },
     {
-      "title": "Golden State Warriors vs Boston Celtics",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Golden State Warriors vs Boston Celtics.html"
+      "title": "LNZ Cherkasy vs Polissya Zhytomyr",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/LNZ Cherkasy vs Polissya Zhytomyr.html"
     },
     {
-      "title": "Instituto vs Huracan --- CH 2",
-      "category_hint": "Argentina Liga Profesional 02:00",
-      "url": "http://www.fawanews.sc/Instituto vs Huracan --- CH 2.html"
+      "title": "Mali U17 vs Belgium U17",
+      "category_hint": "World Cup U17 16:30",
+      "url": "http://www.fawanews.sc/Mali U17 vs Belgium U17.html"
     },
     {
-      "title": "Instituto vs Huracan",
-      "category_hint": "Argentina Liga Profesional 02:00",
-      "url": "http://www.fawanews.sc/Instituto vs Huracan.html"
+      "title": "Morocco U17 vs China U17",
+      "category_hint": "World Cup U17 16:00",
+      "url": "http://www.fawanews.sc/Morocco U17 vs China U17.html"
     },
     {
-      "title": "NFL San Francisco 49ers vs Minnesota Vikings",
-      "category_hint": "NFL American Football 02:20",
-      "url": "http://www.fawanews.sc/NFL_San Francisco 49ers vs Minnesota Vikings.html"
+      "title": "Neftchi Fargona vs Al Hilal",
+      "category_hint": "AFC Champions League 14:45",
+      "url": "http://www.fawanews.sc/Neftchi Fargona vs Al Hilal.html"
     },
     {
-      "title": "NFL San Francisco 49ers vs Minnesota Vikings 2",
-      "category_hint": "NFL American Football 02:20",
-      "url": "http://www.fawanews.sc/NFL_San Francisco 49ers vs Minnesota Vikings_2.html"
-    },
-    {
-      "title": "New York Knicks vs Indiana Pacers --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/New York Knicks vs Indiana Pacers --- CH 2.html"
-    },
-    {
-      "title": "New York Knicks vs Indiana Pacers",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/New York Knicks vs Indiana Pacers.html"
-    },
-    {
-      "title": "New Zealand vs India",
-      "category_hint": "Cricket 23:00",
-      "url": "http://www.fawanews.sc/New Zealand vs India.html"
-    },
-    {
-      "title": "Queretaro vs Necaxa --- CH 2",
-      "category_hint": "Mexico Liga MX 02:10",
-      "url": "http://www.fawanews.sc/Queretaro vs Necaxa --- CH 2.html"
-    },
-    {
-      "title": "Queretaro vs Necaxa",
-      "category_hint": "Mexico Liga MX 02:10",
-      "url": "http://www.fawanews.sc/Queretaro vs Necaxa.html"
+      "title": "Senegal U17 vs Cuba U17",
+      "category_hint": "World Cup U17 14:30",
+      "url": "http://www.fawanews.sc/Senegal U17 vs Cuba U17.html"
     },
     {
       "title": "South Africa vs Bangladesh",
@@ -80,44 +55,34 @@
       "url": "http://www.fawanews.sc/South Africa vs Bangladesh.html"
     },
     {
-      "title": "St Louis Blues vs Edmonton Oilers",
-      "category_hint": "NHL Hockey 01:00",
-      "url": "http://www.fawanews.sc/St Louis Blues vs Edmonton Oilers.html"
+      "title": "Spain U17 vs Fiji U17",
+      "category_hint": "World Cup U17 13:30",
+      "url": "http://www.fawanews.sc/Spain U17 vs Fiji U17.html"
     },
     {
-      "title": "Utah Jazz vs Dallas Mavericks --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Utah Jazz vs Dallas Mavericks --- CH 2.html"
+      "title": "Steaua Bucuresti vs Chindia Targoviste",
+      "category_hint": "Romania Liga 2 16:00",
+      "url": "http://www.fawanews.sc/Steaua Bucuresti vs Chindia Targoviste.html"
     },
     {
-      "title": "Utah Jazz vs Dallas Mavericks",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Utah Jazz vs Dallas Mavericks.html"
+      "title": "Tajikistan U17 vs Croatia U17",
+      "category_hint": "World Cup U17 13:30",
+      "url": "http://www.fawanews.sc/Tajikistan U17 vs Croatia U17.html"
     },
     {
-      "title": "Vancouver Canucks vs Chicago Blackhawks",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/Vancouver Canucks vs Chicago Blackhawks.html"
+      "title": "Uzbekistan U17 vs Jamaica U17",
+      "category_hint": "World Cup U17 14:00",
+      "url": "http://www.fawanews.sc/Uzbekistan U17 vs Jamaica U17.html"
     },
     {
-      "title": "Vancouver Whitecaps vs Real Salt Lake --- CH 2",
-      "category_hint": "MLS League 02:30",
-      "url": "http://www.fawanews.sc/Vancouver Whitecaps vs Real Salt Lake --- CH 2.html"
+      "title": "Vietnam U17 vs New Zealand U17",
+      "category_hint": "World Cup U17 16:30",
+      "url": "http://www.fawanews.sc/Vietnam U17 vs New Zealand U17.html"
     },
     {
-      "title": "Vancouver Whitecaps vs Real Salt Lake",
-      "category_hint": "MLS League 02:30",
-      "url": "http://www.fawanews.sc/Vancouver Whitecaps vs Real Salt Lake.html"
-    },
-    {
-      "title": "Washington Wizards vs Orlando Magic --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Washington Wizards vs Orlando Magic --- CH 2.html"
-    },
-    {
-      "title": "Washington Wizards vs Orlando Magic",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Washington Wizards vs Orlando Magic.html"
+      "title": "Wadi Degla vs Al Ittihad",
+      "category_hint": "Egypt Premier League 16:00",
+      "url": "http://www.fawanews.sc/Wadi Degla vs Al Ittihad.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
