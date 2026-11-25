@@ -2,102 +2,77 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 19,
+  "candidate_count": 14,
   "candidates": [
     {
-      "title": "America De Cali vs Dep Cali",
-      "category_hint": "Colombia Primera A 02:30",
-      "url": "http://www.fawanews.sc/America De Cali vs Dep Cali.html"
+      "title": "Akhmat Grozny vs Krasnodar",
+      "category_hint": "Russia Cup 16:00",
+      "url": "http://www.fawanews.sc/Akhmat Grozny vs Krasnodar.html"
     },
     {
-      "title": "Arizona vs Providence",
-      "category_hint": "NCAA Basketball 23:00",
-      "url": "http://www.fawanews.sc/Arizona vs Providence.html"
+      "title": "Atletico Madrid U19 vs Viking U19",
+      "category_hint": "UEFA Youth League 16:00",
+      "url": "http://www.fawanews.sc/Atletico Madrid U19 vs Viking U19.html"
     },
     {
-      "title": "Coastal Carolina vs Campbell",
-      "category_hint": "NCAA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Coastal Carolina vs Campbell.html"
+      "title": "Australia U17 vs Mozambique U17",
+      "category_hint": "World Cup U17 16:30",
+      "url": "http://www.fawanews.sc/Australia U17 vs Mozambique U17.html"
     },
     {
-      "title": "Creighton vs Michigan",
-      "category_hint": "NCAA Basketball 23:30",
-      "url": "http://www.fawanews.sc/Creighton vs Michigan.html"
+      "title": "Club Brugge U19 vs Liverpool U19",
+      "category_hint": "UEFA Youth League 15:00",
+      "url": "http://www.fawanews.sc/Club Brugge U19 vs Liverpool U19.html"
     },
     {
-      "title": "Denver Nuggets vs Dallas Mavericks --- CH 2",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Denver Nuggets vs Dallas Mavericks --- CH 2.html"
+      "title": "Denmark U17 vs Argentina U17",
+      "category_hint": "World Cup U17 16:30",
+      "url": "http://www.fawanews.sc/Denmark U17 vs Argentina U17.html"
     },
     {
-      "title": "Denver Nuggets vs Dallas Mavericks",
-      "category_hint": "NBA Basketball 04:00",
-      "url": "http://www.fawanews.sc/Denver Nuggets vs Dallas Mavericks.html"
+      "title": "Dynamo Makhachkala vs Baltika",
+      "category_hint": "Russia Cup 16:00",
+      "url": "http://www.fawanews.sc/Dynamo Makhachkala vs Baltika.html"
     },
     {
-      "title": "Eastern Michigan vs Kent State",
-      "category_hint": "NCAA American Football 01:00",
-      "url": "http://www.fawanews.sc/Eastern Michigan vs Kent State.html"
+      "title": "El Gaish vs Modern Sport",
+      "category_hint": "Egypt Premier League 16:00",
+      "url": "http://www.fawanews.sc/El Gaish vs Modern Sport.html"
     },
     {
-      "title": "Edmonton Oilers vs Vegas Golden Knights",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/Edmonton Oilers vs Vegas Golden Knights.html"
+      "title": "Greece U17 vs Qatar U17",
+      "category_hint": "World Cup U17 15:30",
+      "url": "http://www.fawanews.sc/Greece U17 vs Qatar U17.html"
     },
     {
-      "title": "Georgia Tech vs Samford",
-      "category_hint": "NCAA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Georgia Tech vs Samford.html"
+      "title": "Haiti U17 vs Saudi Arabia U17",
+      "category_hint": "World Cup U17 14:30",
+      "url": "http://www.fawanews.sc/Haiti U17 vs Saudi Arabia U17.html"
     },
     {
-      "title": "Iowa State Cyclones vs San Diego State",
-      "category_hint": "NCAA Basketball 23:30",
-      "url": "http://www.fawanews.sc/Iowa State Cyclones vs San Diego State.html"
+      "title": "Nasaf Qarshi vs Al Khalidiyah",
+      "category_hint": "AFC Champions League II 14:45",
+      "url": "http://www.fawanews.sc/Nasaf Qarshi vs Al Khalidiyah.html"
     },
     {
-      "title": "Millonarios vs Bucaramanga",
-      "category_hint": "Colombia Primera A 00:20",
-      "url": "http://www.fawanews.sc/Millonarios vs Bucaramanga.html"
+      "title": "PSG U19 vs AS Roma U19",
+      "category_hint": "UEFA Youth League 16:00",
+      "url": "http://www.fawanews.sc/PSG U19 vs AS Roma U19.html"
     },
     {
-      "title": "Old Dominion vs Hampton",
-      "category_hint": "NCAA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Old Dominion vs Hampton.html"
+      "title": "Panama U17 vs Egypt U17",
+      "category_hint": "World Cup U17 15:30",
+      "url": "http://www.fawanews.sc/Panama U17 vs Egypt U17.html"
     },
     {
-      "title": "Orlando Magic vs Detroit Pistons --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Orlando Magic vs Detroit Pistons --- CH 2.html"
+      "title": "Sporting CP U19 vs Manchester Utd U19",
+      "category_hint": "UEFA Youth League 14:00",
+      "url": "http://www.fawanews.sc/Sporting CP U19 vs Manchester Utd U19.html"
     },
     {
-      "title": "Orlando Magic vs Detroit Pistons",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/Orlando Magic vs Detroit Pistons.html"
-    },
-    {
-      "title": "Purdue University vs DePaul Blue Demons",
-      "category_hint": "NCAA Basketball 00:00",
-      "url": "http://www.fawanews.sc/Purdue University vs DePaul Blue Demons.html"
-    },
-    {
-      "title": "San Jose Earthquakes vs Houston Dynamo",
-      "category_hint": "MLS League 04:00",
-      "url": "http://www.fawanews.sc/San Jose Earthquakes vs Houston Dynamo.html"
-    },
-    {
-      "title": "South Florida vs Stetson",
-      "category_hint": "NCAA Basketball 01:00",
-      "url": "http://www.fawanews.sc/South Florida vs Stetson.html"
-    },
-    {
-      "title": "Washington Wizards vs Boston Celtics",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Washington Wizards vs Boston Celtics.html"
-    },
-    {
-      "title": "Western Michigan vs Miami OH",
-      "category_hint": "NCAA American Football 01:00",
-      "url": "http://www.fawanews.sc/Western Michigan vs Miami OH.html"
+      "title": "Uruguay U17 vs France U17",
+      "category_hint": "World Cup U17 14:30",
+      "url": "http://www.fawanews.sc/Uruguay U17 vs France U17.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
