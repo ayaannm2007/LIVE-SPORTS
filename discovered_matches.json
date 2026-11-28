@@ -2,287 +2,107 @@
   "source_url": "http://www.fawanews.sc/",
   "http_status": 200,
   "page_title": "FawaNews - Your Home of Sport",
-  "candidate_count": 56,
+  "candidate_count": 20,
   "candidates": [
     {
-      "title": "Anaheim Ducks vs Los Angeles Kings",
-      "category_hint": "NHL Hockey 22:00",
-      "url": "http://www.fawanews.sc/Anaheim Ducks vs Los Angeles Kings.html"
+      "title": "AFS vs Leixoes",
+      "category_hint": "Portugal Liga 2 12:00",
+      "url": "http://www.fawanews.sc/AFS vs Leixoes.html"
     },
     {
-      "title": "Boston Celtics vs Atlanta Hawks --- CH 2",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Boston Celtics vs Atlanta Hawks --- CH 2.html"
+      "title": "Bac Ninh vs Da Nang",
+      "category_hint": "Vietnam V League 12:00",
+      "url": "http://www.fawanews.sc/Bac Ninh vs Da Nang.html"
     },
     {
-      "title": "Boston Celtics vs Atlanta Hawks",
-      "category_hint": "NBA Basketball 02:00",
-      "url": "http://www.fawanews.sc/Boston Celtics vs Atlanta Hawks.html"
+      "title": "Bahrain vs Kazakhstan",
+      "category_hint": "Basketball World Cup 09:00",
+      "url": "http://www.fawanews.sc/Bahrain vs Kazakhstan.html"
     },
     {
-      "title": "Brazil vs USA --- CH 2",
-      "category_hint": "Basketball World Cup 00:10",
-      "url": "http://www.fawanews.sc/Brazil vs USA --- CH 2.html"
+      "title": "Balestier Khalsa vs Hougang",
+      "category_hint": "Singapore Premier League 12:30",
+      "url": "http://www.fawanews.sc/Balestier Khalsa vs Hougang.html"
     },
     {
-      "title": "Brazil vs USA",
-      "category_hint": "Basketball World Cup 00:10",
-      "url": "http://www.fawanews.sc/Brazil vs USA.html"
+      "title": "Bandirmaspor vs Batman Petrolspor",
+      "category_hint": "Turkey Lig 1 11:30",
+      "url": "http://www.fawanews.sc/Bandirmaspor vs Batman Petrolspor.html"
     },
     {
-      "title": "Buffalo Sabres vs Pittsburgh Penguins",
-      "category_hint": "NHL Hockey 01:30",
-      "url": "http://www.fawanews.sc/Buffalo Sabres vs Pittsburgh Penguins.html"
+      "title": "Central Coast Mariners vs Auckland FC",
+      "category_hint": "Australia A-League 09:40",
+      "url": "http://www.fawanews.sc/Central Coast Mariners vs Auckland FC.html"
     },
     {
-      "title": "Chicago Blackhawks vs New York Rangers",
-      "category_hint": "NHL Hockey 23:30",
-      "url": "http://www.fawanews.sc/Chicago Blackhawks vs New York Rangers.html"
+      "title": "Dynamo Kyiv vs Ch Odesa",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/Dynamo Kyiv vs Ch Odesa.html"
     },
     {
-      "title": "Chile vs Mexico",
-      "category_hint": "Basketball World Cup 23:40",
-      "url": "http://www.fawanews.sc/Chile vs Mexico.html"
+      "title": "Ho Chi Minh vs Gia Lai",
+      "category_hint": "Vietnam V League 12:00",
+      "url": "http://www.fawanews.sc/Ho Chi Minh vs Gia Lai.html"
     },
     {
-      "title": "Colombia vs Dominican Republic",
-      "category_hint": "Basketball World Cup 02:10",
-      "url": "http://www.fawanews.sc/Colombia vs Dominican Republic.html"
+      "title": "Lokomotiv Plovdiv vs Spartak Varna",
+      "category_hint": "Bulgaria efbet League 11:45",
+      "url": "http://www.fawanews.sc/Lokomotiv Plovdiv vs Spartak Varna.html"
     },
     {
-      "title": "Columbus Blue Jackets vs Detroit Red Wings",
-      "category_hint": "NHL Hockey 21:00",
-      "url": "http://www.fawanews.sc/Columbus Blue Jackets vs Detroit Red Wings.html"
+      "title": "Neftchi Fargona vs Dinamo Samarkand",
+      "category_hint": "Uzbekistan Super League 12:15",
+      "url": "http://www.fawanews.sc/Neftchi Fargona vs Dinamo Samarkand.html"
     },
     {
-      "title": "Columbus Crew vs Inter Miami --- CH 2",
-      "category_hint": "MLS League 02:00",
-      "url": "http://www.fawanews.sc/Columbus Crew vs Inter Miami --- CH 2.html"
+      "title": "Negeri Sembilan vs Terengganu",
+      "category_hint": "Malaysia Super League 09:45",
+      "url": "http://www.fawanews.sc/Negeri Sembilan vs Terengganu.html"
     },
     {
-      "title": "Columbus Crew vs Inter Miami",
-      "category_hint": "MLS League 02:00",
-      "url": "http://www.fawanews.sc/Columbus Crew vs Inter Miami.html"
+      "title": "Obolon vs FK Zorya Luhansk",
+      "category_hint": "Ukraine Premier League 12:00",
+      "url": "http://www.fawanews.sc/Obolon vs FK Zorya Luhansk.html"
     },
     {
-      "title": "Dep Cali vs Bucaramanga",
-      "category_hint": "Colombia Primera A 00:35",
-      "url": "http://www.fawanews.sc/Dep Cali vs Bucaramanga.html"
+      "title": "Pattani vs Chiangrai Utd",
+      "category_hint": "Thailand Thai league 1 12:00",
+      "url": "http://www.fawanews.sc/Pattani vs Chiangrai Utd.html"
     },
     {
-      "title": "Dep Cuenca vs Manta",
-      "category_hint": "Ecuador Liga Pro 22:30",
-      "url": "http://www.fawanews.sc/Dep Cuenca vs Manta.html"
+      "title": "Perth Lynx W vs Adelaide Lightning W",
+      "category_hint": "Basketball WNBL 09:00",
+      "url": "http://www.fawanews.sc/Perth Lynx W vs Adelaide Lightning W.html"
     },
     {
-      "title": "Detroit Pistons vs Milwaukee Bucks --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Detroit Pistons vs Milwaukee Bucks --- CH 2.html"
+      "title": "Politehnica Timisoara vs FC Bihor",
+      "category_hint": "Romania Liga 2 11:00",
+      "url": "http://www.fawanews.sc/Politehnica Timisoara vs FC Bihor.html"
     },
     {
-      "title": "Detroit Pistons vs Milwaukee Bucks",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Detroit Pistons vs Milwaukee Bucks.html"
+      "title": "Qizilqum vs Pakhtakor",
+      "category_hint": "Uzbekistan Super League 12:15",
+      "url": "http://www.fawanews.sc/Qizilqum vs Pakhtakor.html"
     },
     {
-      "title": "Edmonton Oilers vs Seattle Kraken",
-      "category_hint": "NHL Hockey 02:00",
-      "url": "http://www.fawanews.sc/Edmonton Oilers vs Seattle Kraken.html"
+      "title": "Rubin Kazan vs Akron Togliatti",
+      "category_hint": "Russia Premier League 12:00",
+      "url": "http://www.fawanews.sc/Rubin Kazan vs Akron Togliatti.html"
     },
     {
-      "title": "Florida State vs Florida Gators",
-      "category_hint": "NCAA American Football 21:30",
-      "url": "http://www.fawanews.sc/Florida State vs Florida Gators.html"
+      "title": "Sabah vs Selangor",
+      "category_hint": "Malaysia Super League 10:00",
+      "url": "http://www.fawanews.sc/Sabah vs Selangor.html"
     },
     {
-      "title": "Fluminense vs Cruzeiro --- CH 2",
-      "category_hint": "Brazil Serie A 00:00",
-      "url": "http://www.fawanews.sc/Fluminense vs Cruzeiro --- CH 2.html"
+      "title": "Sivasspor vs Bodrumspor",
+      "category_hint": "Turkey Lig 1 11:30",
+      "url": "http://www.fawanews.sc/Sivasspor vs Bodrumspor.html"
     },
     {
-      "title": "Fluminense vs Cruzeiro",
-      "category_hint": "Brazil Serie A 00:00",
-      "url": "http://www.fawanews.sc/Fluminense vs Cruzeiro.html"
-    },
-    {
-      "title": "Independiente vs Real Oruro",
-      "category_hint": "Bolivia Division Profesional 00:00",
-      "url": "http://www.fawanews.sc/Independiente vs Real Oruro.html"
-    },
-    {
-      "title": "Indiana Pacers vs Philadelphia 76ers --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs Philadelphia 76ers --- CH 2.html"
-    },
-    {
-      "title": "Indiana Pacers vs Philadelphia 76ers",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Indiana Pacers vs Philadelphia 76ers.html"
-    },
-    {
-      "title": "Jamaica W vs Costa Rica W",
-      "category_hint": "CONCACAF Championship Women 23:00",
-      "url": "http://www.fawanews.sc/Jamaica W vs Costa Rica W.html"
-    },
-    {
-      "title": "Liverpool M vs Racing Montevideo",
-      "category_hint": "Uruguay Liga AUF 00:30",
-      "url": "http://www.fawanews.sc/Liverpool M vs Racing Montevideo.html"
-    },
-    {
-      "title": "Los Angeles Clippers vs New Orleans Pelicans",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/Los Angeles Clippers vs New Orleans Pelicans.html"
-    },
-    {
-      "title": "Memphis vs Temple",
-      "category_hint": "NCAA American Football 21:30",
-      "url": "http://www.fawanews.sc/Memphis vs Temple.html"
-    },
-    {
-      "title": "Millonarios vs America De Cali",
-      "category_hint": "Colombia Primera A 02:40",
-      "url": "http://www.fawanews.sc/Millonarios vs America De Cali.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Memphis Grizzlies --- CH 2",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Memphis Grizzlies --- CH 2.html"
-    },
-    {
-      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
-      "category_hint": "NBA Basketball 02:30",
-      "url": "http://www.fawanews.sc/Minnesota Timberwolves vs Memphis Grizzlies.html"
-    },
-    {
-      "title": "Minnesota Wild vs Colorado Avalanche",
-      "category_hint": "NHL Hockey 22:00",
-      "url": "http://www.fawanews.sc/Minnesota Wild vs Colorado Avalanche.html"
-    },
-    {
-      "title": "Nacional Asuncion vs Rubio Nu",
-      "category_hint": "Paraguay Copa 21:30",
-      "url": "http://www.fawanews.sc/Nacional Asuncion vs Rubio Nu.html"
-    },
-    {
-      "title": "New Mexico vs Air Force",
-      "category_hint": "NCAA American Football 22:30",
-      "url": "http://www.fawanews.sc/New Mexico vs Air Force.html"
-    },
-    {
-      "title": "New York Islanders vs Winnipeg Jets",
-      "category_hint": "NHL Hockey 01:30",
-      "url": "http://www.fawanews.sc/New York Islanders vs Winnipeg Jets.html"
-    },
-    {
-      "title": "New York Knicks vs Miami Heat",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/New York Knicks vs Miami Heat.html"
-    },
-    {
-      "title": "New York Knicks vs Miami eat --- CH 2",
-      "category_hint": "NBA Basketball 01:00",
-      "url": "http://www.fawanews.sc/New York Knicks vs Miami eat --- CH 2.html"
-    },
-    {
-      "title": "New Zealand vs India",
-      "category_hint": "Cricket 23:00",
-      "url": "http://www.fawanews.sc/New Zealand vs India.html"
-    },
-    {
-      "title": "Philadelphia Flyers vs Vancouver Canucks",
-      "category_hint": "NHL Hockey 21:00",
-      "url": "http://www.fawanews.sc/Philadelphia Flyers vs Vancouver Canucks.html"
-    },
-    {
-      "title": "Phoenix Suns vs Dallas Mavericks",
-      "category_hint": "NBA Basketball 03:00",
-      "url": "http://www.fawanews.sc/Phoenix Suns vs Dallas Mavericks.html"
-    },
-    {
-      "title": "Portland Trail Blazers vs Golden State Warriors",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/Portland Trail Blazers vs Golden State Warriors.html"
-    },
-    {
-      "title": "Real Salt Lake vs Vancouver Whitecaps",
-      "category_hint": "MLS League 04:00",
-      "url": "http://www.fawanews.sc/Real Salt Lake vs Vancouver Whitecaps.html"
-    },
-    {
-      "title": "San Antonio Spurs vs Los Angeles Lakers",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/San Antonio Spurs vs Los Angeles Lakers.html"
-    },
-    {
-      "title": "San Jose Sharks vs Vegas Golden Knights",
-      "category_hint": "NHL Hockey 22:00",
-      "url": "http://www.fawanews.sc/San Jose Sharks vs Vegas Golden Knights.html"
-    },
-    {
-      "title": "San Jose State vs North Dakota State",
-      "category_hint": "NCAA American Football 21:30",
-      "url": "http://www.fawanews.sc/San Jose State vs North Dakota State.html"
-    },
-    {
-      "title": "South Alabama vs Appalachian State",
-      "category_hint": "NCAA American Football 21:00",
-      "url": "http://www.fawanews.sc/South Alabama vs Appalachian State.html"
-    },
-    {
-      "title": "Sp Luqueno vs Olimpia Asuncion",
-      "category_hint": "Paraguay Copa de Primera 00:00",
-      "url": "http://www.fawanews.sc/Sp Luqueno vs Olimpia Asuncion.html"
-    },
-    {
-      "title": "Tampa Bay Lightning vs Ottawa Senators",
-      "category_hint": "NHL Hockey 21:00",
-      "url": "http://www.fawanews.sc/Tampa Bay Lightning vs Ottawa Senators.html"
-    },
-    {
-      "title": "Texas A-M vs Texas",
-      "category_hint": "NCAA American Football 01:30",
-      "url": "http://www.fawanews.sc/Texas A-M vs Texas.html"
-    },
-    {
-      "title": "Toronto Raptors vs Brooklyn Nets --- CH 2",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Toronto Raptors vs Brooklyn Nets --- CH 2.html"
-    },
-    {
-      "title": "Toronto Raptors vs Brooklyn Nets",
-      "category_hint": "NBA Basketball 01:30",
-      "url": "http://www.fawanews.sc/Toronto Raptors vs Brooklyn Nets.html"
-    },
-    {
-      "title": "USA W vs El Salvador W",
-      "category_hint": "CONCACAF Championship Women 02:30",
-      "url": "http://www.fawanews.sc/USA W vs El Salvador W.html"
-    },
-    {
-      "title": "Utah Jazz vs Denver Nuggets",
-      "category_hint": "NBA Basketball 03:30",
-      "url": "http://www.fawanews.sc/Utah Jazz vs Denver Nuggets.html"
-    },
-    {
-      "title": "Utah vs West Virginia",
-      "category_hint": "NCAA American Football 03:00",
-      "url": "http://www.fawanews.sc/Utah vs West Virginia.html"
-    },
-    {
-      "title": "Vila Nova FC vs Atletico GO",
-      "category_hint": "Brazil Serie B 00:00",
-      "url": "http://www.fawanews.sc/Vila Nova FC vs Atletico GO.html"
-    },
-    {
-      "title": "Washington Capitals vs Florida Panthers",
-      "category_hint": "NHL Hockey 21:00",
-      "url": "http://www.fawanews.sc/Washington Capitals vs Florida Panthers.html"
-    },
-    {
-      "title": "Wisconsin vs Minnesota",
-      "category_hint": "NCAA American Football 01:30",
-      "url": "http://www.fawanews.sc/Wisconsin vs Minnesota.html"
+      "title": "Sydney Sixers W vs Sydney Thunder W",
+      "category_hint": "Cricket WBBL 09:05",
+      "url": "http://www.fawanews.sc/Sydney Sixers W vs Sydney Thunder W.html"
     }
   ],
   "note": "Candidate links only; verify titles and permissions before use."
